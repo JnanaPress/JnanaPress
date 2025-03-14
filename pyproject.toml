@@ -1,0 +1,11 @@
+[project]
+name = "jnanapress"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "marker-pdf[full]>=1.6.1",
+    "mistralai>=1.5.1",
+    "streamlit>=1.43.2",
+]
