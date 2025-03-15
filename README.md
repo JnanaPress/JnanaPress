@@ -1,3 +1,14 @@
+# JnanaPress
+
+## Dependencies
+
+- brew install qpdf
+
+## Processing
+
+- `qpdf --split-pages book.pdf page-%d.pdf`
+- `uv run marker_single --output_format markdown ./page-133.pdf --output_dir .`
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
