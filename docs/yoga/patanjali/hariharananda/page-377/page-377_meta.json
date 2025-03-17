@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SUPKRftOKMAL POWERS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          204.095458984375,
+          66.59031249955297
+        ],
+        [
+          377.1044921875,
+          66.59031249955297
+        ],
+        [
+          377.1044921875,
+          79.64841796830297
+        ],
+        [
+          204.095458984375,
+          79.64841796830297
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          735
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-377"
+}

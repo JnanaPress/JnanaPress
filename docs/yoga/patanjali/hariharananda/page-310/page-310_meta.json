@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "?oa VOCA PHILOSOPHY OF FATAf^jALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          65.05000305175781,
+          65.15085937455297
+        ],
+        [
+          434.33837890625,
+          65.15085937455297
+        ],
+        [
+          434.33837890625,
+          82.89329101517797
+        ],
+        [
+          65.05000305175781,
+          82.89329101517797
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          786
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-310"
+}

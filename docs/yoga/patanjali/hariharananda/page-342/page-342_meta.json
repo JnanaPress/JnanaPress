@@ -1,0 +1,103 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHILOSOPHY OF PATA\u00d1JALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          182.8463476070529,
+          64.48085485307213
+        ],
+        [
+          425.64231738035267,
+          64.48085485307213
+        ],
+        [
+          425.64231738035267,
+          77.8582763671875
+        ],
+        [
+          182.8463476070529,
+          77.8582763671875
+        ]
+      ]
+    },
+    {
+      "title": "\u0938\u0902\u0938\u094d\u0915\u093e\u0930\u0938\u093e\u0927\u093e\u0930\u0915\u0930\u0923\u093e\u0924\u094d\u092a\u0942\u0930\u094d\u0935\u091c\u093e\u0924\u093f\u091c\u094d\u091e\u093e\u0928\u092e\u094d \u0965 \u0967\u096e \u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          90.67380352644837,
+          93.72217275155832
+        ],
+        [
+          358.80126953125,
+          91.47284060552093
+        ],
+        [
+          358.80126953125,
+          109.875244140625
+        ],
+        [
+          90.67380352644837,
+          109.875244140625
+        ]
+      ]
+    },
+    {
+      "title": ". By The Realisation Of Latent Impressions Knowledge Of\nPrevious Birth Is Acquired (1). 18.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.7015113350126,
+          511.44921875
+        ],
+        [
+          519.75341796875,
+          506.8495102404274
+        ],
+        [
+          519.75341796875,
+          540.228515625
+        ],
+        [
+          58.45088161209068,
+          543.5886019590382
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          32
+        ],
+        [
+          "Span",
+          32
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-342"
+}

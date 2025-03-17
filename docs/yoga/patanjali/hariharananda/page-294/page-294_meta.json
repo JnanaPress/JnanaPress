@@ -1,0 +1,103 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHILOSOPHY OF PATANJALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          176.85138539042822,
+          72.72840605520926
+        ],
+        [
+          423.5888671875,
+          72.72840605520926
+        ],
+        [
+          423.5888671875,
+          85.5670166015625
+        ],
+        [
+          176.85138539042822,
+          85.5670166015625
+        ]
+      ]
+    },
+    {
+      "title": "\u092d\u093e\u0937\u094d\u092f\u092e-\u0915\u093f\u0902\u091a-",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          84.67884130982368,
+          533.0917186108637
+        ],
+        [
+          194.217529296875,
+          533.0917186108637
+        ],
+        [
+          194.217529296875,
+          546.806640625
+        ],
+        [
+          84.67884130982368,
+          546.806640625
+        ]
+      ]
+    },
+    {
+      "title": "The Mind Acquires Fitness For Dharana (1). 53.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          113.90428211586902,
+          624.5645592163846
+        ],
+        [
+          484.0185546875,
+          624.5645592163846
+        ],
+        [
+          484.0185546875,
+          637.6669921875
+        ],
+        [
+          113.90428211586902,
+          637.6669921875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          37
+        ],
+        [
+          "Span",
+          37
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-294"
+}

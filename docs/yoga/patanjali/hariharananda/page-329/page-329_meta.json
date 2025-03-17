@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SUPERNORMAL POWERS 307",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          214.990234375,
+          70.43949462845922
+        ],
+        [
+          540.1087646484375,
+          70.43949462845922
+        ],
+        [
+          540.1087646484375,
+          83.76224853470922
+        ],
+        [
+          214.990234375,
+          83.76224853470922
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          771
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-329"
+}

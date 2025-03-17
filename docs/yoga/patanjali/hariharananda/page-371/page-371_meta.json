@@ -1,0 +1,107 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SL'PKHWOHMAL POWERS MV",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          217.314453125,
+          75.35404540970922
+        ],
+        [
+          542.9049682617188,
+          75.35404540970922
+        ],
+        [
+          542.9049682617188,
+          89.0616455078125
+        ],
+        [
+          217.314453125,
+          89.0616455078125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.735107421875,
+          326.439453125
+        ],
+        [
+          490.41015625,
+          326.439453125
+        ],
+        [
+          490.41015625,
+          339.595703125
+        ],
+        [
+          104.735107421875,
+          339.595703125
+        ]
+      ]
+    },
+    {
+      "title": "By Practicing Samyadu On The Relationship Between\nThe Body And Akssa And By Concentrating On The\nLightness Of Cotton Wool Passage Through The\nSky Can Be Secured. 42.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          94.566650390625,
+          448.8447375483811
+        ],
+        [
+          514.1648559570312,
+          448.8447375483811
+        ],
+        [
+          514.1648559570312,
+          517.1360278315842
+        ],
+        [
+          94.566650390625,
+          517.1360278315842
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          581
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-371"
+}

@@ -1,0 +1,9 @@
+## **SUPERNOKN4AF, POWERS** 315
+
+CENTRAL LIBRARY
+
+together to the intellect and shape as one word\* to indicate something for which the word, thus formed, is the conventional name. This word is in every case the object of a single mental process requiring a single effort, is undivided, has no sequence and is different from the individual alphabets, It is understood by the intellect by aggregating the latent impressions of the alphabets with those pronounced before or manifested by the exciting cause which is the human intellect (G). **If** a man were to convey information to another he must express himself by these **'alphabetical** sounds which, on being heard by another and being sanctioned by eternal usage, appear as something real (H), This sort of division of words (I) and assignment of different meanings grow out of convention and they come to be associated with particular things.
+
+Convention is the memory of the identity of the word and the thing identified (J)\* This word is the object, and the object is the \vord— this sort of identity in memory gives rise to the convention. Thus the word, the object and the conception of the object are connected with one another. Thus the word 'cow', the object 'pow' and the conception oT cow get identified with one another. He who knows the distinction among these three is all-knowing, *i.e+* he knows the meaning of all uttered words.
+
+Every word has in itself the **power** of expressing a complete idea (K). When the word 'Erksa' (tree) is mentioned, it implies that the tree exists, inasmuch as an object signified by a word can never fail to exist. Similarly no action is possible without an actor. When the word ^Pachati1 (cooks) is mentioned it implies the existence of all the factors related to cooking. It is only for

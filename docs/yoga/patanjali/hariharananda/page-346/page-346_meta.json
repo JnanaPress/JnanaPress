@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "By Practising Samyama On The Appearance Of The Body,\nWhen Its Perceptibility Is Stopped, The Appearance\nGetting Out Of The Sphere Of Perception On The\nEye, Disappearance From View Is Effected. 21.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          74.66552734375,
+          265.42119323241315
+        ],
+        [
+          532.53662109375,
+          268.05859375
+        ],
+        [
+          532.53662109375,
+          328.4951171875
+        ],
+        [
+          74.66552734375,
+          328.4951171875
+        ]
+      ]
+    },
+    {
+      "title": "\u0938\u094b\u092a\u0915\u094d\u0930\u092e\u0902 \u0928\u093f\u0930\u0941\u092a\u0915\u094d\u0930\u092e\u0902 \u091a \u0915\u093e\u0930\u094d\u092e \u0924\u0924\u094d\u0938\u0902\u092f\u092e\u093e\u0926\u092a\u0930\u093e\u0928\u094d\u0924\u0928\u094d\u0924\u094d\u0930\u093e\u0928\u0938\u0930\u093f\u0937\u094d\u091f\u0947\u092d\u094d\u092f\u094b \u0935\u093e \u0965 \u0968\u0968 \u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          100.667724609375,
+          626.813891362422
+        ],
+        [
+          529.3408203125,
+          628.3134461264469
+        ],
+        [
+          529.3408203125,
+          645.478515625
+        ],
+        [
+          100.667724609375,
+          645.478515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          32
+        ],
+        [
+          "Span",
+          32
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-346"
+}

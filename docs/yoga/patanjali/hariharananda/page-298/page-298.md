@@ -1,0 +1,5 @@
+## **276 YOGA PHILOSOPHY OF FATAftjALl**
+
+ables and are obstacles to spiritual attainment\* If sinful objects are enjoyed "disinterestedly" one will go to hell "disinterestedly"'. One who lias realised the burning effect of fire will never desire to touch fire, either disinterestedly or interestedly, either out of one's OWn free will or under the influence of another. Therefore, ignorance of spiritual truth is the cause of engaging the senses willingly towards objects. Hence these forms of subjugation of the senses are all defective.
+
+What the great Yogin Jaigljavya says is the one suitable to the Yogins, If, whenever desired, the function of the senses C:iT] be stopped along with suspension of the activities of the mind, that is the best form of sense-subjugation. Therefore, sense-control, due to Pratyahilra, constitutes the best form of victory over the senses.

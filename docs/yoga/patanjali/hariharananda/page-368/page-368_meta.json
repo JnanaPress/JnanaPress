@@ -1,0 +1,107 @@
+{
+  "table_of_contents": [
+    {
+      "title": "MG YOC7A PHILOSOPHY OF FATARjALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.04899978637695,
+          70.44498779252172
+        ],
+        [
+          429.68994140625,
+          70.44498779252172
+        ],
+        [
+          429.68994140625,
+          86.40470458939672
+        ],
+        [
+          59.04899978637695,
+          86.40470458939672
+        ]
+      ]
+    },
+    {
+      "title": "By Conquering The Vital Force Called UdinA The Chaney\nOf Immersion In Water Or Mud, Or Entanglement\nIn the Thoins la Avoided And Exit From The\nBody At Will Is Assured. 39.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          72.0,
+          98.15098144486547
+        ],
+        [
+          526.435546875,
+          98.15098144486547
+        ],
+        [
+          526.435546875,
+          167.38853027299047
+        ],
+        [
+          72.0,
+          167.38853027299047
+        ]
+      ]
+    },
+    {
+      "title": "ll tia II",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.88037109375,
+          623.7785906977952
+        ],
+        [
+          282.10205078125,
+          623.7785906977952
+        ],
+        [
+          282.10205078125,
+          642.189453125
+        ],
+        [
+          104.88037109375,
+          642.189453125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          630
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-368"
+}

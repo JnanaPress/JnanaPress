@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHILOSOPHY OF PATARjALJ",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          191.0500030517578,
+          71.86326171830297
+        ],
+        [
+          432.3046875,
+          71.86326171830297
+        ],
+        [
+          432.3046875,
+          87.5712890625
+        ],
+        [
+          191.0500030517578,
+          87.5712890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          653
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-318"
+}

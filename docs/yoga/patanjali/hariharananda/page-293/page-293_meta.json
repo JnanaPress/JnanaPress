@@ -1,0 +1,107 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON PRACTICE 271",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          236.053466796875,
+          72.72141601517797
+        ],
+        [
+          534.13330078125,
+          72.72141601517797
+        ],
+        [
+          534.13330078125,
+          86.28788330033422
+        ],
+        [
+          236.053466796875,
+          86.28788330033422
+        ]
+      ]
+    },
+    {
+      "title": "m: mfranroi n \u00ab",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          90.0,
+          408.0037036128342
+        ],
+        [
+          300.4052734375,
+          408.0037036128342
+        ],
+        [
+          300.4052734375,
+          431.8494982905686
+        ],
+        [
+          90.0,
+          431.8494982905686
+        ]
+      ]
+    },
+    {
+      "title": "By That The Veil Over Manifestation Is Thinned. 52.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          90.0634765625,
+          549.8414416499436
+        ],
+        [
+          509.00390625,
+          549.8414416499436
+        ],
+        [
+          509.00390625,
+          567.7744140625
+        ],
+        [
+          90.0634765625,
+          567.7744140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          532
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-293"
+}

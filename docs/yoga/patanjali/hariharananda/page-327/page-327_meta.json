@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SVPKRNORMAL POWERS 30^",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          207.4365234375,
+          67.38450195267797
+        ],
+        [
+          533.0914916992188,
+          67.38450195267797
+        ],
+        [
+          533.0914916992188,
+          82.84326171875
+        ],
+        [
+          207.4365234375,
+          82.84326171875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          600
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-327"
+}

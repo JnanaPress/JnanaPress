@@ -1,0 +1,9 @@
+## YOGA PHILOSOPHY OF PATAÑJALI
+
+एवमसिघोयमानः सङ्गदोषानु भावयेत् । घोरेषु संसाराष्ट्रारेष प्रचयनिन मया जनसरणान्धकार विपरिवर्त्तमानिन कथश्चिद्यसादित: क्लेशतिमिरविनाश्री योगप्रदीपः, तस्य चैते तथ्णायोनयो विषयवायवः प्रतिपत्ताः, स खुल्युः लब्धा-लोक: कथमनया विषयमूमतण्या वश्वितस्तस्येव पुनः प्रद्धीप्तस्य संसाराग्ने-रात्मानसिन्धनोकुर्यामिति। ख्वस्ति व: स्वानोपमिभ्यः क्वपणजनप्राधनीयिस्यो विषयेभ्य इत्येवदिवितमतिः समाधिं भावयेत् । सङ्गमकत्वा स्मयमणि न क्राया-देवारं देवानामपि प्राथनीय इति। स्मयादयं सुस्थितंमन्यतया मृत्युना केशेष रहीतमिवात्मानं न भावयिष्यति, तथा चास्य किट्रान्तरण को नित्यं यक्वोपचयं: प्रमाटो लव्यविवर: वलेशानुस्त्रययिथ्यति, तत: पुनरनिष्टपसङ्गः । एवमस्य सङ्ग्रम्यावकुर्वतो भाविती ध्याँ इटौभविष्यति, भावनीयम्यार्थोऽभिम्बन्धी-भविष्यतीति ॥ ५१ ॥
+
+## When Invited By The Presiding Deities It Should Not Be Accepted Nor Should It Cause Vanity Because It Involves Possibility Of Undesirable Consequences. 51.
+
+Yogins are of four classes-(1) Prathama-Kalpika, (2) Madhu-Bhumika, (3) Prajña-jyoti and (4) Atikrantabhavaniya. Of these the first are those who are engaged in devotional practice and in whom the supernormal powers of perception are just dawning. The second are those who have got Rtambhara wisdom. The third are those who have subjugated the Bhutas and the senseorgans, who retain all those powers which are acquired and are devoutly engaged in acquiring further attainments. The fourth are those who have passed beyond acquisition of attainments and whose last objective is elimination of the action of the mind. Theirs is the sevenfold furthest insight.
+
+The deities in high place noticing the purity of the intellect of those who by reaching Madhumati (Madhubhumika stage) have attained unalloyed truth, try to invite by tempting them with enjoyments available in their

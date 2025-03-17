@@ -1,0 +1,111 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CENTRAL LIBRARY",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          272.22412109375,
+          27.4945068359375
+        ],
+        [
+          314.06005859375,
+          27.4945068359375
+        ],
+        [
+          314.06005859375,
+          46.0982666015625
+        ],
+        [
+          272.22412109375,
+          46.0982666015625
+        ]
+      ]
+    },
+    {
+      "title": "ON PRAOTlCt 273",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          237.36083984375,
+          68.54844238236547
+        ],
+        [
+          535.5,
+          68.54844238236547
+        ],
+        [
+          535.5,
+          83.96775390580297
+        ],
+        [
+          237.36083984375,
+          83.96775390580297
+        ]
+      ]
+    },
+    {
+      "title": "When Separated From Their Corresponding Objects, The\nSenses Follow* As It Were, The Nature Of The Mind,\nThat Is Called Pratyahira (Restraining Of\nThe Sense-Organs). 54.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          79.89501953125,
+          372.45222045853734
+        ],
+        [
+          522.65869140625,
+          372.45222045853734
+        ],
+        [
+          522.65869140625,
+          438.31159545853734
+        ],
+        [
+          79.89501953125,
+          438.31159545853734
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          512
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-295"
+}

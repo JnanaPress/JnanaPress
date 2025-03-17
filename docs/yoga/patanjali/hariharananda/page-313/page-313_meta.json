@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SUPERNORMAL POWERS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          215.5712890625,
+          71.41587402299047
+        ],
+        [
+          388.14453125,
+          71.41587402299047
+        ],
+        [
+          388.14453125,
+          85.823974609375
+        ],
+        [
+          215.5712890625,
+          85.823974609375
+        ]
+      ]
+    },
+    {
+      "title": "There (In SaniSdhi) Again (In The State OF Concentration I\nThe Past And The Present Modifications Being Similar\nIt Is Elcagrata-Parinatna Or Mutation Of Fixity\nOf The Mind, ll",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          78.0,
+          187.43131591752172
+        ],
+        [
+          532.6680297851562,
+          187.43131591752172
+        ],
+        [
+          532.6680297851562,
+          254.14957763627172
+        ],
+        [
+          78.0,
+          254.14957763627172
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          635
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-313"
+}

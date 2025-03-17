@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          282.392578125,
+          3.8864898681640625
+        ],
+        [
+          311.15478515625,
+          3.8864898681640625
+        ],
+        [
+          311.15478515625,
+          29.52447509765625
+        ],
+        [
+          282.392578125,
+          29.52447509765625
+        ]
+      ]
+    },
+    {
+      "title": "318 YOGA PHILOSOPHY OP FATANJALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.0989990234375,
+          70.78574706986547
+        ],
+        [
+          428.52783203125,
+          70.78574706986547
+        ],
+        [
+          428.52783203125,
+          85.9267578125
+        ],
+        [
+          64.0989990234375,
+          85.9267578125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          765
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-340"
+}

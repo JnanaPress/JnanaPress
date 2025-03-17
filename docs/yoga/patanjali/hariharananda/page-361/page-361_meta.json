@@ -1,0 +1,153 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SUPKRNQRMAE POWERS S31?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          223.125,
+          71.99937011674047
+        ],
+        [
+          545.39794921875,
+          71.99937011674047
+        ],
+        [
+          545.39794921875,
+          88.0338134765625
+        ],
+        [
+          223.125,
+          88.0338134765625
+        ]
+      ]
+    },
+    {
+      "title": "II Vt II",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          105.316162109375,
+          263.2098803706467
+        ],
+        [
+          305.634765625,
+          263.2098803706467
+        ],
+        [
+          305.634765625,
+          280.59067871049047
+        ],
+        [
+          105.316162109375,
+          280.59067871049047
+        ]
+      ]
+    },
+    {
+      "title": "On The Coronal Ligbi, Sidclhas Can Be Seen, 32,",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          115.6298828125,
+          332.25706054642797
+        ],
+        [
+          502.6123046875,
+          332.25706054642797
+        ],
+        [
+          502.6123046875,
+          349.462890625
+        ],
+        [
+          115.6298828125,
+          349.462890625
+        ]
+      ]
+    },
+    {
+      "title": "infers! TTSffl II \u00ab",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          108.076171875,
+          528.2885852046311
+        ],
+        [
+          256.2451171875,
+          528.2885852046311
+        ],
+        [
+          256.2451171875,
+          550.7047839350998
+        ],
+        [
+          108.076171875,
+          550.7047839350998
+        ]
+      ]
+    },
+    {
+      "title": "On Knowledge Known As Pratibha (Intuition), Everything\nBecomes Known. 33.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          82.655029296875,
+          603.0413165278733
+        ],
+        [
+          536.89453125,
+          603.0413165278733
+        ],
+        [
+          536.89453125,
+          637.2924914546311
+        ],
+        [
+          82.655029296875,
+          637.2924914546311
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          495
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-361"
+}

@@ -1,0 +1,9 @@
+## **3M VOGA PH/LOSOPHV OF PATANJALI**
+
+\*Devas-and-men', one part being Devas, and the other part men. Both make one group. In the conception of aggregate the distinction of individual parts may or may not be mentioned, for instance, we may say grove of mango trees', 'a gathering of Brahmins"\* or 'a mango-grove" "a Brahmin-gathering'. Again the collection is two-fold— (i) that of which the parts exist when separated (Yutasiddhavayava) and (ii) that of which the parts are not separable (Ayula-siddhavayava). 4A forest', or 'an assemblage", is a group where the parts arc separate from each other. A body or a tree or an atom etc. is a whole of which the parts are not separable. Patanjali says that an object is a collection, the different component parts of which do not exist separately. This has been called the essential attribute or Swarupa of the Bhutas.
+
+Now, what is the subtle form of the Bhutas ? The answer is "It is Tanmatra—the source of the Bhutas\* (2). Atom is one part of it (its ultimate form). It is a composite substance which consists of both, generic and specific qualities whose parts are not distinguished from each other, and which cannot be separated from one another. AL! Tanmatras are like this ; this is the third form of the Bhutas.
+
+The fourth form of the Bhutas relates to its properties of manifestation (knowability), activity and retentiveness. These three being akin to the modifications of the three Gunas, have been described by the word inherence, *i.t,* as their inherent qualities.
+
+The fifth form of the Bhutas is objectivity. Experience and release therefrom are inherent in the Gunas and the Gunas arc inherent in the Tanmatras, the Bhutas and material objects. For this reason everything is objective\* By practising Samyama on the last formed, *ie.* in the gross Bhutas (3) in the shape of material objects having the five

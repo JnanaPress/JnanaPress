@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SLlFI-RNDIiMAL I'OWBRS 363",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          203.0500030517578,
+          71.92753173783422
+        ],
+        [
+          536.4500122070312,
+          71.92753173783422
+        ],
+        [
+          536.4500122070312,
+          86.99326660111547
+        ],
+        [
+          203.0500030517578,
+          86.99326660111547
+        ]
+      ]
+    },
+    {
+      "title": "'To O&c Established In Tbt Disceramcot Between\nBuddhi And Purusa Comes Omnipotence\nand Omniscience. 49,",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.735107421875,
+          194.46714355424047
+        ],
+        [
+          489.248046875,
+          194.46714355424047
+        ],
+        [
+          489.248046875,
+          247.37595703080297
+        ],
+        [
+          104.735107421875,
+          247.37595703080297
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          526
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-385"
+}

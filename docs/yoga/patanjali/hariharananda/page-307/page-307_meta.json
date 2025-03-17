@@ -1,0 +1,130 @@
+{
+  "table_of_contents": [
+    {
+      "title": "St/PERNORMAI* POWERS 205",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          211.89999389648438,
+          71.96134521439672
+        ],
+        [
+          542.6107177734375,
+          71.96134521439672
+        ],
+        [
+          542.6107177734375,
+          87.42954589799047
+        ],
+        [
+          211.89999389648438,
+          87.42954589799047
+        ]
+      ]
+    },
+    {
+      "title": "These Three Are More Intimate Practices Than The\nPreviously Mentioned Ones. 7.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          94.857177734375,
+          98.08091308549047
+        ],
+        [
+          503.193359375,
+          98.08091308549047
+        ],
+        [
+          503.193359375,
+          131.75516845658422
+        ],
+        [
+          94.857177734375,
+          131.75516845658422
+        ]
+      ]
+    },
+    {
+      "title": "fWfsr^I II c H",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          97.5445556640625,
+          319.68418456986547
+        ],
+        [
+          293.84197998046875,
+          319.68418456986547
+        ],
+        [
+          293.84197998046875,
+          339.39013671875
+        ],
+        [
+          97.5445556640625,
+          339.39013671875
+        ]
+      ]
+    },
+    {
+      "title": "That Also Is (To Be Regarded As) External (n Respect\nOf Nirvija Or Seedleas Concentration. 9.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          88.756103515625,
+          392.5428576655686
+        ],
+        [
+          513.65234375,
+          392.5428576655686
+        ],
+        [
+          513.65234375,
+          427.76475097611547
+        ],
+        [
+          88.756103515625,
+          427.76475097611547
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          480
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-307"
+}

@@ -1,0 +1,13 @@
+## **OiV PRACTICE** *265*
+
+CENTRAL LIBRARY
+
+**imperceptibly,** or **in** practising suspension, is the time Covered by this form of PraySy!lnia. There is no need to count the **number** of Japas in **it\*** One Fraiiava may be tittered lengthily and **harmoniously** {mainly with tlie **fM-** iu half-syllable), and this **will** easily give the count oT time, as stated above\* This is liow PrSpAyflma is practised together with the observation of **time,** by the sequence of the Khaims.
+
+Observation of the time in FrftyflyflTHa, ju terms of stroke, is called observation by numbers\* For id it, time is determined by the number of inhalations and exhalations. The normal time taken in inhalation and exhalation by a healthy person is called a matra\* If it is assumed that fifteen inhalations and exhalations take **place** in a minute, then one M&tr& consisting of 4 seconds, will form the time. Twelve similar Matrfts (or \*'8 seconds) will form an Udgh&ta (stroke). Twen ty-four M&trfls will constitute the second stroke\* Thirty-si\* Miitras *(2%* minutes) will form the third stroke. **When** the Friniyima takes place with twelve respirations {inhalation and exhalation taken together) it **makes** one strokr. This is **the** mild form **of** Pr&n3y&ma\* **When** there ate two strokes or twenty-four respirations it is middling and when there are three strokes or thirty-six respirations ft is the best\*
+
+According to another view, the time covered by a Mltrik is second, or £ of the above calculation\* Hence on this view the first stroke will consist of 30 MUrfls, the second stroke of *72* Mfttrfls and the third of 108 M&trfls. The term 'UdghAta' (stroke) has another meaning\* The sign of a stroke is that the respiration being influenced by the exhaled air, the breath goes up and comes back\* According to this. **Bhojftraja** has said, J<The air from the navel going up and striking the head is called one stroke." It means that ivheu the breathing is stopped, the impulse fell for either taking it or releasing it, is balled *\**Udglifita1\* VijHina-Hitik^u has interpreted the word \*Udghatah as indicating only suspension of inhalation and exhalation\*
+
+In fact, all the three meanings can be reconciled\* The meaning of 'Udghata1 is as fallows : The extent of time up to which restraint of breath does not create uneasiness for either releasing or inhaling air. constitutes an 'Udghata1\* That time
+
+O.F\* 132—34

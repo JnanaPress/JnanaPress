@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON PRACTICE 267",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          242.89999389648438,
+          63.943400878459215
+        ],
+        [
+          533.9998168945312,
+          63.943400878459215
+        ],
+        [
+          533.9998168945312,
+          78.78898193314672
+        ],
+        [
+          242.89999389648438,
+          78.78898193314672
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          652
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-289"
+}

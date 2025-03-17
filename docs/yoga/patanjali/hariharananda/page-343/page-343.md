@@ -1,0 +1,9 @@
+## SU1PKKNOKMA1. POWERS **321**
+
+CENTRAL LIBRARY
+
+Knowledge of previous births of others can also be acquired in the same: way- <sup>i</sup> here is a story prevalent in this connection in the Sruti. Bhagawan Jaigisavya after having acquired knowledge of ten cycles of creation and the sequence of births therein through perception of subliminal impressions, obtained discriminative discernment. Then Bhagawan Avatya having assumed a corporeal form created at will, asked him, 4You have lived through ten cycles and because of enlightenment your intellect has not been clouded <sup>j</sup> you have experienced sorrows of hell and animal life, and have repeatedly enjoyed pleasures as a Dcva (celestial) and as a human being- Of these what have you enjoyed best ?' To this Bhagawan Jaigisavya replied, T have lived through ten cycles of creation and my mental essence has not been overpowered. *<sup>I</sup>* have experienced the troubles oi hell as well as of animal life. I have been born again and again as a Deva and as a man\* But <sup>T</sup> consider all that <sup>I</sup> have been through, as pain/ Then Avatya said, 'Oh long-lived one, tall me whether you count your mastery over the constituent principles and the unsurpassable pleasure of contentment amongst sorrows/ Jaigisavya replied, 'Pleasure of contentment has been ranked as superior to other enjoyments but it is nothing but pain compared to the bliss of the state of isolation. This characteristic of contentment of mind is nothing put a composition of the three Gupas, and everything connected with the Gupas has been counted on the side oi avoidables. The strand of desire is nothing but pail\*. When pahi-producing desire is removed, contentmem is said to become pleasant, unrestricted, and allembracing.' (3)
+
+**(!} Perception of latent impressions, means memory or recollection of subliminal impressions. It is clear that tf latent**
+
+O.P. 132 —41

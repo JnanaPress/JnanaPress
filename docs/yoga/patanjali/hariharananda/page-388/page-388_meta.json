@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHILOSOPHY OF PATA\u00d1JALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          185.84382871536525,
+          73.47818343722173
+        ],
+        [
+          428.818359375,
+          73.47818343722173
+        ],
+        [
+          428.818359375,
+          85.6697998046875
+        ],
+        [
+          185.84382871536525,
+          85.6697998046875
+        ]
+      ]
+    },
+    {
+      "title": "When Invited By The Presiding Deities It Should Not Be\nAccepted Nor Should It Cause Vanity Because It\nInvolves Possibility Of Undesirable\nConsequences. 51.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          75.68639798488665,
+          352.13525390625
+        ],
+        [
+          515.566750629723,
+          350.89581478183436
+        ],
+        [
+          515.566750629723,
+          413.1273374888691
+        ],
+        [
+          75.68639798488665,
+          413.1273374888691
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-388"
+}

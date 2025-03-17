@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "330 YOGA PHILOSOPHY OF PATASjAl.I",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.0,
+          69.31504394486547
+        ],
+        [
+          417.7783203125,
+          69.31504394486547
+        ],
+        [
+          417.7783203125,
+          85.39329101517797
+        ],
+        [
+          60.0,
+          85.39329101517797
+        ]
+      ]
+    },
+    {
+      "title": "(By Practiaing Snimyama) On The Sun [The Point Id The\nBody Known As The Solar Entrance) The Knowledge\nOr The Cosmic Regions Is Acquired ll). 26.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          77.05000305175781,
+          343.32664062455297
+        ],
+        [
+          516.0614013671875,
+          343.32664062455297
+        ],
+        [
+          516.0614013671875,
+          394.07080078125
+        ],
+        [
+          77.05000305175781,
+          394.07080078125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          495
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-352"
+}

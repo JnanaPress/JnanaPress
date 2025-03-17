@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "282 YOCA PHILOSOPHY OF PATAJsjALl",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          66.95000457763672,
+          64.40183593705297
+        ],
+        [
+          436.953125,
+          64.40183593705297
+        ],
+        [
+          436.953125,
+          79.96533203125
+        ],
+        [
+          66.95000457763672,
+          79.96533203125
+        ]
+      ]
+    },
+    {
+      "title": "Fiwrcnpmrpster \u00bb ^ n",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          100.667724609375,
+          301.5791430659592
+        ],
+        [
+          255.518798828125,
+          301.5791430659592
+        ],
+        [
+          255.518798828125,
+          316.572265625
+        ],
+        [
+          100.667724609375,
+          316.572265625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          619
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-304"
+}

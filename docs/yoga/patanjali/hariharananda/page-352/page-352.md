@@ -1,0 +1,9 @@
+## **330 YOGA PHILOSOPHY OF PATASjAl.I**
+
+2]qIsO^Vt fV\*J\*\*Tr<^1T\*^Tf^^iTT?;— 'srrm^Tr nfiwiwr: Tf*n* <sup>i</sup> <TTi ijSr^iigirn**itfamt fs««Hfe'j\*qV?mt** *VR* **<sup>i</sup>** <sup>3</sup>**^e<sup>I</sup>** *iiyuv***i: %^f=rarrar:— <H,** ^^rtr: sw^Rmr. <sup>i</sup> Hufagf OT^ttfr^QTn: <sup>t</sup> TTdf^rip ■Jh **mi^TOi:t sssf=r^nn: trfrqPDHPTOOT, ^n^iTvn** ^^inf^^if^LimirTTf^Ti*^\*<sup>91</sup>\**, %fii Trfofowfai <sup>I</sup> *<sup>n</sup>* ^ flTT ^^r: \*T<f STEM^: <sup>I</sup> fc^VTHlrfrT^m\*g WtW? \*1 HVdh^tij | tn^irtfr^T WIWWTOJ ^ISTT Sic^t **Tpftswratftb tmw^vErcft; srRtfe^ <sup>a</sup> h ii**
+
+## **(By Practiaing Snimyama) On The Sun [The Point I<sup>d</sup> The Body Known As The Solar Entrance) The Knowledge Or The Cosmic Regions Is Acquired ll). 26.**
+
+The cosmic regions arc seven in number. Starting from AVIGHi up to the summit of Mem is the Bhuh-loka (Loka — Region), From the Mcrti to tfie Foie-star (Dbruva) with planets, astcrisms and stars, is the starry region called Antarlksa. Beyond that, is the region known as Svah-loka having five planes. The third is Mahendra ; the fourth is the Mahah-Ioka of Prajapati\* These are the three Brahmalokas, viz. Janaloka, Tapoloka and Satyaloka.
+
+Then up to Avichi, one placed above the other, are the six great hells wherein are the excesses of earjh (Ghana), water (Salila), fire (Anala), air (Anila), void (Aka^a) and darkness (Tamas) respectively and called the Mahakala, Ambarisa, Raurava, Maharaurava, Ralasuira and Andhatamisra, in which creatures are born to suffer painful long lives as consequences of their accumulated sinful actions. Next come the seven nether worlds called Mahatala, Rasatala, Atala, Sutala, Yitala, Talatala, and Patala. The eighth is this Earth called Vasumati with its seven Dvlpas

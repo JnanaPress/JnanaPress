@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "2B4 YOGA PHILOSOPHY OF PATARjALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.849998474121094,
+          72.04539062455297
+        ],
+        [
+          420.1025390625,
+          72.04539062455297
+        ],
+        [
+          420.1025390625,
+          87.36572265625
+        ],
+        [
+          63.849998474121094,
+          87.36572265625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          97.9803466796875,
+          682.48046875
+        ],
+        [
+          256.826171875,
+          682.48046875
+        ],
+        [
+          256.826171875,
+          694.814453125
+        ],
+        [
+          97.9803466796875,
+          694.814453125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          660
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-306"
+}

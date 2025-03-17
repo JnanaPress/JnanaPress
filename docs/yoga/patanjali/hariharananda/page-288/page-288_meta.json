@@ -1,0 +1,103 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHJI-OSOPHY OF PATASjALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          176.89999389648438,
+          67.90958740189672
+        ],
+        [
+          418.9404296875,
+          67.90958740189672
+        ],
+        [
+          418.9404296875,
+          86.7490234375
+        ],
+        [
+          176.89999389648438,
+          86.7490234375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          93.1866455078125,
+          493.7705078125
+        ],
+        [
+          325.390625,
+          493.7705078125
+        ],
+        [
+          325.390625,
+          507.7490234375
+        ],
+        [
+          93.1866455078125,
+          507.7490234375
+        ]
+      ]
+    },
+    {
+      "title": "The Fourth Franiyima Transcends The Txtcrna! And\nInternal Range (1). 51.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          90.64453125,
+          628.4220385737717
+        ],
+        [
+          507.2607421875,
+          628.4220385737717
+        ],
+        [
+          507.2607421875,
+          665.4634356684983
+        ],
+        [
+          90.64453125,
+          665.4634356684983
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          510
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-288"
+}

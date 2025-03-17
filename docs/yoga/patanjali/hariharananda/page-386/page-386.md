@@ -1,0 +1,9 @@
+## **rT\* II M.\* It**
+
+**Wifi OTfQmt ft^ftlflHrt tfTT:,** tt+^ Tna% t^qrofT^ra^ wts\*\*!: <sup>i</sup> iwtot *ntf\* znf^i mf^T +TW IT^TWT <sup>U</sup> ri| Vri *\*-\*\*r«i* <sup>r</sup> ^ ratita H^rfr? <sup>i</sup> urn «\*ifa mn,'t^5uftm^M^mif«tywT5Tt ^ftrneifat trfhith% g^n^ncsjfffT^t rMnft\*ft\*r: few', pi^<sup>t</sup> ^^uufdWT farfTWfirr\* qw rfa <sup>w</sup> \*\* ii
+
+## **By Renuncifttion Of That (Viioka Attainment) Even. Comes Isolation On Account Of The Destruction Of The Seed. Of EviJ. 50.**
+
+When after the dwindling of afflictive actions the yogin feds that the discriminative knowledge is but a characteristic of the Buddhi, and that Euddhi-sattwa has also been classed among the forsakables, while Purusa is immutablej pure and different from Saftwa Gunas then he begins to lose his desire for Buddhi-Sattwa\* and the seeds of affliction die out with his mind as they become unproductive like roasted seeds. When they (the seeds) totally disappear the Purusa docs not sufiTer from the threefold sorrow. Then the Gunas which develop within the mind as afflictive actions with their formations, having fulfilled their purpose, recede to unmaniTest state and thus bring about their complete separation from the Purusa, which is isolation\* In that state the Purusa is nothing but metemperic consciousness established in itseir (1).
+
+**(**<sup>1</sup>**) It haw been explained before that when afflictive actions are completely reduced by acquisition of discriminative discernment they become unproductive as roasted seeds\* Then dawns the idea that discrimination is blit ft characteristic of the intellect and intellect is to be forsaken when knowledge of**

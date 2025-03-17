@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SUPERNORMAL POWERS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          205.40283203125,
+          74.59006835892797
+        ],
+        [
+          376.23291015625,
+          74.59006835892797
+        ],
+        [
+          376.23291015625,
+          88.3421630859375
+        ],
+        [
+          205.40283203125,
+          88.3421630859375
+        ]
+      ]
+    },
+    {
+      "title": "II H4 II\n^TTfWTTTT^T tt 84 U\nPerfection Of Body Consists In Beauty, Grace, Strength\nAnd Adamantine (Thunderlike) Hardness. 46.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          86.9000015258789,
+          617.1103515625
+        ],
+        [
+          519.17236328125,
+          617.1103515625
+        ],
+        [
+          519.17236328125,
+          699.3380389399827
+        ],
+        [
+          86.9000015258789,
+          699.3380389399827
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          580
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-381"
+}

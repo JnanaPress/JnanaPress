@@ -1,0 +1,11 @@
+## SUPERNORMAL POWERS
+
+complete renunciation and desire to forsake everything, appear to the yogin. Thence are abandoned discrimination, the attainments acquired by discriminative knowledge and their seat, the Intellect. Then the Intellect becomes inoperative and consequently contact between the Gunas and the Purusa is completely severed. That is the state of isolation of the Purusa.
+
+When the powers of omnipotence and omniscience are acquired the yogin becomes like the Almighty Isvara. That is the highest state of the Intellect. Purusa with such adjuncts, i.e. such adjuncts and their seer combined, is called Mahan Atma or the Great Self. The adjuncts by themselves are also called Mahat-tattwa. In this state yogins live in some tangible sphere, as manifested adjuncts can only exist in a manifested world.
+
+The stage next above is the state of isolation, in which the mind ceases to be operative and hence all knowledge like omniscience etc. disappear. This is beyond the manifested world, which has been described in the Upanisads as an unseen, unusable, unperceivable, unmanifested etc. state. Existence in the state beyond that of supernormal powers or even omniscience, is the supreme state of Self and is called existence in the state of isolation.
+
+## स्थान्युपनिसन्त्रणे सङ्गस्मयाकरणं पुनरनिष्टप्रसङ्गात ॥ ५१ ॥
+
+भाष्यम् - चत्वार: खल्बमो योगिन:-प्रथमकस्पिक:, मधुभूमिकः, प्रज्ञा-ज्योतिः, यतिकान्तभावनौयश्चेति । तत्राभ्यासौ प्रवृत्तमावन्योतिः प्रवृत्तमात्रन्योतिः प्रथमः । ऋतम्भरप्रज्ञो दितौयः । भूतिन्द्र्यजयो तृतौयः सर्वेषु भावितेषु भावनीयेषु क्षतरचावन्धः क्षतकर्तव्यसाधनादिमान् । चतुर्थों यस्त्वतिक्रान्तभावनीयस्त्रस्य चित्तप्रतिसगं एकोऽथः, सप्तविधास्य प्रान्तभूमिप्रज्ञा । तत्र मधुमती भूमिं साचात्कृवितो ब्राह्मणस्य स्थानिनो देवा: सन्वश्रदिमनुपश्यन्तः स्थानैरुप-निमन्त्रयन्ति, भोरिह श्रास्यतामिन्ह रम्यतां, कमनोयोऽयं भोगः, कमनीयियं कन्या, रसायनमिटं जराम्हत्यं वाधती, वैद्वायसमिदं यानम, यमी कल्पट्रमाः, पुख्या मन्दाकिनो, सिद्धा महर्षयः, उत्तमा यनुकूला भ्रामरसः, दिव्ये योत्रचन्नुषो, वच्चीपम: काय:, ख्रगुणै: सर्वामिद्सूपाजितमायुष्मता, प्रतिपद्यतामिद्यन्तामिद्यन्त्र-मजसम्मस्थानं देवानां प्रियमिति ।

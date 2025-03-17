@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SUPERNORMAL POWERS rJ55",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          210.9228515625,
+          73.66013671830297
+        ],
+        [
+          537.3184204101562,
+          73.66013671830297
+        ],
+        [
+          537.3184204101562,
+          87.4171142578125
+        ],
+        [
+          210.9228515625,
+          87.4171142578125
+        ]
+      ]
+    },
+    {
+      "title": "By Samyama Oa The GroasDes<jt The Essential Charact\u00abrt Th\u00ab\nSubtlety, The Inherence And The Objectiveness Which Are\nThe Five Forms Of The Bhutas Or Elements, Mastery\nOver The Bhutas Is Obtained. 44.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.3349609375,
+          352.1919360347092
+        ],
+        [
+          530.79345703125,
+          352.1919360347092
+        ],
+        [
+          530.79345703125,
+          418.5104174800217
+        ],
+        [
+          63.3349609375,
+          418.5104174800217
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          496
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-375"
+}

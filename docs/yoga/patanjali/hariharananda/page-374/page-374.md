@@ -1,0 +1,11 @@
+## YOGA PHILOSOPHY OF PATANJALI
+
+fixity is caused by the mind held within the body by its outward conception, it is called Kalpita (imagined). If, however, the fixity relates to the mind, which is independent of the body, and is external, it is known as Akalpita (unimagined or actual). Amongst these the fluctuations of the Mahavideha fixity have to be practised with the help of the imagined fixity. By such unimagined fixity a yogin's mind can get into another's body. By such fixity the veil to sentient intellect, in the shape of Klesa (affliction), Karma (action) and threefold Vipaka (fruition) originating from Rajas and Tamas, is removed.
+
+(1) When by holding the mind fixed on any external object (the all-pervading Akasa is the most suitable) it is deeply contemplated that 'I am there', and thereby the mind is held or made to stay there, in other words, I feel that I am there (and not within the bodily frame), then it is called discarnate fixity. When the mind is felt to be both inside the body and outside, it is called imagined fixity. When the mind, being freed of the body, gains fixity outside, it is called Mahavideha fixity. Thereby is attained the removal of the veil referred to above. The bodily sense is the grossest of the veils to knowledge and by this Samyama it is thinned or destroyed.
+
+## स्युलस्वरूपसुन्नान्वयाय वच्वसंयसाद्भ तत्त्वसंयसाद्ध तत्त्वयः ॥ ४४ ॥
+
+भाष्यम्-तत्व पार्थिवाद्या ग्राष्ट्रादयो: विश्रेषा: सहाकारादिभिर्धमः स्थूल-घावर्टन परिभाषिता:. एतद भूतानां प्रथमं रूपम । दितीयं रूपं ख्वसामान्यं, मूत्तिभूमि:, स्नेन्द्रो जलं, वाक्कियाता, वायु: प्रणामो, सवतोगतिराकाश द्रति, एतत् ध्वरुप्रण्ड् नोच्यते, भ्रस्य सामान्यस्य शब्दादयो विश्रेषाः । तथा चोहत्तम् 'एकजातिसमन्दितानामियां धर्ममात्व्यावर्ति रिति । सामान्यविधीषसमुद्रायोऽव द्व्यम, दिष्ठो दि सम्मू । प्रत्यस्तमितमेदावयवानुगतः- भरोरं व्यवां वनमिति । शब्दे नोपात्तभेदावयवानुगतः सम्मूकः - उभये देवमनुष्याः, समूहस्य देवा एको भागो मनुष्या दिलीयो भाग:, तान्यामिवासियति समूहः । स च मेटामेटविवरित:, यास्वाणां वनं व्राह्मणानां सड्घः, यास्त्रवणं व्राह्मणसड्घ द्रति ।
+
+의 문의

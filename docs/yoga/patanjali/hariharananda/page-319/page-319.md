@@ -1,0 +1,9 @@
+## **SUPERNORMAL POWERS 297**
+
+CENTRAL LIBRARY
+
+the future- For example, a mail who is attached to one woman is not necessarily indifferent to others;
+
+Apropos of the above, some critics point out that if all tlie symptoms arc present in all the three periods then there Would be an overlapping of periods and there would be no clearest distinction (7). That objection can be refuted in this way- That the characteristics do exist requires no proof. When there is such a thing as a characteristic the differences in respect of symptoms must be assumed to exist. For it is not only in the period of time described as present that the characteristic\* exhibit themselves- If it were so\* the mind would not have the characteristic of attachment when it is in anger, because attachment is not manifest at the moment. Moreover, the three symptoms cannot be simultaneously present in the same individual. They may, however\* appear in succession by virtue of the operation of their several causes. And so u has been said, 'The preponderance of the forms ^ihe eight forms of piety\* knowledge, etc.) and states of mind {pleasure, pain and stupor) are mutually subversive\* the weaker of them co-exists las subordinates) with the intense states". Thai is why there is m> overlapping of periods. For example, attachment being highly manifested in respect or one object, does not necessarily cease to exist in respect of other objects, but only remains in an unmanifested form. The same is the case with respect to symptoms. Objects have not three phases but the characteristics have, viz;, manifested or present and unmaniTestcd as past or future. The characteristics are regarded as different as they get into different states—a distinction of states but not of the thing itself, as in the cast of the digit <sup>1</sup> when placed in the first row means unity, second row means ten and in the third row' means hundred or as the same
+
+O.P. 132—3K

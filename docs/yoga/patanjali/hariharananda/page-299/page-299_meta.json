@@ -1,0 +1,126 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CENTRAL LIBRARY",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          280.93994140625,
+          9.109161376953125
+        ],
+        [
+          312.607421875,
+          9.109161376953125
+        ],
+        [
+          312.607421875,
+          32.6336669921875
+        ],
+        [
+          280.93994140625,
+          32.6336669921875
+        ]
+      ]
+    },
+    {
+      "title": "Book III",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          256.53564453125,
+          130.84122802689672
+        ],
+        [
+          334.1064453125,
+          130.84122802689672
+        ],
+        [
+          334.1064453125,
+          148.90543701127172
+        ],
+        [
+          256.53564453125,
+          148.90543701127172
+        ]
+      ]
+    },
+    {
+      "title": "Supernormal Powers",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          196.9775390625,
+          157.88846923783422
+        ],
+        [
+          392.50244140625,
+          157.88846923783422
+        ],
+        [
+          392.50244140625,
+          178.52585937455297
+        ],
+        [
+          196.9775390625,
+          178.52585937455297
+        ]
+      ]
+    },
+    {
+      "title": "Dbarans Or Attention Is The Mind's fCbUta'ft} Fiacation\nOn A Particular Point Of Space^ 1*",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          83.05000305175781,
+          330.06428100541234
+        ],
+        [
+          516.5576171875,
+          330.06428100541234
+        ],
+        [
+          516.5576171875,
+          366.4924426265061
+        ],
+        [
+          83.05000305175781,
+          366.4924426265061
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          553
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-299"
+}

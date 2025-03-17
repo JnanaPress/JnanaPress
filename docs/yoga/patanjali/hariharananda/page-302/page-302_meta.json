@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "260 YOGA PHILOSOPHY OF PATARjALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          66.0,
+          71.76688720658422
+        ],
+        [
+          428.52783203125,
+          71.76688720658422
+        ],
+        [
+          428.52783203125,
+          88.49326660111547
+        ],
+        [
+          66.0,
+          88.49326660111547
+        ]
+      ]
+    },
+    {
+      "title": "When The Object Of Meditation Only Shines Forth In\nThe Mind, As If Devoid Of The Thought Of Self Even*\nThen It Is Called SamadM Or Concentration. 3.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          91.9000015258789,
+          169.40146972611547
+        ],
+        [
+          515.9765625,
+          169.40146972611547
+        ],
+        [
+          515.9765625,
+          220.56437255814672
+        ],
+        [
+          91.9000015258789,
+          220.56437255814672
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          652
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-302"
+}

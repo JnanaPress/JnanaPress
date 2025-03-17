@@ -1,0 +1,107 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SUPLHNOKMAL FOWIiRS ^ S3",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          210.63232421875,
+          72.26169921830297
+        ],
+        [
+          534.9854125976562,
+          72.26169921830297
+        ],
+        [
+          534.9854125976562,
+          86.9031982421875
+        ],
+        [
+          210.63232421875,
+          86.9031982421875
+        ]
+      ]
+    },
+    {
+      "title": "fTO n i n",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          100.958251953125,
+          313.2101245112717
+        ],
+        [
+          280.213623046875,
+          313.2101245112717
+        ],
+        [
+          280.213623046875,
+          343.5701098628342
+        ],
+        [
+          100.958251953125,
+          343.5701098628342
+        ]
+      ]
+    },
+    {
+      "title": "It (Samyama) Is To B* Applied To The Stages (Of\nPractice). 6.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.444580078125,
+          497.19077636674047
+        ],
+        [
+          507.2607421875,
+          497.19077636674047
+        ],
+        [
+          507.2607421875,
+          533.650390625
+        ],
+        [
+          104.444580078125,
+          533.650390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          550
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-305"
+}

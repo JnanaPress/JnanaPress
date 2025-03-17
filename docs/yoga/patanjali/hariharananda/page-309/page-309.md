@@ -1,0 +1,11 @@
+## **SUPERNORMAL POWERS**
+
+CENTRAL LIBRARY
+
+(1) Mutation means change from one sLatc to another, *i.e.* modification. The change from fluctuation to a closed state is a form of change or modification- To be in a closed state is a feature of the mind. Mind is made up of three Glmaa or constituent principles. The Guq& modifications are always changing, therefore, change takes place even when the mind is in a closed state, but there is no apprehension of this change and so no manifestation of it- What the nature of that change is, is being explained by the maker of the Sfitra in this aphorism.
+
+The appearance of one characteristic of a thing and the disappearance of another is called its change of character., During this state of suppressive modification the basic object is tile closed blank mind\* In that mind the latent impressions of coucentrative mutation, *Lt.* of one-pointed knowledge, decrease while the subliminal impressions of the closed state of the mind increase, Both these features figure in the mind m a closed state- As the characters 'being a clod' and 'being a pot\* figure in the same lump of clay, 'Moment of closeness\* means blankness, i-f. the vacant or seemingly inactive state of mind that prevails when the mind remains closed. Although no change is noticeable itf that state, mutation goes on, because the latent impression of a closed state goes on increasing and there is also a break thereof- (However long the period of closeness may appear to an onlooker it is but a moment to the closed mind,' There can be no ideation of time when fluctuation ceases.)
+
+When closeness of mind is practised, its latent impression goes on increasing. This increase must he taking place in suppressing fluctuations. In fact, in that state a struggle goes on between appearance and disappearance of latent .repressions of closeness and that of fluctuations respectively, and that is also a form of uusceu change\*
+
+Fluctuations arc caused by latent impressions of fluctuations. So the inability of fluctuations to appear, implies the overpowering **of their impressIons-** Nirodha or the closed state is *<sup>r</sup>* x- ■ <sup>I</sup> v-s ------ \* . ■ <sup>i</sup> only residual impression or presence of latent impressions only and not a state of cognition. Thus the struggle is between

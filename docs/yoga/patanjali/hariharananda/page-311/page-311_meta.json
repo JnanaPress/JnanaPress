@@ -1,0 +1,134 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SUPERNOHAlAf- POWERS 2B9",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          218.18603515625,
+          69.94333984330297
+        ],
+        [
+          542.4000244140625,
+          69.94333984330297
+        ],
+        [
+          542.4000244140625,
+          83.6141357421875
+        ],
+        [
+          218.18603515625,
+          83.6141357421875
+        ]
+      ]
+    },
+    {
+      "title": "FTT3I PTTT^lfarTF dv^TTI?^ tt V U",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.9000015258789,
+          259.70371581986547
+        ],
+        [
+          342.53173828125,
+          259.70371581986547
+        ],
+        [
+          342.53173828125,
+          281.0458178706467
+        ],
+        [
+          104.9000015258789,
+          281.0458178706467
+        ]
+      ]
+    },
+    {
+      "title": "Peaceful Flow ^1) Of The Mind ( In A Closed Stare ) Is\nEnsured By Its Latent Impressions. 10+",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          94.7119140625,
+          356.35151245072484
+        ],
+        [
+          522.3681640625,
+          356.35151245072484
+        ],
+        [
+          522.3681640625,
+          391.41001464799047
+        ],
+        [
+          94.7119140625,
+          391.41001464799047
+        ]
+      ]
+    },
+    {
+      "title": "TOrfyuft\u00bbu\u00ab: ign u",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          110.69091796875,
+          630.8143725581467
+        ],
+        [
+          476.46484375,
+          630.8143725581467
+        ],
+        [
+          476.46484375,
+          653.2900390625
+        ],
+        [
+          110.69091796875,
+          653.2900390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          482
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-311"
+}

@@ -1,0 +1,11 @@
+## JGO VOGA l>mr,OSOPHV OF PATAjXJALJ
+
+char**actcTistics** is not here taken into account. In the mental sphere we can take the example of a closed stale of the mind. When the mind is in a closed state, the latencies of closeness predominate and the latencies of fluctuation become weak. The distinction here is on the basis of strength and weakness of different latencies.
+
+Of the changes mentioned above, only the change of characteristic is real and the other two are imaginary. ,As they have **SoliUL** usefulness in practice tht-y have been adopted. The maker of the Sutra has introduced them as a prelude to past and future knowledge.
+
+{3} The **imitation** of an object is noticeable from a change of its characteristic. The change of characteristic is postulated from that of the symptoms. That is why the commentator lias said that tile change of symptom takes place during the prevalence of the same characteristic. Again, change of **symptom** is imagined from the change of state. Then there is no change in the symptom but it is imagined in each oT the three epochs, pi\*, past, present and future. For example, in the closed state of the mind the latent impressions of closeness and fluctuation are both there, but comparatively the latencies of closeness are stronger the distinction is imagined on the strength of latencies.
+
+The conception of the present is not distinct from the conception of the past and the future, because what is present today was future and will pass on to the past. As a matter of fact, pa>tUnd future states are only remaining in an undistinguished form. The present characteristic of a thing is only manifested in its true nature, *i.rT* it reveals itself in the active or phenomenal stale. True nature (of an object) is its phenomenal or active condition.
+
+blj Mutation isthe nature of the Guras\* Rajas menus mutative state, imitation means changeability. The activity that is noticeable in all phenomena goes by the name of Rajas. There is no cause behind this activity *;* it is one of the fundamental characters of all phenomena\* When the three Gnoas ate mentioned as the primary causes of creation, the nature of the (Timas arc implied. It might be questioned in

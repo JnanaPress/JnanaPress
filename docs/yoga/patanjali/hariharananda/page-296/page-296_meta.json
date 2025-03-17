@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "274 YOGA PHILOSOPHY OF PATASijALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.95000076293945,
+          75.00321533158422
+        ],
+        [
+          426.78466796875,
+          75.00321533158422
+        ],
+        [
+          426.78466796875,
+          92.09592773392797
+        ],
+        [
+          60.95000076293945,
+          92.09592773392797
+        ]
+      ]
+    },
+    {
+      "title": "sw tmn II w n",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          108.7298583984375,
+          661.4112963862717
+        ],
+        [
+          327.71484375,
+          661.4112963862717
+        ],
+        [
+          327.71484375,
+          687.2310443110764
+        ],
+        [
+          108.7298583984375,
+          687.2310443110764
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          617
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-296"
+}

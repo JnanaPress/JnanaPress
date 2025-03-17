@@ -1,0 +1,111 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SUPERNORMAL POWERS 345",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          213.35000610351562,
+          73.51902343705297
+        ],
+        [
+          532.7994384765625,
+          73.51902343705297
+        ],
+        [
+          532.7994384765625,
+          87.2115478515625
+        ],
+        [
+          213.35000610351562,
+          87.2115478515625
+        ]
+      ]
+    },
+    {
+      "title": "When The Cause Of Bondage Gets Relaxed And The\nMovements Of The Mind Art Known, The Mind\nCan Get Into Another Body. 33.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          90.789794921875,
+          99.00443603470922
+        ],
+        [
+          501.4501953125,
+          99.00443603470922
+        ],
+        [
+          501.4501953125,
+          150.28678466752172
+        ],
+        [
+          90.789794921875,
+          150.28678466752172
+        ]
+      ]
+    },
+    {
+      "title": "^4hlfwi*i ii: ii",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          94.857177734375,
+          613.4511370845139
+        ],
+        [
+          423.0078125,
+          613.4511370845139
+        ],
+        [
+          423.0078125,
+          631.5
+        ],
+        [
+          94.857177734375,
+          631.5
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          606
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-367"
+}

@@ -1,0 +1,11 @@
+## YOGA PHILOSOPHY OF PATAÑJALI
+
+## संस्कारसाधारकरणात्पूर्वजातिज्ञानम् ॥ १८ ॥
+
+भाष्यम - हये खुल्वमी संस्काराः स्मृतिवलेश वासनारूपाः, विपाक-हेतवी धर्माधर्मरूपा: । ते पूर्वभवासिसंस्कताः परिणाम-चेष्टा-निरोध-श्रश्नि-जीवन-धर्मवद्गपरिद्वष्टाधिक्तधर्माः । तेषु संयमः संस्कारसाधारिक्रयायै समर्थः, न च टेशकालनिसित्तानुभवैविना तेषामस्ति साचात्करणम्, तदित्यं संस्कारसारमान्यात्क-रणात्पूर्वजातिज्ञानसुत्पद्यते योगिनः । परत्राण्येवमेव संस्कारसाधारकरणात्वात्करणात्पर-जातिसंबेदनम् । श्रवेदमाख्यानं यूयति, भगवतो जैगौषव्यस्य संस्कारसाचा-त्करणाद्ध्यस् महासगेषु जन्मपरिणामक्रममनुपथ्यतो विविकजं ज्ञानं प्रादुरभवत् । यथ्य भगवानावश्यस्तुधरस्तुभवाच, द्यासु मन्नासर्गेषु भव्यत्वादनभिभूतवुद्धिसच्चिन त्वया नरकतिर्यंग्गभस्तमवं दुःखं संपथ्यता देवमनुष्येषु पुनः पुनरुत्पद्यमानिन सुखुद्धः विद्योः किमधिकसुपलब्धमिति । भगवन्तमावद्यं जैगीषध्य उवाच, दशसु महासगींव भव्यत्वादनभिभूतवुद्धिसर्वन मया नरकातियंग्रमवं दुःखं संप्रयता देवसनुष्येषु पुनः पुनरुत्पद्यमानिन यत् किञ्चिदनुभूतं तत्सवं दुःखमेव प्रत्यवैमि । भगवानावठ्य उवाच, यदिद्दमायुष्मतः प्रधानवश्यित्वमनुत्तमं च संतोषसुखं किमिद्मपि दु: द्वपच्चे निचित्रसिति। भगवान् जैगौषव्य उवाच, विषयसुखा-येचयविद्यमनुस्तमं संतोषसुखमुक्तं, कैवल्यापिचया दुःखमेव । बुद्धिसत्त्वस्यायं धर्म-स्त्रगुणः, विगुणस्य प्रत्ययो इयपन्ते न्यस्तु द्रति । दुःखस्बरूपस्टब्धात्मन्तुः, त्रण्या-दुःखसन्तापापगमात्तु प्रसन्नवाधं सर्वानुकूलं सुखमिद्रमुक्तमिति ॥ १८ ॥
+
+## . By The Realisation Of Latent Impressions Knowledge Of Previous Birth Is Acquired (1). 18.
+
+The latent impressions referred to in this Sutra are of two kinds, viz. those appearing as Vasanas causing memory and (indirectly) afflictions, and those responsible for fruition due to pious or impious deeds (2) done in previous births. Like change, effort, closed state, power, life and characterisation, they are unseen characteristics of the Chitta. If Samyama is practised on impressions they are perceived, and as such perception cannot arise without an idea of the place, time and cause of the incident concerned, the yogin practising it comes to know of the previous birth.
+
+320

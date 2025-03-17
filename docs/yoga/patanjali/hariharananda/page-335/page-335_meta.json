@@ -1,0 +1,65 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SUPERNORMAL POWERS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          207.57556675062972,
+          67.47996438112199
+        ],
+        [
+          378.2666015625,
+          67.47996438112199
+        ],
+        [
+          378.2666015625,
+          80.8389892578125
+        ],
+        [
+          207.57556675062972,
+          80.8389892578125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          31
+        ],
+        [
+          "Span",
+          31
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-335"
+}

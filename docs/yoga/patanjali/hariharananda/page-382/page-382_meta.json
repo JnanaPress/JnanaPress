@@ -1,0 +1,107 @@
+{
+  "table_of_contents": [
+    {
+      "title": "460 YOGA PHILOSOPHY Ol PATANjALl",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.04899978637695,
+          72.71238281205297
+        ],
+        [
+          421.2646484375,
+          72.71238281205297
+        ],
+        [
+          421.2646484375,
+          89.89329101517797
+        ],
+        [
+          59.04899978637695,
+          89.89329101517797
+        ]
+      ]
+    },
+    {
+      "title": "bUT II H3 H",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          112.43408203125,
+          105.03873779252172
+        ],
+        [
+          425.77996826171875,
+          105.03873779252172
+        ],
+        [
+          425.77996826171875,
+          119.6396484375
+        ],
+        [
+          112.43408203125,
+          119.6396484375
+        ]
+      ]
+    },
+    {
+      "title": "By $amy&ma On The Receptivity, Essential Character, 'I*-\nSense, Inherent Quality And Qbjeciiveac^s Of The Five\nSense-Organs, Power Over Them Can Be Acquired. 47t",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.43603515625,
+          313.8531909175217
+        ],
+        [
+          520.625,
+          313.8531909175217
+        ],
+        [
+          520.625,
+          367.3382678218186
+        ],
+        [
+          69.43603515625,
+          367.3382678218186
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          489
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-382"
+}

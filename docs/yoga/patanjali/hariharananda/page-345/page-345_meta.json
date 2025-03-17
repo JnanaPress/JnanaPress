@@ -1,0 +1,103 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SUPERNORMAL POWERS 333",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          205.4399871826172,
+          68.04081298783422
+        ],
+        [
+          531.8999633789062,
+          68.04081298783422
+        ],
+        [
+          531.8999633789062,
+          82.89329101517797
+        ],
+        [
+          205.4399871826172,
+          82.89329101517797
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          92.7508544921875,
+          418.32763671875
+        ],
+        [
+          373.90869140625,
+          418.32763671875
+        ],
+        [
+          373.90869140625,
+          430.8671875
+        ],
+        [
+          92.7508544921875,
+          430.8671875
+        ]
+      ]
+    },
+    {
+      "title": "The Prop (Or Basis) Of The Idea Does Not Get Known\nBttauio Thu b Not The Object Of The (Yogin s)\nObservation, 2G.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          80.9000015258789,
+          507.5669360347092
+        ],
+        [
+          508.4228515625,
+          507.5669360347092
+        ],
+        [
+          508.4228515625,
+          556.7627978511155
+        ],
+        [
+          80.9000015258789,
+          556.7627978511155
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          632
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-345"
+}

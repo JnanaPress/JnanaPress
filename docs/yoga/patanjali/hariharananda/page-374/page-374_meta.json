@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHILOSOPHY OF PATANJALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          189.59068010075566,
+          71.9786286731968
+        ],
+        [
+          433.466796875,
+          71.9786286731968
+        ],
+        [
+          433.466796875,
+          85.001708984375
+        ],
+        [
+          189.59068010075566,
+          85.001708984375
+        ]
+      ]
+    },
+    {
+      "title": "\u0938\u094d\u092f\u0941\u0932\u0938\u094d\u0935\u0930\u0942\u092a\u0938\u0941\u0928\u094d\u0928\u093e\u0928\u094d\u0935\u092f\u093e\u092f \u0935\u091a\u094d\u0935\u0938\u0902\u092f\u0938\u093e\u0926\u094d\u092d \u0924\u0924\u094d\u0924\u094d\u0935\u0938\u0902\u092f\u0938\u093e\u0926\u094d\u0927 \u0924\u0924\u094d\u0924\u094d\u0935\u092f\u0903 \u0965 \u096a\u096a \u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          98.16750629722922,
+          523.3446126447017
+        ],
+        [
+          404.4140625,
+          523.3446126447017
+        ],
+        [
+          404.4140625,
+          540.6396484375
+        ],
+        [
+          98.16750629722922,
+          540.6396484375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-374"
+}

@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SUPERNORMAL TOW] RS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          219.783935546875,
+          67.45756103470922
+        ],
+        [
+          388.4860534667969,
+          67.45756103470922
+        ],
+        [
+          388.4860534667969,
+          81.48124267533422
+        ],
+        [
+          219.783935546875,
+          81.48124267533422
+        ]
+      ]
+    },
+    {
+      "title": "Karma Is \u00a3ith\u00abr Fast In Fructifying Or Slow In Fruition,\nBy Practising Samyania On Them Or On Portents,\nFore-Knowledge Of Death Can Be Acquired. 22.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.0989990234375,
+          257.03159667924047
+        ],
+        [
+          518.30078125,
+          257.03159667924047
+        ],
+        [
+          518.30078125,
+          310.5924487300217
+        ],
+        [
+          70.0989990234375,
+          310.5924487300217
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          541
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-347"
+}

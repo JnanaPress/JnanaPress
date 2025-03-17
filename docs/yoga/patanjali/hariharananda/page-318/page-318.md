@@ -1,0 +1,9 @@
+## YOGA PHILOSOPHY OF PATARjALJ
+
+V r
+
+shine; awareness may be known in this way\* In reality, however, there is but one kind of change, because the characteristic Is the very being of the characterised ; and it is the change of the thing characterised that is detailed by means of the characteristic (including the symptom and the state). It is only the characteristic, present in an object, that changes into pastj present and Future ; the substance itself is not changed. Thus when a vessel of gold is broken to be made into something else, it is only the shape etc, that change but not the gold. Some say that the object is nothing more than its characteristic inasmuch as the reality of the former does not overstep the latter. If the substance (the thing changed) persists in all the characteristics then because of its sameness in all conditions it would be changeless (6 . ( Taking the above view some object that this will involve the significance of perpetuity of the substance but as that is not really so) Our doctrine is correct, because it has never been urged anywhere that an object is immutably eternal. On the other hand, (it has been maintained that ), All things in this world, from Intellect to all knowablcs, disappear from their manifest or present condition and they vanish into the past ; thus their immutable perpetuity is not admitted. Again they exist after disappearance because their complete annihilation is denied. When they merge into their cause, they stay in a subtle form which is not noticeable on account of its subtlety.
+
+The characteristics or symptoms exist in three periods of time. What is past, or impressed with the symptoms of the past, is not differentiated from symptoms of the future or the present. Similarly, what is future i\$ not free from the symptoms of the present and the past, or what is present is not free of the past and
+
+**296**

@@ -1,0 +1,88 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SUPERNORMAL POWERS 281",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          214.10000610351562,
+          65.65171386674047
+        ],
+        [
+          542.4000244140625,
+          65.65171386674047
+        ],
+        [
+          542.4000244140625,
+          79.55131103470922
+        ],
+        [
+          214.10000610351562,
+          79.55131103470922
+        ]
+      ]
+    },
+    {
+      "title": "The Three Together On The Same Object Is Called\nSamyaxna. 4.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          107.20458984375,
+          514.2325854487717
+        ],
+        [
+          506.38916015625,
+          514.2325854487717
+        ],
+        [
+          506.38916015625,
+          549.0629077143967
+        ],
+        [
+          107.20458984375,
+          549.0629077143967
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          588
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-303"
+}

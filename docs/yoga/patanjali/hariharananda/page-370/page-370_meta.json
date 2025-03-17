@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOC:A fHILOSOPJlY OK PATA^JALT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          185.0500030517578,
+          70.80668212845922
+        ],
+        [
+          427.36572265625,
+          70.80668212845922
+        ],
+        [
+          427.36572265625,
+          88.2393798828125
+        ],
+        [
+          185.0500030517578,
+          88.2393798828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          830
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-370"
+}

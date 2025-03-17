@@ -1,0 +1,11 @@
+## **2:a YOGA philosophy ok pataSjali**
+
+thinking\* On attaining certain maturity and refinement such BhiWaul or thinking, develops into Dhfir aya and Dhyftna properly so-called.
+
+In ancient limes the lotus or core of the heart\* was the principal regiou or object for fixation of the inind1 so also was the light upspringing therefrom and called the light from Su^ttnma, the nerve within the spinal column. Later a system of keeping the mind steadfast on the six or twelve plexuses within the body came into vogue\* These twelve plexuses fall under the three categories of objects to fix the mind on, according to the Slmkhya system. They are Grahya—the knowable, Grahams—the instruments of reception and Grabita the receiver. When the mind gets set meditating on them, then Asampraj nftta Yoga call be attained. That depends, however, on the realisation of the fundamental principles. When the indivisible Receiver is realised, then shutting out even that knowledge with Paravairagya or final renunciation, the state of isolation is reached.
+
+Fixity of 'mind is of two kinds—(i) on the knowledge of the realities and (ii) on other objects\* The Sadikbyas who follow the path of self knowledge adopt the first. First, they assume the outer objects as impinging on the senseorgans, the sense-organs ns belonging to the ego, ego as grounded in the pure T-feeling and pure T-feeling or individual intellect as reflected by the Furnas. In consistency with these assumptions attempts are made to realise and to be posted in the self which is Absolute Awareness. In this process, aid of internal bodily location of the sense-organs, has to be taken, but the principal support of such meditation is the knowledge of the principles or realities-
+
+In the matter of fixing the mind on objects, the two principal ways are conceptions of sound and of effulgence\* Of these, the chief method is the adoption of the effulgence in the heart as the support for fixity on the pure T-feeling or Ihiddhi, i.f\* the principle of individual intellect. As regards fixity on sound, conception of a spontaneous uustruck sound fAn^ata-uada) emanating within Uie body has to be formed and thought upon.
+
+**•In meditating** *on* **ctif** *hr^rt* **irr footnote <o Sutru J-JU.**

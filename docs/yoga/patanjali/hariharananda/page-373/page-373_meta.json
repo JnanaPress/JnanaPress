@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SUPERNORMAL powers S5E",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          221.67236328125,
+          66.60459472611547
+        ],
+        [
+          540.04296875,
+          66.60459472611547
+        ],
+        [
+          540.04296875,
+          83.5113525390625
+        ],
+        [
+          221.67236328125,
+          83.5113525390625
+        ]
+      ]
+    },
+    {
+      "title": "*f*T*rfw?TT sfrWTlT^SI W 3fflTHmmZi: tl U* N",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          97.6171875,
+          461.6106066890061
+        ],
+        [
+          468.03955078125,
+          461.6106066890061
+        ],
+        [
+          468.03955078125,
+          487.2921252436936
+        ],
+        [
+          97.6171875,
+          487.2921252436936
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          616
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-373"
+}

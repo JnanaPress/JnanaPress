@@ -1,0 +1,11 @@
+## **ON PRACTICE 267**
+
+CENTRAL LIBRARY
+
+becoming habitual, can be transcended. After being habitual in both ways, these two become long and subtle. Practising external and internal operations, as stated above, their suspension, following their mastery, is the fourth Pranayama, Without considering space etc, suspension of movement with one effort, is the third Pranayama. It is then measured by space, time and number and thus becomes long and subtle. After acquiring proficiency in observing space etc. in the process of inhalation and exhalation, suspension of movement transcending them **is** the fourth Pranayama. This is the difference.
+
+(I] Besides external operation, internal operation and suspension, there is another form of Prttiri&yama. That also is a form of suspension, Rtit it has some difference with the third form of Frflyayama, or suspension. The third lJr3n&yama is performed all at once, But the fourth **Prftflfiyama. is** done after the practising of external and internal operations with the observation of space, time and **number,** and going beyond them all. After habitual practice, when the external and internal operation^ become very subtle, then going beyond them there arises a form of suspension which is the fourth **and** *a.* very fine form of suspension. The commentary will be understood better in the light of these observations.
+
+Here, the other method of Fr&i.ilyama is being explained in detail. At first\* one must sit calmly on a seat. Then, keeping the chest steady, air has to be inhaled and exhaled by moving the abdomen only. The exhalation has to be performed, as far as possible, slowly and completely. This will somewhat accelerate the movement of inhalation ^ care should, however, be taken to see that inhalation is done only by inflating the abdomen.
+
+In this way, while exhaling and inhaling;, a clear, **transparent\*** luminous or white, all-pervading;, infinite void should **be imagined** in the region of the heart, in the centre of the chest. At first for a few days instead of practising inhalation or exhalation

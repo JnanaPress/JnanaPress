@@ -1,0 +1,103 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHILOSOPHY OF PATA\u00d1JALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          185.09445843828718,
+          73.47818343722173
+        ],
+        [
+          429.10888671875,
+          74.22796081923418
+        ],
+        [
+          429.10888671875,
+          87.5198974609375
+        ],
+        [
+          185.09445843828718,
+          87.5198974609375
+        ]
+      ]
+    },
+    {
+      "title": "By Applying The Effulgent Light Of The Higher Sense-\nPerception ( Jyotismati ) Knowledge Of Subtle Objects\nOr Things Obstructed From View Or Placed At A\nGreat Distance, Can Be Acquired. 25.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.1926952141058,
+          172.4487978628673
+        ],
+        [
+          527.0166015625,
+          175.44790739091718
+        ],
+        [
+          527.0166015625,
+          237.42919921875
+        ],
+        [
+          68.1926952141058,
+          237.42919921875
+        ]
+      ]
+    },
+    {
+      "title": "\u092d\u0941\u0935\u0928\u0928\u094d\u0924\u093e\u0928\u0902 \u0938\u0942\u0930\u094d\u092f\u0947 \u0938\u0902\u092f\u092e\u093e\u0924\u094d \u0965 \u0968\u096c \u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          93.67128463476071,
+          530.8423864648263
+        ],
+        [
+          286.75048828125,
+          530.8423864648263
+        ],
+        [
+          286.75048828125,
+          546.5877114870881
+        ],
+        [
+          93.67128463476071,
+          546.5877114870881
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-350"
+}

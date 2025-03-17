@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "276 YOGA PHILOSOPHY OF FATAftjALl",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.0,
+          69.88138915970922
+        ],
+        [
+          422.13623046875,
+          69.88138915970922
+        ],
+        [
+          422.13623046875,
+          86.59330322220922
+        ],
+        [
+          60.0,
+          86.59330322220922
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          272
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-298"
+}

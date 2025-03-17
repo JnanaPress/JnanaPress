@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SUPER NORMAL POWERS 279",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          212.89999389648438,
+          73.50925781205297
+        ],
+        [
+          537.0999145507812,
+          73.50925781205297
+        ],
+        [
+          537.0999145507812,
+          86.54246093705297
+        ],
+        [
+          212.89999389648438,
+          86.54246093705297
+        ]
+      ]
+    },
+    {
+      "title": "In That Region The Continuous Flow Of The Same\nKnowledge It Called Dhyana Or Meditation. 2 +",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          100.81298828125,
+          313.93711425736547
+        ],
+        [
+          503.48388671875,
+          313.93711425736547
+        ],
+        [
+          503.48388671875,
+          353.6676135249436
+        ],
+        [
+          100.81298828125,
+          353.6676135249436
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          551
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-301"
+}

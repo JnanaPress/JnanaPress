@@ -1,0 +1,9 @@
+## **SVPKRNORMAL POWERS 30**^
+
+CENTRAL LIBRARY
+
+**Characteristics. Of these, that which has started functioning is called the present and it is different from those which are past or quiescent, and future or unmanifested. But then the question arises how can a characteristic be realised to be different From the substratum itselF when it lies hidden in the substratum in a quiescent or unmanifested form\* The characteristics of a substratum are of three types,** *viz.* **quiescent or past, uprisen or present and unmanifested or Future. OF these, that which has ceased to function is said to be quiescent, that which is Functioning is said to be uprisen or emergent and it is immediately contiguous to and before that which has not manifested itselF-Similarly the quiescent one is contiguous to and behind the present or the emergent one. Why are not the present characteristics behind the past ones, it might be asked**<sup>4</sup> **The reply is, because there is no relation of antecedence and succccdance between them as in the case of the future and the present. That is why there is nothing contiguous to and behind the past, and the Future is before the present.**
+
+**What is the unmanifested characteristic ? Everything is essentially every other thing. It has been said in this connection : lThe infinite variety of all forms of earth and water is seen in plants. Similarly essentials of plants are seen in animals and of animals in plants etc/ Thus on account of the non-destructibilily of the matter everything is said to contain the essence of everything. This, however, is subject to the limitations of space, time\* form and cause ; so particular objects do not manifest themselves simultaneously. The characterised object is that constant which remains common to all these manifested and unmanifested characteristics and**
+
+**0,TJ. 132—39**
