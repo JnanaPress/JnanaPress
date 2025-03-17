@@ -1,0 +1,65 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON PRACTICE IU5",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          246.65771484375,
+          73.85544921830297
+        ],
+        [
+          536.0066528320312,
+          73.85544921830297
+        ],
+        [
+          536.0066528320312,
+          86.82773925736547
+        ],
+        [
+          246.65771484375,
+          86.82773925736547
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          773
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-207"
+}

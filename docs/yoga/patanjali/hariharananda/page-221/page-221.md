@@ -1,0 +1,11 @@
+## **ON PRACTICE IW**
+
+CENTRAL LIBRARY
+
+Mahat etc. But this objectiveness is uot the cause of the i]Tmiaiiifested state\* As eternal Pradhana is there, it is transformed by objectiveness and is manifested as Mahat etc\* and they are no doubt nmtatively beginning;less, but they are impermanent because they cease wbeu they ceue to be objects of Purina\* They are also impermanent, because their existence is mutative or subject to appearance and disappearance\*
+
+(S) AIL manifested objects are products of the Guuas ; so the three Gupas can nowhere become extinct. The unmanifasted state also is a stale of equilibrium of the three Gin.iaSi That is a state of dissolution of manifested objects no doubt but it is not a dissolution of the three Guptas On the manifestation and disappearance of au object, the three Gm.ias look manifested and dissolved, but ill reality there is no increase or decrease iu the three Gujias nor is there any possibility thereof. When they are uot manifest, the three Guyas remain uu manifested, The example cited by the commentator in this connection means that when Devadatta is without a cow he is poor, but he is not so when he Lias it\* As the possession of an external Object and its want, is the cause of Devadatta's affluence and indigence, but it does not imply his physical ailments\* so from the appearance and disappearance of objects the three Gnyas seem to appear and disappear, but in reality the three Gii\$as neither appear nor disappear\* Because they have no antecedent causes there is no rise (i.r. emergence from cause) or disappearance (submergence into cause) for them.
+
+(9) Without disturbing the sequence \* as it is not possible to transgress the progress of evolution. From the unmanifest (Prakrit) comes Mahal; from Mahal comes Fgo, from Fgo **Come** the Tanm&traa and the senses, from the Tanmatras **come** the BhQtas. This course of evolution has been mentioned before and it is to be understood that this is the sequence in which evolution takes place. Not having spoken of sequence explicitly before, the commentator has spoken of it liereL
+
+The Vi&e\$as do not undergo any further change in ba^ic principle. The Aka£a-LdiOta, having the property of sound is not changed into any other principle\* Principle means the common basis or material] f*>g.* the common basis of external

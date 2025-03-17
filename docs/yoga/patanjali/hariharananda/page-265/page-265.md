@@ -1,0 +1,9 @@
+## **ON PRACTICE 241**
+
+CENTRAL LIBRARY
+
+varieties. Mild, moderate and vehement can each be of three kinds—**gently** mild, moderately mild, extremely mild ; gently moderate, moderately moderate and extremely moderate ; and gently vehement, moderately vehement and violently vehement. In this way harm can be of eighty-one varieties. This again becomes innumerable because of varieties due to customary rules, Vikalpa (option, *c.g.* sacrificing this or that animal) and Samuccaya (collective, *e.g.* sacrificing every kind of animals) as living creatures are innumerable. This sort of classification is also applicable in the case of untruth, theft etc.
+
+To think that ''these perversities produce endless consequences of pain and ignorance" is opposite tliiiiking-Moreover, the injurer (animal killer) first reduces the power of the victim ( *e.g.* by tying him up), then inflicts pain by weapons and finally deprives him of life. And on account of enervating the victim, the injurcr loses the vigour of his body and senses, on account of causing pain he suffers by going to infernal region or being born as an animal or being an evil spirit, and for killing he suffers from a fatal disease on account of which he goes on suffering continuously through sill of unrestricted fruition (2) and although he prays for death he goes on living, IT somehow the spirit of harm is removed or suppressed through piety (3) he might gethappiness though he will be shortlived. This line of argument is applicable to untruth, theft etc. as far as possible- Thinking thus of the inevitable evil efforts of perverse thoughts and deeds, the mind should never again be engaged in them. Perverse thoughts are to be forsaken through their contrary thoughts.
+
+(1) Approved \*\* to approve injurious action dont: by Another.

@@ -1,0 +1,149 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON PRACTICE 255",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          245.0500030517578,
+          71.44340087845922
+        ],
+        [
+          535.8998413085938,
+          71.44340087845922
+        ],
+        [
+          535.8998413085938,
+          85.66892578080297
+        ],
+        [
+          245.0500030517578,
+          85.66892578080297
+        ]
+      ]
+    },
+    {
+      "title": "JTPfl \\\\ 'de II",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          97.762451171875,
+          237.84409667924047
+        ],
+        [
+          269.754638671875,
+          237.84409667924047
+        ],
+        [
+          269.754638671875,
+          255.724609375
+        ],
+        [
+          97.762451171875,
+          255.724609375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          97.32666015625,
+          264.56396484375
+        ],
+        [
+          452.35107421875,
+          264.56396484375
+        ],
+        [
+          452.35107421875,
+          278.13134765625
+        ],
+        [
+          97.32666015625,
+          278.13134765625
+        ]
+      ]
+    },
+    {
+      "title": "From That Arises Non-Affcctioin By Dvandvai Or Opposite\nConditions. 4Q.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          72.0,
+          283.1162524409592
+        ],
+        [
+          531.083984375,
+          283.1162524409592
+        ],
+        [
+          531.083984375,
+          319.2018237300217
+        ],
+        [
+          72.0,
+          319.2018237300217
+        ]
+      ]
+    },
+    {
+      "title": "That [Asana) Having Been Perfected, Regulation Of The\nFlow Of Inhalation And Exhalation Is Prjnayama\n(Breath Control). 49,",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          87.593994140625,
+          593.5130877681077
+        ],
+        [
+          523.5302734375,
+          593.5130877681077
+        ],
+        [
+          523.5302734375,
+          645.478515625
+        ],
+        [
+          87.593994140625,
+          645.478515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          533
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-277"
+}

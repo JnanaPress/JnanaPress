@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON PRACTICE. 211",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          247.965087890625,
+          67.74027587845922
+        ],
+        [
+          535.9000244140625,
+          67.74027587845922
+        ],
+        [
+          535.9000244140625,
+          82.11619140580297
+        ],
+        [
+          247.965087890625,
+          82.11619140580297
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          833
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-233"
+}

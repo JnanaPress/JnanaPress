@@ -1,0 +1,107 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHILOSOPHY OF PATANJALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          191.83879093198993,
+          77.22707034728406
+        ],
+        [
+          437.24365234375,
+          77.22707034728406
+        ],
+        [
+          437.24365234375,
+          89.5755615234375
+        ],
+        [
+          191.83879093198993,
+          89.5755615234375
+        ]
+      ]
+    },
+    {
+      "title": "\u092d\u093e\u0937\u094d\u092f\u092e\u094d - \u0918\u094d\u092f\u0925 \u0939\u093e\u0928\u0938\u094d\u092f \u0915\u0903 \u092a\u094d\u0930\u093e\u092a\u094d\u0924\u094d\u092f\u0941\u092a\u093e\u092f \u0926\u094d\u0930\u0924\u093f-\n\u0935\u093f\u0935\u0947\u0915\u0916\u094d\u092f\u093e\u0924\u093f\u0930\u0935\u093f\u092a\u094d\u0930\u0935\u093e \u0939\u093e\u0928\u094b\u092a\u093e\u092f: \u0965 \u0968\u096c \u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          93.67128463476071,
+          191.94300979519144
+        ],
+        [
+          355.60546875,
+          191.94300979519144
+        ],
+        [
+          355.60546875,
+          232.49560546875
+        ],
+        [
+          93.67128463476071,
+          232.49560546875
+        ]
+      ]
+    },
+    {
+      "title": "Clear And Distinct (Unimpaired) Discriminative\nDiscernment Is The Means Of Escape. 26.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          108.65869017632242,
+          376.1865234375
+        ],
+        [
+          483.14697265625,
+          376.1865234375
+        ],
+        [
+          483.14697265625,
+          404.8797862867319
+        ],
+        [
+          108.65869017632242,
+          404.8797862867319
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-244"
+}

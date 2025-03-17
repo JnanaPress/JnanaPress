@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHILOSOPHY O* PATA^JALJ",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          194.798583984375,
+          69.09971191361547
+        ],
+        [
+          438.115234375,
+          69.09971191361547
+        ],
+        [
+          438.115234375,
+          84.9503173828125
+        ],
+        [
+          194.798583984375,
+          84.9503173828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          848
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-218"
+}

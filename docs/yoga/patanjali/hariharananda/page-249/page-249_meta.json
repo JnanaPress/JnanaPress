@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON PRACTICE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          245.04408060453403,
+          65.2306322350846
+        ],
+        [
+          345.146484375,
+          65.2306322350846
+        ],
+        [
+          345.146484375,
+          79.3486328125
+        ],
+        [
+          245.04408060453403,
+          79.3486328125
+        ]
+      ]
+    },
+    {
+      "title": "Through The Practice Of The Different Accessories To Yoga\nWhen Impurities Are Destroyed, Then There Arises\nEnlightenment Of Perception Culminating In\nDiscriminative Discernment (1). 28.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.318115234375,
+          591.5743544078362
+        ],
+        [
+          529.921875,
+          590.0747996438112
+        ],
+        [
+          529.921875,
+          651.5565449688335
+        ],
+        [
+          62.318115234375,
+          651.5565449688335
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          32
+        ],
+        [
+          "Span",
+          32
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-249"
+}

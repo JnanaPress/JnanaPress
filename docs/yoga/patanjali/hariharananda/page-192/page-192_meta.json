@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "no YOfrA PHI IxO^OP tfY OF PATARJALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.80000305175781,
+          68.59611083939672
+        ],
+        [
+          437.82470703125,
+          68.59611083939672
+        ],
+        [
+          437.82470703125,
+          88.27097656205297
+        ],
+        [
+          64.80000305175781,
+          88.27097656205297
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          801
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-192"
+}

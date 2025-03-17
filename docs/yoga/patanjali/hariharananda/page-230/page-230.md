@@ -1,0 +1,11 @@
+## *2m* **YOGA PHILOSOPHY OF PATAftjAU**
+
+## **To** Serve As Object Of Purusa 1\$ **The** Soul Of **The** Knuwabb, 21.
+
+The knowable is endowed with the property *oi* being the experiences (1) of Purusa ; that is why being His (Purusa's) object is the soul or real nature of the knowable. The nature of the knowablc is known through the other, the Purusa (2). When experience and liberation are accomplished, Purusa no longer oversees it. Therefore on account of the cessation of its real nature (of being the object of Purusa) it ceases to exist, but is not destroyed altogether.
+
+(1) Karmasvarupata—Property of being serviceable- being an object and being of service to Purina, fundamentally mean the same tiling, Tims the nature of the knownble is to be the object (experience a*ud* liberation) of Ptirtl^n. Alt actions like knowledge of colour etc. all feelings, all volitions are tlie objects of Puru\$a- Knowability and being object of the Purtisu arc exactly the same.
+
+('2) Knowledge in the form of knowalilt awaits llie Purusa-As, being cognised is the nature of Lhe kuowable, a maniTested object becomes manifest only by the nature of the Purlieu, hi other words, when experiencing by Purusa is the nature of an object, then its existence as object is dependent on the Pura\$a\* When there is no possibility of experience, the object ceases to exist as an object but is not altogether destroyed. It then remains tinmanifest. One manifestation as an object disappears, but the other manifestations remain a? objects for other PnrusaSj so the object does not cease to be. [In this connection note (2) to 11-17 illustrating the effects of a piece of opaque gla^s oti the sun's rays might be seen to follow how an object is cognised through the nature of another.)
+
+The object of Pnni?a or Seer is the knownble. Taking the term "Artha1 to mean value some take Purusa as an entity seeking some values, desirous of fulfilling his interests, and thus misinterpre t the Satilkhya philosophy. There are certain similics in Sariikhya-K&rika : not following their proper import

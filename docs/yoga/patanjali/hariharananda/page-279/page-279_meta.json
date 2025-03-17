@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON PRACTICE 257",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          242.880859375,
+          67.93815185502172
+        ],
+        [
+          534.0,
+          67.93815185502172
+        ],
+        [
+          534.0,
+          82.89329101517797
+        ],
+        [
+          242.880859375,
+          82.89329101517797
+        ]
+      ]
+    },
+    {
+      "title": "WFRR \"R g\u2014",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          92.3150634765625,
+          321.00303222611547
+        ],
+        [
+          194.94384765625,
+          321.00303222611547
+        ],
+        [
+          194.94384765625,
+          348.8028674311936
+        ],
+        [
+          92.3150634765625,
+          348.8028674311936
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          470
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-279"
+}

@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHILOSOPHY OF PATA\u00d1JALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          195.58564231738035,
+          75.72751558325912
+        ],
+        [
+          438.98681640625,
+          75.72751558325912
+        ],
+        [
+          438.98681640625,
+          87.9310302734375
+        ],
+        [
+          195.58564231738035,
+          87.9310302734375
+        ]
+      ]
+    },
+    {
+      "title": "That Is Why This Sastra Has Been Described As Consisting\nOf Four Parts, Of Which Pain Which Is Yet To Come\nIs To Be Avoided. 16.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          74.18765743073048,
+          157.45325022261798
+        ],
+        [
+          533.69873046875,
+          157.45325022261798
+        ],
+        [
+          533.69873046875,
+          203.71630859375
+        ],
+        [
+          74.18765743073048,
+          203.71630859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          30
+        ],
+        [
+          "Span",
+          30
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-188"
+}

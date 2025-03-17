@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "2m YOGA PHILOSOPHY OF PATAftjAU",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.900001525878906,
+          69.38755371049047
+        ],
+        [
+          436.953125,
+          69.38755371049047
+        ],
+        [
+          436.953125,
+          83.70115234330297
+        ],
+        [
+          61.900001525878906,
+          83.70115234330297
+        ]
+      ]
+    },
+    {
+      "title": "To Serve As Object Of Purusa 1$ The Soul Of The\nKnuwabb, 21.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.71826171875,
+          94.78666259720922
+        ],
+        [
+          499.99755859375,
+          94.78666259720922
+        ],
+        [
+          499.99755859375,
+          134.40623046830297
+        ],
+        [
+          103.71826171875,
+          134.40623046830297
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          691
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-230"
+}

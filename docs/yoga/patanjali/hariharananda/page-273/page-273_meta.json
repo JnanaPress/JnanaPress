@@ -1,0 +1,107 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON PRACTICE 251",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          236.634521484375,
+          65.78354980424047
+        ],
+        [
+          523.8994750976562,
+          65.78354980424047
+        ],
+        [
+          523.8994750976562,
+          79.77305175736547
+        ],
+        [
+          236.634521484375,
+          79.77305175736547
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          90.93505859375,
+          362.2080078125
+        ],
+        [
+          312.0263671875,
+          362.2080078125
+        ],
+        [
+          312.0263671875,
+          374.5419921875
+        ],
+        [
+          90.93505859375,
+          374.5419921875
+        ]
+      ]
+    },
+    {
+      "title": "From Study And Repetition Of Mantras Communion\nWith The Desired Deity is Established. 44.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          84.54345703125,
+          427.40146972611547
+        ],
+        [
+          500.57861328125,
+          427.40146972611547
+        ],
+        [
+          500.57861328125,
+          461.4622912593186
+        ],
+        [
+          84.54345703125,
+          461.4622912593186
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          572
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-273"
+}

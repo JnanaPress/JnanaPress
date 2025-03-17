@@ -1,0 +1,65 @@
+{
+  "table_of_contents": [
+    {
+      "title": "OX' PRACTICE 1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          242.445068359375,
+          69.60935546830297
+        ],
+        [
+          522.9000244140625,
+          69.60935546830297
+        ],
+        [
+          522.9000244140625,
+          83.4085693359375
+        ],
+        [
+          242.445068359375,
+          83.4085693359375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          638
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-175"
+}

@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "256 YOGA PHILOSOPHY OF FATaKjaU",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.900001525878906,
+          65.97056152299047
+        ],
+        [
+          423.87939453125,
+          65.97056152299047
+        ],
+        [
+          423.87939453125,
+          83.25439453125
+        ],
+        [
+          61.900001525878906,
+          83.25439453125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          800
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-278"
+}

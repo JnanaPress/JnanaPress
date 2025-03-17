@@ -1,0 +1,9 @@
+## YOGA PHILOSOPHY OF FATA?SJALJ
+
+said to be \*of single consequence\* ; while if it is responsible for the span of life as well as for experience\* it is 'of double consequence"'—as as in the case of Nandisvara and Nahusa (of double effect and of a single elTcct). Mind nourished from time immemorial on latencies (Vasana) of Klesas and the execution of actions, is like a **variegated** picture or like a fishing net with knots all over. That is why Vasana is derived from many previous births, while Karmasaya is derived from one birth or lire. Those subconscious latent impressions which give rise to memory only\* are known as Vasanas and they arc without beginning,
+
+Karmakya which is of one life\* only, lias cither certain fruition or uncertain fruition. Of these two classes, the proposition that Karmasaya is active in one life only, is applicable in the case of those of certain while those with uncertain fruition and operative future life cannot be helcj to be active only life. This is because uncertain Karmasaya operative in a future life, has three kinds of outcome first, unfructificd Karma^aya may be destroyed through atonement before it has become operative <sup>j</sup> secondly, it may be mixed up with the dominant Karmasaya as a subordinate element ; thirdly, it may be overshadowed by the dominant Karmasaya and may remain for a long time in a dormant state. Of these, the first is illustrated by the destruction in this liTc of dark deeds by the performance of pious ones. In this connection it has been said "Know the work to be of two kinds of which a mass of merit destroys one of demerit. Therefore resolve to do good deeds. Those good deeds are to be done in this life ; so have the sages demonstrated to you". fruition \* in some in one
+
+Regarding fruition of minor Karmasayas as subsidiary to limited dominant Karmasayas it has been said by
+
+**IS?**

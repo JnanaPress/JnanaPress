@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON PRACTICE 155-",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          250.4345703125,
+          68.42478515580297
+        ],
+        [
+          538.193603515625,
+          68.42478515580297
+        ],
+        [
+          538.193603515625,
+          81.89872314408422
+        ],
+        [
+          250.4345703125,
+          81.89872314408422
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          707
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-177"
+}

@@ -1,0 +1,11 @@
+## ]"B **YOGA philosophy op fatanjali**
+
+**of the self is bondage of Huddhi (?)> while their completion is liberation. Thus perception, retention, recollection, elimination, conception and determination although present in the intellect arc assumed to be present in the Pursua and He is regarded as experiencing them £see 1-6 (])].**
+
+**(I) Sentient-knowing tin the contexL of subjective principles) or capable of being kuowu ( id the context** of **objective principles ).**
+
+Mobi^ — subject to change.
+
+Inert — opposed to sentience and mobility- All knowledge aud all kuowables arc instances of sentience- All sorts of movement and action are instances of mutation. Ail forms of dispositions and retention arc instances of inertness. The sentient and the other constituents get transformed in two series, rii\* Rhiitus {elements} and senses, \*,e. that of intentions and of intended. Intention is equivalent to knowing, acting and retaining, while intended stands for the knowable, the actions and the retained, indeed knowledge, action and similar ^modifications arc the outcome of the joint functioning of Saliva, Rajas and Taunts. That is why in each of them sentience, mobility and inertia are traceable. Take for example the knowledge of a tree ; its knowledge or cognition aspect is sentiencef the particular activity which produces it is mobility or the mobility aspect ofib while the potentialities, that being actualiscd have become the manifest knowledge, constitute its retentiveness or inertia aspect. Thus the awareness that is noticed in the internal instruments, in the sense-organs, in the organs of action and jn the Pranas, is sentience, the change of state that is noticed is mobility while the stored state before and after the energy comes into play is retention. This describes sentience, mobility and inertia as forming the series of intentions. Perceptible colour, sound etc., motions or movables, and the obscures that resist cognition and action describe the series of the intended.
+
+In fact, if we leave behind .sentience, mobility and inertia we CAt| know nothing of knowledge and the known, i-f\* of the

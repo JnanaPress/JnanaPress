@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          282.68310546875,
+          4.2333831787109375
+        ],
+        [
+          310.8642578125,
+          4.2333831787109375
+        ],
+        [
+          310.8642578125,
+          30.44952392578125
+        ],
+        [
+          282.68310546875,
+          30.44952392578125
+        ]
+      ]
+    },
+    {
+      "title": "225 yoga philosophy or jpala^jalj",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          65.05000305175781,
+          64.53965331986547
+        ],
+        [
+          427.0751953125,
+          64.53965331986547
+        ],
+        [
+          427.0751953125,
+          86.89329101517797
+        ],
+        [
+          65.05000305175781,
+          86.89329101517797
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          617
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-248"
+}

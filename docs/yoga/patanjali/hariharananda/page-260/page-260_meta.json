@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "2\u00bb YOGA PHILOSOPHY QF FATA^JALl",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.099998474121094,
+          69.49003173783422
+        ],
+        [
+          424.46044921875,
+          69.49003173783422
+        ],
+        [
+          424.46044921875,
+          87.49003173783422
+        ],
+        [
+          58.099998474121094,
+          87.49003173783422
+        ]
+      ]
+    },
+    {
+      "title": "CUanliD\u00bb\u00bbt Contentment, Austerity, Svadhyaya (Practices\nWith The Help Of Words) And Devotion To God Are\nThe Niyiinaas [Observances]. 32.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          72.95000457763672,
+          258.0478930659592
+        ],
+        [
+          518.30078125,
+          258.0478930659592
+        ],
+        [
+          518.30078125,
+          311.638671875
+        ],
+        [
+          72.95000457763672,
+          311.638671875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          496
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-260"
+}

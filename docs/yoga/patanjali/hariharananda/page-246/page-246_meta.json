@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "224 YOGA PHILOSOPHY OF FATAftjALl",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.95000076293945,
+          73.14506103470922
+        ],
+        [
+          434.62890625,
+          73.14506103470922
+        ],
+        [
+          434.62890625,
+          89.113037109375
+        ],
+        [
+          60.95000076293945,
+          89.113037109375
+        ]
+      ]
+    },
+    {
+      "title": "Seven Kinds Of Ultimate Insight Came To Him jTh\u00ab 'l ogin\nWho Has Acquired Discriminative Discernmenti |1)H 27.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          66.0,
+          100.55149414017797
+        ],
+        [
+          539.21875,
+          100.55149414017797
+        ],
+        [
+          539.21875,
+          134.50034667924047
+        ],
+        [
+          66.0,
+          134.50034667924047
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          658
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-246"
+}

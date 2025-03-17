@@ -1,0 +1,11 @@
+## YOGA PHILOSOPHY OF PATANJALI
+
+overseeing, He, though not becoming identical with them, appears like them. That is why it has been said by Pañchasikha, 'The Supreme entity to which experiences are due is not mutable nor transmissible, it appears to be transmitted to and follow the mutative modifications of Buddhi, which thereby seems to be endowed with consciousness, and thus pure Awareness appears to be identical with them' (6).
+
+(1) Seer (Drașță) = Immutable knower. Knower (Grahità) = mutable knower. The seer and the knower are similar but not the same. The Seer is always a seer of itself ; the knower is a knower when it knows, but not so when it does not. "I am the knower'-Buddhi's taking this form, is the knower.
+
+Absolute Knower is pure consciousness. The word Drsi means knowing not subject to any condition, i.e. consciousness in itself. The idea that 'I exist' is first felt and then expressed. It is subject to a condition because it is a form of Buddhi. But the root of the idea of 'I', which is antecedent to that idea, and which we try to express in words, is not dependent on any condition. Sruti also says, By what else can the knower be known ?' "The knowing principle of the knower is never absent.' What such conditions seek to be revealed is an object, and the conditions themselves are also objects, therefore that which is the Seer is not an object that depends for its manifestation on some condition. Consciousness intrinsic to the Knower, i.e. consciousness that is the essence of the seer, is self-consciousness. Seer = seer of self, i.e. the illuminer of the self-conceiving Buddhi.
+
+As long as there is something to be seen the Purusa is to be called the Seer, but when the object to be seen (knowable) disappears how can Purusa be called a Seer ? This question may be posed. In reply it can be said, "Do not use the appellation 'seer' if you like, then the proper word to use would be like "knowing in itself'-'unconditioned consciousness' etc." If however, the word 'seer' is used it would indicate the 'seer' of modificationless indiscrete mind. It must be remembered that the use of different expressions does not change the nature of
+
+202

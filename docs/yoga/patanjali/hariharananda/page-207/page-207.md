@@ -1,0 +1,13 @@
+## **ON PRACTICE** IU5
+
+CENTRAL LIBRARY
+
+it is called experience. It is of two kinds—npprehension of things (i) as desirable and (ii) an undesirable, *\*wg,* identification of the Seer and seen in the ideas 1 am HappyT and 'I am unhappy'- When the Seer or subject and the seen or object are perceived to be separate as in 'I am free from pleasure and pain', it is called release (from bondage).
+
+Kxperielice is cognitive ; so is also emancipation. Puru?a unaffectedly observes both pleasure and pain ; so also it observes releases. When both experience and release are forms oT knowledge, the experience! or observer means the knower-As by reference to the relationship with Dfsya (seen), the Drast:! (Seer) is so called, so by reference to experience the Seer is called the subject of experience. The ktiower and the kuowable being two different entities, the knower does not change with the mutation of the kltowable. That is why the seer Pixmpa is the Unchangeable and inseparable cause of seeing the seeable, whereas the seen is the mutable cause of that seeing. The commentator has illustrated by quoting the example of the commander and the soldiers the UdChangeahility and inaction of the subject of experience.
+
+Pleasure and papi are by themselves unconscious and characteristics oT Buddhi or intellect. Pleasure is the state caused by a particular favourable action on the instruments of reception. Therefore it is a particular action brought about, by ah **unconscious** thing. \*r am happy\*—(his feeling becomes a conscious state when referred to the conscious self, <sup>j</sup>\<sup>i</sup>, it appears as conscious. This lias been called by the commentator before (I-?} as ^cognition of the mental **fluctuations** illumined by the tUirufa.' Without relationship With pleasure becomes insensible, .invisible and mi manifest. Therefore the manifestation of happiness is dependent on the consciousness of the Purina. That is why happiness etc. are said to be the objects of experience of the Ihirufu. It is because there is reflex consciousness from Pnru\$fl in pleasure and pain, that there is an inclination towards happiness and abandoning both pleasure and pain there is an inclination towards final release.
+
+According to Saiiikhya philosophy the experience! is a kind of knower. Therefore the view that Puru^a is the enjoyer ot knower of experience and release is the logical view.
+
+O.P. 135—24

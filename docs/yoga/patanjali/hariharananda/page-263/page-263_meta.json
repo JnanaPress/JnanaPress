@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON PRACTICE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          253.28715365239296,
+          74.97773820124665
+        ],
+        [
+          353.57177734375,
+          74.97773820124665
+        ],
+        [
+          353.57177734375,
+          85.72119140625
+        ],
+        [
+          253.28715365239296,
+          85.72119140625
+        ]
+      ]
+    },
+    {
+      "title": "When These Abstentions And Observances Are Inhibited By\nPerverse Thoughts There Should Be Thought Of The\nOpposites (1). 33.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          72.68891687657431,
+          152.95458593054317
+        ],
+        [
+          529.8047858942066,
+          152.95458593054317
+        ],
+        [
+          529.8047858942066,
+          200.1905609973286
+        ],
+        [
+          72.68891687657431,
+          200.1905609973286
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-263"
+}

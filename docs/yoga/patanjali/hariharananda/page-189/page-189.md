@@ -1,0 +1,9 @@
+## **ON PRACTICE IG7**
+
+CENTRAL LIBRARY
+
+For that reason the cause of that which has been mentioned as avoidable is being described\*
+
+## **Identification Of Thf Sccr Or Tht Subject With The Seen Or The Object Is The Cause Of The Avoidable. 17.**
+
+The seer is the Puiusa which is the reflector of the Buddhi (or pure sense) and the seen objects arc the formations which arc deposited on the Buddhi. Like a lodestone, the seen acts on that which is near it (I) by virtue of proximity\* By its character of knowability, it becomes the property of the Purusu whose nature is Awareness ; the knowablc (or the Buddhi) becoming the object of **experience** or action is naturally revealed as another t\<, like Purusa (2), and though Independent in itself, ii becomes dependent as serving as the object ol another *i.e*. Purusa (3)t That beginningleu conjunction between Consciousness and the object ii the cause of the avoidable i\tf. misery. That is why it has been said (by Acharya PanchasiklTa) by giving up the cause oi conjunction with Buddhi, this absolute remedy of affliction can be effected\*\* because it is seen that the avoidable cause of trouble can be remedied. For example, the sole of the foot being susceptible to damage from thorn, the piercing power of the thorn can be avoided by not putting the foot <m the thorn, or by having a shoe on. One who knows these three can avoid the trouble arising from a thorn by adopting a remedy. How *?* By the ability to know the nature of the three. In spirittial matters also, Saitva is excited by the pain-causing Rajas, because the power to came pain is dependent on action in some other thing, and which cannot take place in the immutable and inactive knower that is the Self\* Since the objects in Buddhi arc shown to the Purusa, when the object is charged with pain, the Purusa isalso pained rcflcxi\rh (d -

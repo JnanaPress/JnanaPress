@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "14* VOGA PHILOSOPHY OT FATA&JALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.900001525878906,
+          78.88462402299047
+        ],
+        [
+          429.98046875,
+          78.88462402299047
+        ],
+        [
+          429.98046875,
+          95.66025878861547
+        ],
+        [
+          56.900001525878906,
+          95.66025878861547
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          680
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-170"
+}

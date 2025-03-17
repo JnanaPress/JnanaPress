@@ -1,0 +1,103 @@
+{
+  "table_of_contents": [
+    {
+      "title": "24# YOGA PHILOSOPHY OF PATASjAH",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.95000076293945,
+          68.58420898392797
+        ],
+        [
+          426.494140625,
+          68.58420898392797
+        ],
+        [
+          426.494140625,
+          88.44327880814672
+        ],
+        [
+          54.95000076293945,
+          88.44327880814672
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          92.823486328125,
+          346.5849609375
+        ],
+        [
+          269.464111328125,
+          346.5849609375
+        ],
+        [
+          269.464111328125,
+          360.5634765625
+        ],
+        [
+          92.823486328125,
+          360.5634765625
+        ]
+      ]
+    },
+    {
+      "title": "From The Practice Of Purification, Aversion Towards\nOwn Body Ib Developed And Thus Aversion Grows\nTo Contact With Other Bodies. 40.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          88.9013671875,
+          482.8669543452561
+        ],
+        [
+          507.2607421875,
+          482.8669543452561
+        ],
+        [
+          507.2607421875,
+          533.3760485835373
+        ],
+        [
+          88.9013671875,
+          533.3760485835373
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          563
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-270"
+}

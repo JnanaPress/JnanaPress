@@ -1,0 +1,13 @@
+## ON PKAKTICJI- **iy|**
+
+CENTRAL LIBRARY
+
+**senses anti of Lilt Taninatras or Monads. They being only units of sensation and Feeling,** *h***ave no diversities in them. Iliversifieds can he pleasant, unpleasant aml stuporous. The uniliversifiedB are free from such character!sties. Things admitting various distinctions like blue, yellow, sour, sweet etc. are the diversified ones while those without such distinctions are the undiversified ones, The technical name of the sixteen mutations referred to above is Vi£cfa, and the six from which they have come are known as Aviiegfc-**
+
+WhfU is palled Mahat i\* a token only (Linga-miHra). Although from its nature it is an Aviiefla\* still Linga or token is its proper enunciation. Linga means indicator. That which is the indicator of another is called its I\*i.oga\* Mahafctattva is the indicator of the Self and the anmanifest (Prakfti)\* That is why it is their Ling\*. l^iiiga-matra means the real or chief indicator. The senses may be the indicator of Pum\$a and Prakjti but they are the chief tokens of their respective {immediate) causes. Mali at is the Lmgft or indicator of Purina and Pttifcrti. Aliuga — Prakrti, which is not the token or indicator of anything.
+
+Diversified Unga, umliversificd Liuga> only LingH, and without Linga are the four sect ions of the Gui>a trio. That is why they are called the sections or states of the Gum
+
+{2) Ordinary water, earth etc. do not constitute the Bhuta principles nr elements. That whose characteristic feature is sound is Akiisa. Similarly thermal sense, visual sense, gustatory' sense and olfactory sense are respectively the characteristic features of VAyu, Tejas, Ap and Ksiti principles or g^oss elements. From the point of view of principles, the RLifuas known as V£yn, K?iti etc. are nothing but entities with features mentioned above, Fartli» water etc, arc only mixtures of those elements, i.r. they are aggregates of all those principles.
+
+From the point of view of cause it is found that Akiisa is the cause of Vilyii, Vftvii is the cause of Tejas\* Tejas or Ap and Ap of\*K?iti. Scientific investigation shows that if the vibrations of sound are **Stopped,** it produces lieat, **heat produces** light, and from light (Sun's ray) all chemical- (like **vegetable** products) are formed. Finest particles of the **chemicals give** the perception of smell sense. Ill the Mah&bhArata we [iml

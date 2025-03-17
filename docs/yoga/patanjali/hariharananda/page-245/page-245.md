@@ -1,0 +1,9 @@
+## ON PRACTICE
+
+Discriminative knowledge arises first from listening to the Sastras or scriptures. Then by reasoned contemplation it becomes firmer and clearer. Through practice of the different exercises of yoga it gradually develops. When through Samprajnata yoga or engrossment therein, the chance of acquiring wrong notion in respect of knowables, is eradicated then it is called the parched state of the seed of wrong knowledge. When that happens and the attachment to seen and unseen (i.e. heavenly) enjoyments completely ceases, then arises discernment based on knowledge of distinction purified through Samadhi. When that discriminative discernment becomes uninterrupted and is not broken by nescience, then the escape, i.e. complete abandonment of knowables, is effected. At that time wrong knowledge becomes like parched seed. When the escape is complete then the erroneous conceptions reduced to the state of parched seeds as well as discriminative knowledge, both disappear. That is isolation.
+
+How Buddhi disappears through discriminative discernment has been explained in the next aphorism.
+
+## तस्य सप्तधा प्रान्तभूमिः प्रज्ञा ॥ २० ॥
+
+भाष्यम्-तस्येति प्रत्युदितख्याती: पत्याम्नाय:, सप्तधेति । श्रश्रुद्यावरण-मलापगमाचित्तस्य प्रत्ययान्तरानुत्पादे सति सप्तप्रकार व प्रज्ञा विवेकिनो भवति, तद्यथा-परिश्चातं हेयं नास्य पुन: परिज्ञेयमस्ति ।- १ । चौणा हेयहेतवो न पुनरेतिष्यां चेतव्यमस्ति । -- र । साचारकातं निरोधसमाधिना हानम् ।--३। भावितो विवेकख्यातिरूपो हानोपायः ।- ४। इत्येषा चतुष्टयो कार्या विमुक्तिः प्रभायाः । चित्तविमुक्तिस्तु व्रयो ।- चरिताधिकारा बुद्धिः ।- ५ । गुण गिरिश्चिखरकूटच्युता द्व यावाणो निरवस्थानाः स्वकारणे प्रलयाभिसुखाः सन्न तेनास्तं गच्छून्ति, न चैषां विप्रलौनानां पुनरस्त्युत्पाद: प्रयोजनाभावादिति ।-६ । एतस्यामवस्थायां गुणसम्बन्धातीतः स्वरूपमात्रज्योतिरमलः केवली पुरुष इति ।- ७ । एतां सप्तविधां प्रान्तभूमिप्रज्ञामनुपश्यन्युक्यः कुशल द्रत्याख्यायते, प्रतिप्रसविऽपि चित्तस्य मुत्तः कुशल द्वत्येव भवति गुणातौतस्वादिति ॥ २०॥

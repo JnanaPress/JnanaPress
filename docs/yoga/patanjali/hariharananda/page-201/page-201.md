@@ -1,0 +1,11 @@
+## **ON PRACTICE |<sup>7</sup>'»**
+
+CENTRAL LIBRARY
+
+**subjective** and the objective **world.** Truly speaking\* there is nothing else to be known (as objects), sentience, mobility and inertia can be seen **everywhere** if only wt know bow to sev-The external world is introduced by the live elemental properties of light, sound etc\* In sound, for example, there is awareness, action which produces the awareness, and the stored energy which causes the action. Material objects like pot etc. are nothing **but** a collection of particular qualities like sound, touch etc.\* of particular actions and of particular forms of inertia like hardness etc. In the mind also the three properties ofsentience, mobility and inertia are present in the form of cognition, conation and retention\*
+
+Thus we **see** that the internal **and** external worlds are **in** tiual analysis made up of only three fundamental Gu^is That wonI manifested as whose nature Sattva means being known. the sentient, the mobile and the inert, is only sentience is called Sattva. The a thing or what is spoken of as Jii is' while 'When it is illumined or understood, it is spoken of as existing, this is the reason for calling manifestation Sattva. The quality of being active is Called Rajas, Rajas means dust ; as dust tarnishes so Sattva is tarnished or disturbed by Rajas, and therefore it is so called. As action products change of state, Sattva or steady **existence** becomes like nonexistent or changes into a fluctuating state of appearance and disappearance. That is why action or Rajas is said to upset Sattva. Inertia is Tanias which means darkness. Like **darkness** it is thoroughly homogeneous and so goes unobserved like a covered object. **Hence** it **is** called Timus.
+
+Therefore, sentient Sattva, mobile Rajas and inert Tamsare the basic principles of the external and the internal worlds\* There arc uo other basic principles to be known, i.r. there are none\* All possible object\* of thought come under these **ill** ret' bmias.
+
+Au object of kuowable means anything that is capable of being revealed by the Subject or Purina, i'.r. that which is capable of being manifested when in contact with the Puritan. In fact> that which is manifested through association with the kuower or the subject and is otherwise immanifested is an

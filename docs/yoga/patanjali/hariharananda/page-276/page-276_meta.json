@@ -1,0 +1,103 @@
+{
+  "table_of_contents": [
+    {
+      "title": "25H VOGA PHILOSOPHY OF PATASjALt",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.95000076293945,
+          60.634196776896715
+        ],
+        [
+          436.953125,
+          60.634196776896715
+        ],
+        [
+          436.953125,
+          76.67626953125
+        ],
+        [
+          60.95000076293945,
+          76.67626953125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          92.0245361328125,
+          284.29833984375
+        ],
+        [
+          337.5927734375,
+          284.29833984375
+        ],
+        [
+          337.5927734375,
+          297.45458984375
+        ],
+        [
+          92.0245361328125,
+          297.45458984375
+        ]
+      ]
+    },
+    {
+      "title": "By Relaxation Of Effort And Meditation On The Infinite\n(Asanas Are Perfected). 47,",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          74.810791015625,
+          355.3642993159592
+        ],
+        [
+          519.462890625,
+          355.3642993159592
+        ],
+        [
+          519.462890625,
+          390.78173828125
+        ],
+        [
+          74.810791015625,
+          390.78173828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          623
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-276"
+}

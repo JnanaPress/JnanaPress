@@ -1,0 +1,9 @@
+## **)yn yoga philosophy or pataSjali**
+
+undivcrsitics and tokens) \* being objects of Purusa" is their cause\* This instrumentality being the cause\* those three states arc regarded as non-eternal.
+
+The Gunas are of pervasive characters. They neither disappear altogether\* nor are they born (8). They', however\* seem to be appearing or disappearing by their past and future individual phenomenal characteristics\* so appear to be subject to birth and death. For example \* when we say \*Devadatta is getting reduced because his cattle are dying' we imply that the death of the cattle is the cause of his indigence and not of the loss oT his own nature. Such is the case with the Gunas. The token only, *i.e,* Mahal, is the immediate effect of the 'non-token1 (Alinga Noumenal Prakrti). In the noumenal state the phenomenal state exists in an undifferentiated form and do not disturb the sequence of the manifest (9)\* Thai is how the six undivei sities are separated after having been with the Mahal or T-sense. In the same way, following the law rtf sequence of mutations, the Bhiiias or elements and sense-organs become differentiated and manifest after having been inherent in the undiversifieds. It has been said before that alter the diversified^ there is no other classification from the point of view of principles. There is also no mutation into atiy other form of principles. Their mutations as characteristics, symptoms and states will be explained later (II1-13),
+
+**(1) Diversifieds (Vi&^afi}-which are not common in many. Undiversifieds (Avilas) - which are the common properties** of many- ,
+
+**Diversified\* unL the sixteen mutated forms like Bhfitas and the senses etc- iTliey are so called as each 1ms diverse slates BS subdivisions in itself in various forms of sound, li^lil, perception etc.) Undiversifieds are the Tftimiiitras which are the causes of the BliGtns, and the E^o which is the cause of the**

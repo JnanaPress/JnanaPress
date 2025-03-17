@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON HR ACTICE I",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          248.89999389648438,
+          69.24790527299047
+        ],
+        [
+          523.5419921875,
+          69.24790527299047
+        ],
+        [
+          523.5419921875,
+          82.88895751908422
+        ],
+        [
+          248.89999389648438,
+          82.88895751908422
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          783
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-219"
+}

@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "2CH VOCA PHILOSOPHY OF FATA^JALt",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.900001525878906,
+          74.26157714799047
+        ],
+        [
+          428.2373046875,
+          74.26157714799047
+        ],
+        [
+          428.2373046875,
+          89.87449218705297
+        ],
+        [
+          62.900001525878906,
+          89.87449218705297
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          816
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-226"
+}

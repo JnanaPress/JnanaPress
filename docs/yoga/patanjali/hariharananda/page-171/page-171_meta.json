@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DI CAT ON PRACTICE IN THE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          176.10201511335015,
+          74.22796081923418
+        ],
+        [
+          404.65994962216627,
+          74.22796081923418
+        ],
+        [
+          404.65994962216627,
+          87.057373046875
+        ],
+        [
+          176.10201511335015,
+          87.057373046875
+        ]
+      ]
+    },
+    {
+      "title": "\u092e\u093e\u0928 \u0938\u0924\u093f \u092e\u0942\u0932\u0947 \u0924\u0926\u093f\u092a\u093e\u0915\u094b \u091c\u093e\u0924\u094d\u092f\u093e\u092f\u0941\u0930\u094d\u092d\u094b\u0917\u093e: \u0965 \u0967\u0969 \u0965 \u0967\u0966\u0966\u0966 \u092e\u093e \u0915\u0941\u0915\u094d\u0930\u092e\u0923\u094d\u0921\u0932\u0947 \u091b",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.45340050377834,
+          103.46927871772039
+        ],
+        [
+          538.7972292191436,
+          103.46927871772039
+        ],
+        [
+          538.7972292191436,
+          120.66748046875
+        ],
+        [
+          55.45340050377834,
+          120.66748046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          31
+        ],
+        [
+          "Span",
+          31
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-171"
+}

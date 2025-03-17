@@ -1,0 +1,11 @@
+## **ON HR ACTICE <sup>I</sup>**
+
+CENTRAL LIBRARY
+
+**manifested lias been said to be antecedent to the others. In the Ayi£cpas there is the sequence of cause and effect and ilic commentator did not Look at them from this point of view. For example,, Mahat is not the immediate cause of TAomfitru like sound etc. but is mediately effective. Similarly the commentator said that the Gulias are the cause of tlie sixteen modifications. The Oniias are really the root cause. In the commentaries on Sutra F45 the author of the has said that the ego is the cause of TanmStr&s, and the cause of the ego is the Mahat principle,**
+
+**(G) The Mahat principle gives rise to the six Avise^as, From the Mahat comes the ego or the \*T'-senst, arid the un\* diversified^ emerge from the ego in tlie following order—sound Tanm&tra, touch Tanmltrs, light Taum&tra etc.**
+
+**Therefore it is not quite correct to say that the six Avise^as have arisen straight out of Mnhat. The commentator also does uot menu it. From Maliiu Atmi {the Great Self) or Mahat to egoT from ego to the five TanmAtras and From Tammltras to the five Jlhfitns\* this is the correct order of succession. From Akrisa (sound element) enne \'Avn (touch element), from Vayu came Tejas (light element)—this order of sequence is only applicable to the qualities of hardness etc. which are inseparable from the perception of smell etc. This is true from the standpoint of practice but not so from the standpoint of theory or of material causation, Sensation of sound cannot be the material cause of the sensation of touch. The material cause\* the ego, can, however, be changed by the activity called sound to appear as a sensation of touch [see ante 11-19 fiZj], Thus subtle sound (monad) can be the cause of gross sound, from which it is established that from sound Taum&lra comes A kH^a.bhuta, from touch Taum.ltra comes Viiyit-bhfita etc. Therefore from ego have come all the Tanmltras, and from them have come the appropriate Iihfttas.**
+
+**From Mahat, which is the first manifestation, conies gradually the six ttndivcrsifieds. They reach ultimate modification as the sixteen final mutations which measure their limit. At the time of dissolution, they disappear synthetically and after Teaching Mahat disappear in the unmanifesl state. When for complete want of activity Mahat disappears, then the Visefas**

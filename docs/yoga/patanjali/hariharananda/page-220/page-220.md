@@ -1,0 +1,11 @@
+## 19fl YOGA I'MIJ.OSOPHV OK pataSjali
+
+aud Avi^ns which ha<l merged iti Mahal, also follow its course. When Mahat disappears, nothing iu that state remains manifest in the shape of action. That is known its Avvakta or the Unmaoifeat, The commentator has given a few more epithets of that non-token Pradh&na (Chief), the primary cause, out of which all phenomenal appearances are evolved. They are now being explained.
+
+Nihsatt&satta— Neither with nor without Satt^. Satta means a state of existence\* Everything existing or manifest is the concern of the lhiru^a. Therefore Sattft means 'bring the object of Puru\$a\ To **<sup>11</sup>** sT in ordinary circumstances Sattit and goal or being; the object of Purina, are universally conjoined\* 3u the tokenless unmanifest state, there being no goal which is to be the object of thePimi^a, PradhSna is Nihsatta ot without phenomenal existence. As however it is not a nonentity (existing as it does as the potentiality Tor being the object of the Puru^a), it cannot be said to be non-existing. Therefore it is neither Suttn nor devoid of Sattn.
+
+Nihsadasat = Xeither Sat or existing nor Asat or uonexisting. That which is not manifestly existing and serving as knowable like Mata at etc., and which\* being the cause of Makat is not non-existent, is Xilisudasut. The terms Nihsattisatta and Nihsadasat have been used from the two preceding points of view. Nirasat (not fictitious)—The commentator has again used this term separately lest any one should imagine Pradhiua to be some fictitious or utterly unreal thing\* Unmanifested PradhJlna is kuowablc but tiol directly as manifest objects Mahat etc- arc. Mahal and others are knownble by manifest activities while Pradhaim is knowable ns the potential state of them. It is known by inference.
+
+Hence Prad Inina is Nlrasat (not Unreal) or a particular existing entity. Avy&kta\*\* that which is not manifest or realisable. The state into which all manifested things merge is known as the Avynktn or uumanifested state. \*
+
+(7) Although Prakfti is their material, all manifested objects like Mahnt etc. are manifested by being the concern or object of Puruga through overseeing by Him. Hence such objectivene^s is the instrumental cause of the manifestation of

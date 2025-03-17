@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON FRACriUK",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          239.10400390625,
+          70.98594238236547
+        ],
+        [
+          339.3359375,
+          70.98594238236547
+        ],
+        [
+          339.3359375,
+          84.91764404252172
+        ],
+        [
+          239.10400390625,
+          84.91764404252172
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          96.5277099609375,
+          557.49609375
+        ],
+        [
+          263.50830078125,
+          557.49609375
+        ],
+        [
+          263.50830078125,
+          570.65234375
+        ],
+        [
+          96.5277099609375,
+          570.65234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          549
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-197"
+}

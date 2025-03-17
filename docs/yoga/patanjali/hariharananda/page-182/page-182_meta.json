@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "160 YOGA PHILOSOPHY Ol PATAl^JALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          66.0,
+          71.92319824174047
+        ],
+        [
+          435.2099609375,
+          71.92319824174047
+        ],
+        [
+          435.2099609375,
+          89.73789550736547
+        ],
+        [
+          66.0,
+          89.73789550736547
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          536
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-182"
+}

@@ -1,0 +1,9 @@
+## <sup>160</sup> **YOGA PHILOSOPHY Ol PATAl^JALI**
+
+Tf?T ! JT3T R\*nTt ^5T:, IPfW3^^: \*iaYn- «U^lfpH^j irr^TlTl: <sup>I</sup> HW ^TfJ^ »■ ^ ^ ^ *^* gt TT <sup>t</sup>Et. ^r um<fT% ^ gWTHr^H^T^ ^ VJTiaM^S i t\* <sup>M</sup>
+
+How can that be known (that yogins leel misery even when enjoying pleasurable objects ol sensesj ?
+
+**On Account Of The Three Forms OF Misery\* vi>» Resultant\* Afflictive And That Due To Latent Impressions And Because OF The Oppositionist Nature Of The Modi-Qcaiiuns Of The Guttts, Everything ( Including Enjoyment OF The Pleasurable Objects. Of The Senses) Is Painful To The Discriminating Persons (I). 15,**
+
+Experience of happiness is the outcome ol devotion to objects of attachment whether animate ( *e.g>* wile and family) or inanimate (\*.£. house etc.)- From such feeling of happiness arises Karmasa^a based on attachment. Similarly, objects which cause suffering are hated by all and men arc stupefied by them. This is how Karmaiaya is born or hatred and stupefaction. This has been explained before. No enjoyment i\$ possible without injury to another. Thus in the enjoyment of objects, bodily Karmasaya based on violence is formed. The enjoyment or objects has therefore been called nescience. (In other words) When through gratification of the thirst for objects\* the senses are calmed and do not go back to the objects—'that is happiness *\* while restlessness due to thirst for enjoyment is unhappiness (2). Through practice ( or continuance ) of enjoyment the senses cannot be inclined to renunciation, for enjoyment increases attachment as well as the adroitness of the senses. That is why enjoyment is not the means of attain-

@@ -1,0 +1,130 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON PRACTICE 2^7",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          241.89999389648438,
+          70.40391113236547
+        ],
+        [
+          527.9325561523438,
+          70.40391113236547
+        ],
+        [
+          527.9325561523438,
+          84.69596435502172
+        ],
+        [
+          241.89999389648438,
+          84.69596435502172
+        ]
+      ]
+    },
+    {
+      "title": "When C*k\u00bb tintnet Ts Established, (Influential)\nPower Is Acquired, 38.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          120.423583984375,
+          94.42124511674047
+        ],
+        [
+          467.16796875,
+          94.42124511674047
+        ],
+        [
+          467.16796875,
+          131.29655029252172
+        ],
+        [
+          120.423583984375,
+          131.29655029252172
+        ]
+      ]
+    },
+    {
+      "title": "=*TcrfOTS\u00ab^T^ II %\u00a3. ll",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          94.0989990234375,
+          484.2055773921311
+        ],
+        [
+          353.8623046875,
+          484.2055773921311
+        ],
+        [
+          353.8623046875,
+          501.58203125
+        ],
+        [
+          94.0989990234375,
+          501.58203125
+        ]
+      ]
+    },
+    {
+      "title": "On Perfection In Non-Acc^plmce; KaAwlrdgr Of\nPa$t And Future Existences Ai'iicSr",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          107.4951171875,
+          570.4514880366623
+        ],
+        [
+          486.63330078125,
+          570.4514880366623
+        ],
+        [
+          486.63330078125,
+          606.4056353755295
+        ],
+        [
+          107.4951171875,
+          606.4056353755295
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          553
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-269"
+}

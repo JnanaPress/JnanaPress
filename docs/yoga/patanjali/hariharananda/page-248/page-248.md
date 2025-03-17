@@ -1,0 +1,9 @@
+## *<sup>225</sup>* yoga **philosophy** or jpala^jalj
+
+iJuru\$a do not come back again\* Here the Gu^gs referred to are tlic attributes of Uuddhi like pleasure, pain or delusion ami not the three primal Gmias, because they being basic cannot merge into anything.
+
+Seventh. In this stage of insight it is recognised that i'nrifsa is free from relationship with Gunns, is self-illuminated, pure and absolute. (Here the Guiias referred to are the three primary Gunas—the constituent principles). This is not isolation itself but the best insight relating to filial emancipation. In perfect isolation, the mental vision completely disappears ; hence insight also ceases. When after the aforesaid seven insights, the mind is closed, the tranquil Puru@a is regarded as Mukt&-Ku£ala or liberated and proficient. At the stage of this insight PurUfa is called Kusala or proficient. That is the state of liberation while still living. When contact with misery does not take place even while living, then the yogin is regarded as Jlvan-Mukta or free while living. When on the attainment of discriminative discernment, there is just a particle of latency remaining, and the yogi" contemplates only on ultimate insights, then only is he Jlvan-Mukta. In that state\* though faced with misery, he may rise, above it with discriminative knowledge, and thus escape it. He is thus Jlvan-Mukta or free in lifetime. Even if the Yogiu lives with a created mind, he is Jlvan-Mukta. Iti fact, a yogin living after liberation, i\*f. beyond the touch of misery\* is called Jivan-Mukta when, though quite capable, he does not take to the state of perpetual isolation by getting into incorporeal emancipation (1V-30).
+
+What according to some modern viewpoint is Jivau-Mukti, is according to Yoga only verbal knowledge acquired through hearing and inference. When discernment is established a yogin is not worried with fear nor dots he lament over misery.
+
+ura^tfSprrfwiiiieilwi: <sup>H</sup> it

@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHJUOSOFHY Oi I'ATARjAI-T",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          197.55859375,
+          69.41733886674047
+        ],
+        [
+          442.1826171875,
+          69.41733886674047
+        ],
+        [
+          442.1826171875,
+          83.562744140625
+        ],
+        [
+          197.55859375,
+          83.562744140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          780
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-228"
+}

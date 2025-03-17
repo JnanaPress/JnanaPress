@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON PR ROLLE OF",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          257.7833753148615,
+          74.22796081923418
+        ],
+        [
+          354.4521410579345,
+          74.22796081923418
+        ],
+        [
+          354.4521410579345,
+          85.1044921875
+        ],
+        [
+          257.7833753148615,
+          85.1044921875
+        ]
+      ]
+    },
+    {
+      "title": "\u092d\u093e\u0937\u094d\u092f\u092e\u094d-\u0924\u0924\u094d\u0930-",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.444580078125,
+          457.5908203125
+        ],
+        [
+          204.967041015625,
+          456.6144256455921
+        ],
+        [
+          204.967041015625,
+          471.5693359375
+        ],
+        [
+          104.444580078125,
+          471.6099732858415
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          32
+        ],
+        [
+          "Span",
+          32
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-253"
+}

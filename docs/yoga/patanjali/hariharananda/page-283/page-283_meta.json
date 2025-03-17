@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON PHAC1TTCI-; 2SI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          253.33984375,
+          73.85544921830297
+        ],
+        [
+          540.0772094726562,
+          73.85544921830297
+        ],
+        [
+          540.0772094726562,
+          86.82773925736547
+        ],
+        [
+          253.33984375,
+          86.82773925736547
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          761
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-283"
+}

@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "OX PRACTICE 1G9",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          241.71875,
+          74.05582763627172
+        ],
+        [
+          527.1133422851562,
+          74.05582763627172
+        ],
+        [
+          527.1133422851562,
+          88.01591064408422
+        ],
+        [
+          241.71875,
+          88.01591064408422
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          859
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-191"
+}

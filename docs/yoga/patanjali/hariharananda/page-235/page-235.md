@@ -1,0 +1,9 @@
+## OX PRACTICE *213*
+
+CENTRAL LIBRARY
+
+## **Alliance Is Tbe Means Of Realising Tiie True Natnrts Of The Object Of The Knawerj Anil Of The Lard The Knower (i.e\* The Sort Of Alliance Which Contributes to The Realisation Of The Seer And The Seen** I<sup>h</sup> This **Conjunction.)** (1). *23.*
+
+Purusa, the Lord, is allied with the objects, the **tcsuI<sup>l</sup>** of which alliance is cognition (of objects). The cognition of objects that takes place as a result of the contact is experience, while the realisation of the nature of the Seer is liberation\* Contact leads to the right apprehension (or discrimination) chat has been said to be the cause of disunion. Right apprehension (i.c. discrimination) is the opposite or misapprehension. Nondiscrimination has been said to be the cause oT alliance. But here discernment is not the direct cause of Moksa (liberation). Absence of non-disccrnmcm is the absence of bondage ; thaL is liberation. Through discrimination wrong apprehension\* which is the cause of bondage, is destroyed. That is why right apprehension has been said to be the caitsc of bringing about the state of Isolation (2).
+
+What is this misapprehension (3) ? Is it the sway of the Gunas (ability to give rise to fluctuation) ? 1. Or the non-production of primary mind, *i.e.* Vivcka, which presents experiences like sights and sounds as well as discriminative discernment to the Seer—the Lord, in other words, inspite of the presence within own self of both experience and discernment, not knowing them ? 2. Or the existence, in latent state, of experience and liberation in the Gunas ? 3. Or Avidya (nescience) disappearing with the mind at the time of dissolution and again appearing as the seed of rc-cmergcnce of the mind ? 4. Or the termination of the unmanifesc state and the emergence or manifestation (of the Gup&s) ? It has been said in this connection that "If Pradhana

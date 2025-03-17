@@ -1,0 +1,9 @@
+## **224 YOGA PHILOSOPHY OF FATAftjALl**
+
+**/** \*■
+
+## **Seven Kinds Of Ultimate Insight Came To Him jTh« 'l ogin Who Has Acquired Discriminative Discernmenti |1)H 27.**
+
+This has been spoken of in the Sasiras in respect of a yogin with a tranquil mind acquired by insight. When on account of cleansing of the impurities acting as veil on the mind\* other kinds of (distract!ve) conception do not grow therein the discriminator gets seven kinds oT ultimate insight. They arc—(i) the forsakables have been known\* there is nothing more to know in this direction ; (h) the causes of growth of the Torsakables have been attenuated, they need not be further thinned ; (iii) escape has become a matter of realisation through Nirodha-Samadhi ( Samadhi of the closed mind ) ; (iv) discriminative discernment as the means of escape has been recognised\* These four insights arc liberation from action\* while those relating to liberation of the mind are of three kinds, *viz.* (v) Buddlii has fulfilled its function ; (vi) the Gunas having been dislodged like boulders from the top of a hill, ar\* rushing towards dissolution and getting merged into their cause\* whence they will not rise again on account of absence of any reason therefor ; (vii) in the seventh state the insight reveals the Purusa as isolated, pure, self-Iumjnant and beyond any relation with the Gunas. When these seven kinds of insight are acquired, the Purusa may be called Kajsata or proficient. When the mind disappears\* the Purusa can be called a Mukta-Kusala or the liberated one, because tie then transcends the Gunas,
+
+**(1) Ultimate insight = Highest state of knowledge, beyond which there can be tio knowledge on the subject, and oti attainment of which all knowledge in respect thereof ends or ceases. It is clear that when the faculty of discrimination is attained, and it is felt that 'J know what is to be known\* <sup>I</sup> have nothing more to know', the process of knowledge will cease.**

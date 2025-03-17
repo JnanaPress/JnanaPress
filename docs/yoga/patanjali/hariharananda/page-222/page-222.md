@@ -1,0 +1,11 @@
+## YOGA PHILOSOPHY OF PATAÑJALI
+
+things in Akasa, Vayu etc. They are known by different organs of perception. The gross basic principles or elements can be fully established by cognitions obtained in concentration on such objects with the help of words (Vitarkanugata Samadhi I-42). By that Yogic knowledge the gross Bhutas like Akasa etc. and the gross sense-organs like ear etc. cannot be analysed any further. No doubt there are different varieties of sound, light etc. but all of them come within the category of sound and light ; so there is no change in their basic principle. Similarly in animals there might be eyes with distinctive traits but all come within the principle of visual organ; thus such distinctiveness does not indicate any change in the basic principle. That is why it has been said that Visesas or the diversifieds have no further modification as basic principles. By a subtler form of cognition obtained in concentration unaccompanied by the use of words (Nirvichara) the Visesas can be realised in their subtler forms (causes) as Avisesas or Undiversifieds.
+
+भाष्यम्-व्याख्यातं दृश्यम्, ग्रथ द्रष्ट: स्वरुपावधारणारणार्थ मिद्रमारभ्यते-द्रष्टा द्वशिमात्र: गुडोऽपि प्रत्ययानुपत्रयः ॥२०॥
+
+द्धिमाव द्वति हक्यात्रिव विश्रोषणापराम् कटेल्यथः, स पुरुषो बुद्धे: प्रति-संवेद्दी, स बुद्धेन सरुपी नात्यन्तं विकृप द्रति । न तावत् सर्रुपः, करम्मात् ? ज्ञाताज्ञातविषयत्वात् परिणामिनी हि बुद्धिस्तस्यास विषयो गवादिघेटादिवी ज्ञातयात्रात्र चेति परिणामित्वं द्यायति, सदान्नातविषयत्वन्तु पुरुषस्यापरि-यामित्वं परिद्रीपयति, कस्मात् ? न हि वुद्धिय नाम पुरुषविषयश्च खाद यून्दीता राहौता च, इति सिडं पुरुषस्य सदान्नातविषयत्वं तत्रश्चापरिणा-मिलमिति ।
+
+किछन् परार्था वुद्धि: संहत्यकारित्वात, खाय: पुरुष द्रति । तथा सर्वाधांध्य-वसायकत्वात विगुणा वृद्धिखिगणत्वाद्येतनिति, गुणानां तुपद्रष्टा पुरुष द्रति, ध्यतो न सरूप: । भ्रस्तु तदि विरूप इति । नात्यन्तं विरूपः, कस्मात ? श्राहोऽध्यसौ पत्ययानपत्रयो यतः प्रत्ययं बौद्धमनुपश्यति तमनुपश्यक्ष तदात्माऽपि तदात्मक इव प्रत्यवभासते । तथा चोक्तम 'श्रपरिणामिनी हि मोक्टशासिरप्रतिसंक्रमा च
+
+200

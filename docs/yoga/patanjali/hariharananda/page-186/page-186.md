@@ -1,0 +1,11 @@
+## **tfrl** YOGA P1IJI.OSOPHY OF PATASjALl
+
+**towards sin ? It does not cause misery'. That's true. Hatred towards sin means hatred towards sorrow.** Tf **misery is remedied thereby, it would bring; happiness. In effecting the remedy, however, there is sorrow but it Is very small, while in the end happiness is greater. Hatred towards sin arises out of experience of misery in it ; so misery out of hatred and hatred out of misery are the two unmistakable signs of hatred.**
+
+**The ultimate misery arising out of attachment is a future contingency, the worry out of hatred is a present cue, while the latency of sorrow is a past one. This is the opinion of the author of Maniprabha which is very much like the statement of the commentator, the purport of which is that there is pleasure in attachment hut it brings pain in the long run, while in pain it is misery both in the present and in the future. From latencies of past sorrows, there is misery In the future. Thus from all the three sides there is inevitable misery in the future, which should be shunned..**
+
+**From an analysis of the character of effects it is understood that worlclliness is responsible for all miseries\* From an examination of the basic causes it would also appear that it is impossible to get pure, uninterrupted pleasure out of the round of birth and rebirth. The three Gn^tas, Sattva, Rajas and Tainas constitute the material of the mind. Uy their nature, they work together- If in any work the preponderance of one particular Guna is noticed, it is called after that G-una as Sattvika, Ksjusita or Tama sika. In S&ttvika objects, Rajas and Tanias arc also bidden. Happiness, misery and stupor arc respectively Sattvika, KAja^ika and Tumasika modifications. As in every modification all the three Gmias are present, there cannot be uninterrupted happiness free from Rajas and Tamas, and on account of the ^subversive' character of the Guuas their modifications go on dominating one another. That is why miserv and stupor are inevitable after happiness. Therefore it is impossible to get uninterrupted pleasure in this? world.**
+
+**(2) If happiness is attempted to be acquired through enjoyment, attachment and efficiency of the senses increase, which in the long run bring greater unhappiness**
+
+**(3) Latency here refers to latent sub-conscious impressions**

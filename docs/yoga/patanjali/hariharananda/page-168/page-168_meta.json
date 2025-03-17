@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "146 YOGA PHILOSOPHY OF PATAStJALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          66.95000457763672,
+          69.65317871049047
+        ],
+        [
+          436.953125,
+          69.65317871049047
+        ],
+        [
+          436.953125,
+          85.0531005859375
+        ],
+        [
+          66.95000457763672,
+          85.0531005859375
+        ]
+      ]
+    },
+    {
+      "title": "Karmatayti Or Moral Merit And Demerit Which\nAre Based On Afflictions, Become Active In\nThin Life Or In A Life To Come (I). 12.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          119.05000305175781,
+          96.20817138627172
+        ],
+        [
+          503.193359375,
+          96.20817138627172
+        ],
+        [
+          503.193359375,
+          146.466064453125
+        ],
+        [
+          119.05000305175781,
+          146.466064453125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          640
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-168"
+}

@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHILOSOPHY OF PATASjAU",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          188.8427734375,
+          68.59843017533422
+        ],
+        [
+          434.62890625,
+          68.59843017533422
+        ],
+        [
+          434.62890625,
+          84.9503173828125
+        ],
+        [
+          188.8427734375,
+          84.9503173828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          781
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-284"
+}

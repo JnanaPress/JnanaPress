@@ -1,0 +1,11 @@
+## **ON PRACTICE Efi:l**
+
+CENTRAL LIBRARY
+
+mcdicitl science has four divisions, illness, cause of illness recovery and therapeutics—so ihis philosophy of salvation has four parts *uiz-* cycle of births and deaths, its cause, liberation and the way to liberation. Of these the round of birth and death is Heya *i\*e.* to be avoided, the association of Purusa and Pradhana (Prakrti) is Hcyahetii or is the cause ol this avoidable circumstance, perpetual stoppage of this association is Hana or the escape and right knowledge is the means of escaping Hanopaya, Of these the real nature of the liberator Purusa is not to be conceived as something either avoidable or attainable ; as iti the former case it would entail the theory of its destruction and in the latter case it would entail the theory oi its generation (t.t. having a cause). When both these views are rejected, the doctrine of eternal immutability will remain. This is Right Knowledge (4).
+
+**(J) WorWIiness entailing births is full of misery. Wise yog-in\* of pure character** hurling **this birth and rebirth to be full** of sorrow\* try **to brhfg about its cessation. Attachment** brings **about sorrow in the cud. Hatred brings about sorrow through** worry, **while** through **latencies of pleasure and iniserv arise** sorrows **due to those latencies\* Although attachment arisen from** pleasure **and pleasure is derived from attachment, yet tu** the long **niti much misery arises therefrom [ this has been clearly** shown **by the commentator.**
+
+**Hatred grows towards painful things and so a feeling of sorrow is inevitable where there is hatreds When pleasure and pain art experienced, they produce subconscious latencies in** the **shape ul" YAsuir'i.** The **unlimited number of past** latencies **causing remembrance thereof also produces** suffering. **When a** of **ilie cause oj utmost misery, because** the **latencies** of **VilsanR are the** sburccs of **the collection of the Kann;\s:iyii.** a Latency actualized it brings recollection of misery **like** that a **fell** disease. But Vssati& being the held of Karmasaya,
+
+Hatred **is a form of misapprehension, that is why it causes suffering. It might** be **asked jDoes not pleasure arise from hatred**

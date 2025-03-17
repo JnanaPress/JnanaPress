@@ -1,0 +1,11 @@
+## Ol<sup>N</sup> PRACTICE <sup>165</sup>
+
+CENTRAL LIBRARY
+
+in the shape of VAsauR—not the latent impressions of actions piety and impiety. These latter have been referred to in connection with change and miseries. Vasari a only produces memory. That memory is of births\* longevity and experience, vasanl does not produce pain by itself but it being the receptacle of the latent impressions of pious and vicious Karinasaya becomes the cause of unhappiness. The case is like that of au oven which is not the direct cause of burn but which burns on account of stored burning fuel which causes ilie burn, Vilsanii is like that. In the oven of V^sanii the KannJiaya fuel is Stored which causes the burn of misery,
+
+(**4**) The agent which destroys misery is not by nature something to be attained *i.t.* the Puru^a who is the destroyer of misery is not changed into either the cause or Llie effect. Otherwise, the **Pum^a** becomes **mutable\*** and the unalterable state of liberation becomes impossible. Nevertheless the existence of the agent Cannot be eliminated altogether \*.f. the theory that there is no Pnrii^ft beyond the mind is not tenable. If that were so, "there would be <sup>110</sup> inclination towards elimination of misery. Cessation of misery and cessation o! the mind are tlie same tiling. If there were nothing as a basic entity beyond the mind, there could be no effort for the complete cessation of the mind. In Fact we practise for liberation with the resolution 'let me be free from misery by suspending the activities of the mind'. It is rational to think that 'I shall be free from misery when the activities of the **mind** are stopped' i.*c.* there shall then remain a pure T free from the pangs of misery. The SelT beyond the mind is the real nature of the agent. If the existence of that agent is not admitted, then the question \*for whose sake is liberation being sought ?' canuot be answered.
+
+Therefore both the viewpoints,— that the agent is an attainable entity and that it is not existent\* are untenable <sup>i</sup> while the view- that the agent in its real nature *i.t.* the Self, is eternal and immutably existent, embodies Kight Knowledge.
+
+**'Kti ^-.^pnTiTm ii** *IK* **ii**

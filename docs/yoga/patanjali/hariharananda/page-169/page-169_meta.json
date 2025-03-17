@@ -1,0 +1,88 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON PRACTICE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          173.85390428211588,
+          81.72573463935886
+        ],
+        [
+          349.955919395466,
+          81.72573463935886
+        ],
+        [
+          349.955919395466,
+          91.8367919921875
+        ],
+        [
+          173.85390428211588,
+          91.8367919921875
+        ]
+      ]
+    },
+    {
+      "title": "How to effect destruction of latent impressions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          92.17254408060454,
+          706.2902938557435
+        ],
+        [
+          483.34382871536525,
+          703.2911843276936
+        ],
+        [
+          483.34382871536525,
+          717.015625
+        ],
+        [
+          92.17254408060454,
+          718.286731967943
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          68
+        ],
+        [
+          "Span",
+          67
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-169"
+}

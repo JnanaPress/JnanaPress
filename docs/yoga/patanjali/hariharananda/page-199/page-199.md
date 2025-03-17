@@ -1,0 +1,9 @@
+## **ON PRACtlCE** 177
+
+CENTRAL LIBRARY
+
+to produce forms they act by proximity as a lodestone docs (4)- They\* in the absence oF an appropriate cause (i.f\* the exciting cause oi' merit or demerit) follow the lead of the dominant one (5). These Gunas go by the name oF Pradhana. These are called objects or knowabLes\* and they exist in the form of elements and are transformed as earth and other gross and subtle elements. Similarly\* they exist in the form of sense-organs and are transformed us subtle or gross, auditory and other sense-organs (6). These objects do not operate without necessity\* Rather\* they act when there is need For serving the Purusa as its object. **Therefore,** an object moves only for catering experience or emancipation to the Purusa. Oi these\* the realisation of the essentially beneficial and injurious by identifying the spectator and the spectacle\* is experience, while realising the true nature of the Purusa is emancipation or Apavarga There is no other form of knowledge besides these two\* That is why it has been said, *\** Although tlie three Gunas arc active agents, the indiscriminating person looks upon all those experiences as natural which arc presented by the Buddhi to the fourth principle (Purusa) who is really inactive, distinct From Buddhi inspite of some **affinity** and is only witness of its modifications, and so deluded persons do not suspect the existence of an unconditioned Awareness : beyond the empiric ego)1.
+
+This experience and emancipation being creations of Buddhi and belonging to Buddhi itself', how can they **be** attributed to the Purusa *?* As victory or defeat on the part of actual fighters is ascribed to their commands who **enjoys Lhe** result, so bondage and **release** btin^ present in Buddhi are ascribed to the Purusa, who **experiences** them. Non-completion **of** the above objects
+
+O.F. 132—23

@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON PRACTJCI- 23*",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          240.556640625,
+          70.30057861283422
+        ],
+        [
+          529.8999633789062,
+          70.30057861283422
+        ],
+        [
+          529.8999633789062,
+          83.80637695267797
+        ],
+        [
+          240.556640625,
+          83.80637695267797
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          640
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-255"
+}

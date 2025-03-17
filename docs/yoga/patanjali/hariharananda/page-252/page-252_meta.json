@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          282.10205078125,
+          6.0449371337890625
+        ],
+        [
+          311.73583984375,
+          6.0449371337890625
+        ],
+        [
+          311.73583984375,
+          30.7835693359375
+        ],
+        [
+          282.10205078125,
+          30.7835693359375
+        ]
+      ]
+    },
+    {
+      "title": "230 YOKA PHILOSOPHY OF PATASjAI.J",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          72.95000457763672,
+          66.86716796830297
+        ],
+        [
+          441.89208984375,
+          66.86716796830297
+        ],
+        [
+          441.89208984375,
+          82.1751708984375
+        ],
+        [
+          72.95000457763672,
+          82.1751708984375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          652
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-252"
+}

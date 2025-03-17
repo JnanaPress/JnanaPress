@@ -1,0 +1,11 @@
+## **ON PRACTICE** *2U7*
+
+CENTRAL LIBRARY
+
+concept Hl it in knowing' the mistaken notion of the identity of Ituddhi and Purupa. From the analogous latent impression of such mistaken notion, flow of wrong memory continues and therefore ordinarily, the difference between Ituddhi and Furu\$n is not perceived. On attaining discriminative discernment the feeling know<sup>1</sup> gradually ceases, ami with latent impressions of discernment, discriminative knowledge increases resignation causing Cognitions or modifications of the mind to cease com\* pletely. Take \*1 know blue\* as tin item of knowledge\* Of tliis 'blue\* a knowable as insentient and the consciousness is in the kuower indicated by \*<sup>1</sup>\ From that, the object 'blue\* is cognised. Thus the manifestation of the knowledge of blue by the {Seer is the overseeing of modideation of the mind\* Knowledge of blue and its overseeing by Futuna are inseparable. In cognition or modification of Ituddhi, this overseeing of knowledge as an insepaTable Cause being always present, that is considered as somewhat like the Furu^a. In other words, because the insentient knowledge of blue becomes endowed with consciousness, that is becoming somewhat of the nature of Purina\*
+
+(6) Pratisaiikrama means transmission. If immutable it would be without transmission. By immutability is indicated absence of change of state, and by absence of transmission freedom from movement *(ij.* not passing over into the object)\* From overseeing the modifications (the knowledge), *i.t.* exhibiting the mutable modifications, the source of consciousness appears as mutable and transmissible endowed with consciousness, i.\*\* by appealing as similar to the modifications of Ituddhi revealed by or overseen by the supreme consciousness, pure Awareness appears as not separate or distinct from the knowing faculty of Bnddbi,
+
+## Ft^r ggrenren n ^ it
+
+<sup>l</sup> q CR^rcprq ufcW-mr+ftfr\*? <sup>I</sup> ewttt Tfa <sup>r</sup> aron iinfr ^ q fqsra^rffT <sup>u</sup> *m* «

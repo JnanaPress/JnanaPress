@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHILOSOPHY Oi-' PATAfrjAU",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          194.89999389648438,
+          64.95505859330297
+        ],
+        [
+          434.91943359375,
+          64.95505859330297
+        ],
+        [
+          434.91943359375,
+          79.9139404296875
+        ],
+        [
+          194.89999389648438,
+          79.9139404296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          640
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-250"
+}

@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "140 YQCA PHILOSOPHY OF PAT.AftjALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.95000076293945,
+          74.33317138627172
+        ],
+        [
+          431.7236328125,
+          74.33317138627172
+        ],
+        [
+          431.7236328125,
+          91.89054443314672
+        ],
+        [
+          60.95000076293945,
+          91.89054443314672
+        ]
+      ]
+    },
+    {
+      "title": "Aa In The Ignorant* So In. The Wise The Firmly\nEstnblishtd Inboni Fear Of Annihilation la\nThe Affliction Called Abhinivcli (I), 9*",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          111.998291015625,
+          218.56803466752172
+        ],
+        [
+          490.41015625,
+          218.56803466752172
+        ],
+        [
+          490.41015625,
+          268.8190112300217
+        ],
+        [
+          111.998291015625,
+          268.8190112300217
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          586
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-162"
+}

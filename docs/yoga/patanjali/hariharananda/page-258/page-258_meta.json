@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "236 yoga miLOSOPHY OF PATA50alt",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.900001525878906,
+          71.11356689408422
+        ],
+        [
+          429.3994140625,
+          71.11356689408422
+        ],
+        [
+          429.3994140625,
+          88.68607665970922
+        ],
+        [
+          56.900001525878906,
+          88.68607665970922
+        ]
+      ]
+    },
+    {
+      "title": "\u20143 g\u2014",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.2098388671875,
+          630.7793078608811
+        ],
+        [
+          203.9891815185547,
+          630.7793078608811
+        ],
+        [
+          203.9891815185547,
+          653.2900390625
+        ],
+        [
+          103.2098388671875,
+          653.2900390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          597
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-258"
+}

@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "2\u00bb2 VOtlA PHrLOSOPHY OK PATAKjALJ",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.05000305175781,
+          69.01749755814672
+        ],
+        [
+          435.791015625,
+          69.01749755814672
+        ],
+        [
+          435.791015625,
+          83.768310546875
+        ],
+        [
+          71.05000305175781,
+          83.768310546875
+        ]
+      ]
+    },
+    {
+      "title": "Ahimsa {HiTmlessness), S\u00bbtya Truths Asltya (Abstention\nFrom Ste9ling}i Brahmacharya (Continence) And\nApnriqritha {Non-Grasping, Abstinence From\nAvariciousness) Are The Five Yimdt\n(Forms OF Restraint). 30.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          86.9000015258789,
+          167.80656005814672
+        ],
+        [
+          529.3408203125,
+          167.80656005814672
+        ],
+        [
+          529.3408203125,
+          250.58896972611547
+        ],
+        [
+          86.9000015258789,
+          250.58896972611547
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          479
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-254"
+}

@@ -1,0 +1,130 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHILOSOPHY OF PATA\u00d1JALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          189.59068010075566,
+          72.72840605520926
+        ],
+        [
+          433.466796875,
+          71.22885129118433
+        ],
+        [
+          433.466796875,
+          84.590576171875
+        ],
+        [
+          189.59068010075566,
+          84.590576171875
+        ]
+      ]
+    },
+    {
+      "title": "\u0924\u0947 \u091a\u093e\u091f\u092a\u0930\u093f\u0924\u093e\u092a\u092b\u0932\u093e: \u092a\u0941\u0916\u094d\u092f\u093e\u092a\u0941\u0930\u094d\u092f\u0926\u094d\u092f\u0939\u0947\u0924\u0941\u0924\u094d\u0935\u093e\u0926 \u0965 \u0967\u096a \u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          98.91687657430731,
+          101.96972395369545
+        ],
+        [
+          387.27294921875,
+          100.47016918967051
+        ],
+        [
+          387.27294921875,
+          117.1728515625
+        ],
+        [
+          99.6662468513854,
+          117.1728515625
+        ]
+      ]
+    },
+    {
+      "title": "Because Of Virtue And Vice They (Birth, Span And Experience)\nProduce Pleasurable And Painful Experiences. 14.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          65.804443359375,
+          195.69189670525378
+        ],
+        [
+          546.7724609375,
+          195.69189670525378
+        ],
+        [
+          546.7724609375,
+          225.7119140625
+        ],
+        [
+          65.804443359375,
+          225.7119140625
+        ]
+      ]
+    },
+    {
+      "title": "\u092d\u093e\u0937\u094d\u092f\u092e\u094d-\u0915\u0918\u0902 \u0924\u0926\u094d\u092f\u092a\u0926\u094d\u092f\u0924\u0947 ?-",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          101.91435768261965,
+          602.0712377560106
+        ],
+        [
+          280.2644836272041,
+          602.0712377560106
+        ],
+        [
+          280.2644836272041,
+          619.5771484375
+        ],
+        [
+          101.91435768261965,
+          619.5771484375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-180"
+}

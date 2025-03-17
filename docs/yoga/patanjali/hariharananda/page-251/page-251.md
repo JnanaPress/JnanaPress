@@ -1,0 +1,11 @@
+## **ox practice** *<sup>229</sup>*
+
+CENTRAL LIBRARY
+
+applicable in other eases also *mutatis mutandis\** Thus practice of yogic methods becomes the cause by two ways—severance anti acquisition.
+
+{]) Even when the afilicLtomi or the fivefold wrong knowledge like Avidyll etc., are dominant, discrimination knowledge cim be acquired through learning and deductions therefrom. As the latencies of wrong knowledge weaken through practice\* the discriminative knowledge gets clearer. Subsequently through engrossment in knowledge acquired through Samadhi, full discernmetit dawns. Such clarity of discriminative knowledge *is* called lustre of knowledge. Knowing that attachment to objects is the cause of misery, people who try to obtain and preserve them has one kind of knowledge, while those who knowing that try to forsake them must be getting lustre or clarity of knowledge. Further, those who, having forsaken them completely, refrain from taking to them must be said to have got real discernment as they realise that objects are the causes of grief. It may be said of discrimmative discernment also\*
+
+(2) The commentator, in reply to the criticism how such practice can be the cause of discriminative knowledge, has shown how the accessories to Yoga in the practice of restraints (Yatlla) and observances (Xiyama) can eradicate inipu ritics.
+
+Avidyift or nescience is all wrong knowledge. Practice of Yogic restraints and observances, means not acting under the influence of wrong knowledge. They weaken wrong knowledge and brighten up discriminative knowledge. For example\* aversion is a kind of mental modification based on wrong knowledge. Hatred is the chief aversion. Through Atmiis& or spirit of harmlessness the work of wrong knowledge in the form of **ill** will is stopped. From that gradually **discriminative** discernment becomes established. **Similarly,** through practice of trutEr many other wrong notions Like greed etc. are destroyed. Through the practice of Asaua (yogic postures) and Pi iinayAmu {breath control) the body becomes steady, motionless and **free** from the sense of pain, when the notion 'I am the body' decreases aud the tendency to cultivate the feeling 'I am not the body\* increases\* This is how yogic practices bring about

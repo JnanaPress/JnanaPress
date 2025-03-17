@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "J47 YOGA PHILOSOPHY OF PATAftfJAL]",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.0,
+          66.81864501908422
+        ],
+        [
+          429.3994140625,
+          66.81864501908422
+        ],
+        [
+          429.3994140625,
+          83.34989501908422
+        ],
+        [
+          60.0,
+          83.34989501908422
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          813
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-164"
+}

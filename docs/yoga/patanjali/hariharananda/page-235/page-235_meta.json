@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "OX PRACTICE 213",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          252.46826171875,
+          68.89561035111547
+        ],
+        [
+          530.1489868164062,
+          68.89561035111547
+        ],
+        [
+          530.1489868164062,
+          83.00089599564672
+        ],
+        [
+          252.46826171875,
+          83.00089599564672
+        ]
+      ]
+    },
+    {
+      "title": "Alliance Is Tbe Means Of Realising Tiie True Natnrts Of The\nObject Of The Knawerj Anil Of The Lard The Knower (i.e*\nThe Sort Of Alliance Which Contributes to The Realisation\nOf The Seer And The Seen Ih This Conjunction.) (1). 23.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.764404296875,
+          96.96055175736547
+        ],
+        [
+          536.89453125,
+          96.96055175736547
+        ],
+        [
+          536.89453125,
+          164.48173095658422
+        ],
+        [
+          54.764404296875,
+          164.48173095658422
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          627
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-235"
+}
