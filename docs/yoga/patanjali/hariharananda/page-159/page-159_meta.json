@@ -1,0 +1,111 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON I'KACTIGE 137",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          258.714599609375,
+          70.60227539017797
+        ],
+        [
+          540.9500122070312,
+          70.60227539017797
+        ],
+        [
+          540.9500122070312,
+          85.81888915970922
+        ],
+        [
+          258.714599609375,
+          85.81888915970922
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          89.5550537109375,
+          103.502685546875
+        ],
+        [
+          325.10009765625,
+          103.502685546875
+        ],
+        [
+          325.10009765625,
+          117.481201171875
+        ],
+        [
+          89.5550537109375,
+          117.481201171875
+        ]
+      ]
+    },
+    {
+      "title": "Asmiti Or 'Egoism* Is The Appearance Of Identity Of The\nPurusa Or Consciousness And Buddhi, 6.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          77.05000305175781,
+          240.86674072220922
+        ],
+        [
+          532.8271484375,
+          240.86674072220922
+        ],
+        [
+          532.8271484375,
+          279.21128417924047
+        ],
+        [
+          77.05000305175781,
+          279.21128417924047
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          527
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-159"
+}

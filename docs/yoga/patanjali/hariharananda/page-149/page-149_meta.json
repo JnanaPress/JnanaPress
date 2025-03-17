@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON PRACTICE 127",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          260.8899841308594,
+          72.14493896439672
+        ],
+        [
+          548.0999145507812,
+          72.14493896439672
+        ],
+        [
+          548.0999145507812,
+          85.78995849564672
+        ],
+        [
+          260.8899841308594,
+          85.78995849564672
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          106.3330078125,
+          548.451171875
+        ],
+        [
+          326.552734375,
+          548.451171875
+        ],
+        [
+          326.552734375,
+          570.65234375
+        ],
+        [
+          106.3330078125,
+          570.65234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          492
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-149"
+}

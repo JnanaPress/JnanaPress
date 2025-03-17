@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON PRACTICE 120",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          242.2998046875,
+          83.27476074174047
+        ],
+        [
+          542.8992919921875,
+          83.27476074174047
+        ],
+        [
+          542.8992919921875,
+          96.7703857421875
+        ],
+        [
+          242.2998046875,
+          96.7703857421875
+        ]
+      ]
+    },
+    {
+      "title": "Avidya {Misapprehension about the r\u00abal nature of things),\nAflmiti (Egaisni), Riga (Attachment), Dvesa (Antipathy)\nAnd Abbinivesi (Fear), Arc tbe five Kltaas\n(Afflictions). 3.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          77.135009765625,
+          402.2511401362717
+        ],
+        [
+          538.056640625,
+          402.2511401362717
+        ],
+        [
+          538.056640625,
+          470.30015136674047
+        ],
+        [
+          77.135009765625,
+          470.30015136674047
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          510
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-151"
+}

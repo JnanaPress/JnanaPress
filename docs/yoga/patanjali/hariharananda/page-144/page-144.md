@@ -1,0 +1,9 @@
+**\* \*T 3Hi«r WHTlwgTf^T\^ irmWflHl \*^HRTrttfcr ufeq-4^** <sup>I</sup> 4i^|r| ; f^rti^T: ^F^TT: T^R\*f?T <sup>|</sup> **fVrtHfwfH -** *-* **^fTT^H^r f^^tvrl^'TT - ei<itit«fil<lftitaItH\*UZfl <sup>l</sup> ^WRT-fFRtyTTTTTfw-TI^. itfW-WmtS: ^TORIfrdT \*\*fe?TTOTHri3rsfta^i From ^ ^THI^ftPTTf^iTT TT^ \*f?WTOTfft3: ^FTilffaTl" <sup>r</sup> ctfalfag^ \*^q(TfTO: ^ct: s^llt** *zr^rXi\** **It H? i|**
+
+Tfh stmffra TOifwi?: *mm\ \*
+
+## What else happens to such a mind ?
+
+## **By The Stoppage Of That Too (On Account Of The Elimination OF The Latent Impressions of Samprajaana) Objectless Concentration Takes Place Through Suppression Of All Modifications (1). 51.**
+
+That objectless concentration is not only antagonistic to Sampiajnata-Samaclhi but is also opposed to the formation of latent impressions of that Samadhi, because latent impressions or Nirodha or complete stoppage of modification or supreme detachment prevents the **formation** of latent impressions of Sampranata-Samadhi. From the knowledge of the duration of the time during which the mind had stopped in its functioning, the existence of the latent impression of that closed state can be inferred. Tn that state the mind merges in its constituent cause, the ever present Prakrti, along with the latent impressions of Samprajhata Samadhi as well as with such latent impressions as lead to Kaivalya or the state <af isolation (2) <sup>+</sup> That is why the latent impressions of such knowledge destroy the disposition to mutation and do not contribute to the continuance of the mind, because with the termination of such predilection the mind ceases to act as the

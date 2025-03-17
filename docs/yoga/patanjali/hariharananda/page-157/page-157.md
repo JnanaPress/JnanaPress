@@ -1,0 +1,11 @@
+## **ON PRACTICE** 135
+
+CENTRAL LIBRARY
+
+**which all Klesas flow and fructifying latencies arc produced. It is to be noted that tike 'Amitra' (notfriend) and 'Agospada' (not a cow's footprint)) Avidya has a positive existence. As Amitra does not mean either the mere non-existence of a friend or a friend but a positive thing opposed to a friend** *i.e.* **an enemy, and as A-gospada does not imply either the mere absence of Gospada or a Gospada but a large place different from cither, so A-vidya is neither right cognition nor the mere absence of cognition but cognition that is contrary to correct cognition (2). (Gospada = land covcrablc by a cow's foot i.f. of a very small si^e ; A-gospada = a large piece of land).**
+
+(]) The place of origin of the body is the womb *;* the germ is the semen ; assimilation of food eaten is constitution ; secretions are excretions like perspiration etc., while death makes all bodies unclean. The body also requires constant cleansing. For these reasons the body is considered as nndeaiL To consider any such body to be clean, pleasing, desirable and companionable is false knowledge.
+
+(2) Of the four symptoms of Avidya, the sense of permanence in transient things is the chief one in the kind of Kle^a called Abliinive&a or fear (of death) ; in attachment the chief one is a sense of purity in impure tilings ; feeling pleasure in affliction is predominant in hatred, because although hatred is a form of misery, in a state of hatred it appears pleasant or desirable : while considering things not pertaining to the self as one's own is paramount in ligoism.
+
+Different schools give different definitions of AvidyiU They are mostly opposed to logic and philosophy. That the definition given in the Ji'oga philosophy is nucoutrovertibly true will be understood by every reader. "Whatever might be the reason for taking a piece of rope as a snake, nobody can deny that it is taking one thing for another—a kind of miscogtiitiom That cognition is opposed to correct cognition and consequently it is false cognition. Therefore this opposition between the

@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "134 YOGA PHILOSOPHY OF PATAftjALJ",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.9000015258789,
+          69.45182373002172
+        ],
+        [
+          437.5341796875,
+          69.45182373002172
+        ],
+        [
+          437.5341796875,
+          87.47715331986547
+        ],
+        [
+          68.9000015258789,
+          87.47715331986547
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          626
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-156"
+}

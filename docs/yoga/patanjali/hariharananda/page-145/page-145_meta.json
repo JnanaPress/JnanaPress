@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON CONCENTRATION t2i",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          220.074462890625,
+          69.78812744095922
+        ],
+        [
+          533.1459350585938,
+          69.78812744095922
+        ],
+        [
+          533.1459350585938,
+          85.823974609375
+        ],
+        [
+          220.074462890625,
+          85.823974609375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          722
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-145"
+}

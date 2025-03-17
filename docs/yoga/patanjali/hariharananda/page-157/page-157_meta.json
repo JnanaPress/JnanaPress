@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON PRACTICE 135",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          249.853515625,
+          76.32474853470922
+        ],
+        [
+          534.8624877929688,
+          76.32474853470922
+        ],
+        [
+          534.8624877929688,
+          90.58115722611547
+        ],
+        [
+          249.853515625,
+          90.58115722611547
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          713
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-157"
+}

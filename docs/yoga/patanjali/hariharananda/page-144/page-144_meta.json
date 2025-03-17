@@ -1,0 +1,130 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          100.0140380859375,
+          109.7724609375
+        ],
+        [
+          273.38623046875,
+          109.7724609375
+        ],
+        [
+          273.38623046875,
+          125.3955078125
+        ],
+        [
+          100.0140380859375,
+          125.3955078125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          100.377197265625,
+          135.673828125
+        ],
+        [
+          419.521484375,
+          135.673828125
+        ],
+        [
+          419.521484375,
+          151.09130859375
+        ],
+        [
+          100.377197265625,
+          151.09130859375
+        ]
+      ]
+    },
+    {
+      "title": "What else happens to such a mind ?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.831787109375,
+          350.1471362300217
+        ],
+        [
+          354.443359375,
+          350.1471362300217
+        ],
+        [
+          354.443359375,
+          371.03672363236547
+        ],
+        [
+          58.831787109375,
+          371.03672363236547
+        ]
+      ]
+    },
+    {
+      "title": "By The Stoppage Of That Too (On Account Of The Elimina-\ntion OF The Latent Impressions of Samprajaana) Objectless\nConcentration Takes Place Through Suppression Of\nAll Modifications (1). 51.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.13916015625,
+          376.99225952103734
+        ],
+        [
+          549.96826171875,
+          376.99225952103734
+        ],
+        [
+          549.96826171875,
+          446.490234375
+        ],
+        [
+          60.13916015625,
+          446.490234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          481
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-144"
+}

@@ -1,0 +1,11 @@
+## *n\* **YOGA PHILOSOPHY OP FATANJALI**
+
+of Closed state. It is the state of inactivity of the mind based on Fara-vaiiagya or extreme detachment. When apathy towards knowables is fully established and when the mind is closed with the determination never again to allow it to receive impressions, the mind never rises again. Even when such powi-r of closing the mind is acquired, the Yogin who wants to do good to humanity with a Nirmilna China (constructed iniudj\* closes the mind for a desired time, and his mind rises after that period as a constructed mind. It has been stated before that in the opinion of the Yaga school, Isvara closes the mind for a cycle and at the ei+d of it gives religious instructions to His devotees and thus liberates them;
+
+(2) The concentration which brings about the stoppage of fluctuations in Samprajnflta SamAd In\* The latent impressions thereof have been referred to here- Latent impressions Leading to the Kaivalya state are the latent impressions of tlie closed state of the mind. The mind continues to be ini crested iu objects as long as it has a disposition to enjoyment or is trying to achieve salvation. When salvation is achieved the mind ceases to have any interest in objects,
+
+The latent impressions of SamprajuA'ta destroy the latent impressions of the fluctuating state. When the latter disappear, the mind still has the knowledge acquired in SamprajnSta SamZtdhj or Vivekn-lChy&ti r.c. final discriminative discernment\* When tht- goal of knowledge is acquired, further acquisition of knowledge and the formation of latent impressions cease, on account of absence of anything to know. This stoppage of acquisition of knowledge is Nirvlje or objectless Asamprajhaia. When in this way, the mind readies a closed state and does not function anymore, the state is called KaiValya or a state of Isolation.
+
+Thus supreme knowledge and latent impression of a closed state are inimical to the inclination of the mind to reception of objects. In that sequence the mind is eventually closed altogether—^filial closing and the mind merging for ever into its original constituent cause are the same.
+
+Although the Seer is beyond pleasure and pain and is immutable, still when the mind ceases functioning, the Seer is

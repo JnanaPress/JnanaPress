@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Book II\nOn Practice",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          237.506103515625,
+          148.08048583939672
+        ],
+        [
+          360.25390625,
+          148.08048583939672
+        ],
+        [
+          360.25390625,
+          193.79545165970922
+        ],
+        [
+          237.506103515625,
+          193.79545165970922
+        ]
+      ]
+    },
+    {
+      "title": "Tapas {Austerity), Svidhyiya (Repetition Of Sacred Mantras\nOr Study OF Sacred Literature) And livara Pranidhina\n(Complete Surrender To God) Are Kriya Yoga (Yoga\nIn The Form Of Action). I.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.054931640625,
+          465.91584350541234
+        ],
+        [
+          540.380859375,
+          465.91584350541234
+        ],
+        [
+          540.380859375,
+          538.8545947261155
+        ],
+        [
+          55.054931640625,
+          538.8545947261155
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          402
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-148"
+}
