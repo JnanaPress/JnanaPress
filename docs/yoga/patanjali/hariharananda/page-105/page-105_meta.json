@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "LATION CONCENTRATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          182.09697732997483,
+          68.97951914514692
+        ],
+        [
+          382.1788413098237,
+          68.97951914514692
+        ],
+        [
+          382.1788413098237,
+          81.918212890625
+        ],
+        [
+          182.09697732997483,
+          81.918212890625
+        ]
+      ]
+    },
+    {
+      "title": "For Their Stoppage (i.e. Of Distractions) Practice Of\n(Concentration On) A Single Principle Should\nBe Made, 32.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          89.1750629722922,
+          546.5877114870881
+        ],
+        [
+          529.0554156171285,
+          545.8379341050756
+        ],
+        [
+          529.0554156171285,
+          591.208984375
+        ],
+        [
+          89.1750629722922,
+          591.208984375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          33
+        ],
+        [
+          "Span",
+          33
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-105"
+}

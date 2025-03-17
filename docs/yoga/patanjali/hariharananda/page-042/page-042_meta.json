@@ -1,0 +1,107 @@
+{
+  "table_of_contents": [
+    {
+      "title": "20 YOGA PHILOSOPHY OF FATA&JALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.099998474121094,
+          69.51835205033422
+        ],
+        [
+          421.55517578125,
+          69.51835205033422
+        ],
+        [
+          421.55517578125,
+          87.72220947220922
+        ],
+        [
+          58.099998474121094,
+          87.72220947220922
+        ]
+      ]
+    },
+    {
+      "title": "HT^nr\u2014?rr: larcraflNOT* <twt\ncmFT-fa q~d q-fcrer- *r*l*?I\u25a0 II i II",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          92.3150634765625,
+          477.16172363236547
+        ],
+        [
+          377.39501953125,
+          477.16172363236547
+        ],
+        [
+          377.39501953125,
+          517.6988635249436
+        ],
+        [
+          92.3150634765625,
+          517.6988635249436
+        ]
+      ]
+    },
+    {
+      "title": "Pramanl, Viparyaya, Vibalpl, Sleep And Rt-collcrtion (1)*",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.75390625,
+          568.6357531733811
+        ],
+        [
+          532.24609375,
+          568.6357531733811
+        ],
+        [
+          532.24609375,
+          587.5087890625
+        ],
+        [
+          62.75390625,
+          587.5087890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          711
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-042"
+}

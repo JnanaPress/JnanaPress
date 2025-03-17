@@ -1,0 +1,11 @@
+## 5ft YOGA PHILOSOPHY Of PATAS,JAL1
+
+Ksivalya. There may be regard and energy for other things but they do not bring about yoga or a state of Isolation.
+
+(3) Smrti-Memory or repeated recollection is the principal item in devotional practice. Its technical name is Sinfti-**Sadhana-** It consists in recalling the feeling experienced at the time of contemplating a subject and in feeling that it is being remembered and will be remembered- 'When this is done, memory gets fixed, which is the only means of getting into the habitual state of one-pointedness of mind. **When** the memory becomes constant\* then one-pointedness is secured.
+
+God and the various principles are the objects or contemplation\* Smrti is to be practised on them- The method of Siufti-S^dhana relating to God i.s as follows :—
+
+First, try to remember the qo-relation between the token name used for God and God Himself\* When the utterance either mentally or loudly of the token name ( which is OM and called Frapava } brings to mind the conception of a God who is always emancipated, then will the memory of co-relation be properly fixed\* Then imagine that such a God is residing within your heart or mind and go on repeating Llie token name, simultaneously \* remembering that you are repeating the name with a recollection of God and that you will continue to remember it. In the preliminary rstage remembrance of God by the token name might be replaced hv a more descriptive, wordy Mantra.
+
+Similarly, when practising contemplation on the various Tattvas or principles, *i.t.* Bhfitn-tattva, Tanuifttra-tattva, ludriya-tattva, Ahadthara-tattva and Rnddhi'tattva ( respectively the principles of gross elements, subtle monads, sense organs, the Dynamic ligo and the pure "I-feelmg1) their peculiar features should be envisaged and recollected for purposes of Smrti-Sldhana, The highest practice relates to constant remembrance of the discrimination between the l]urn\$a and Frakfti, the pure ■consciousness and the Knowable. In this process, the thoughts should be kept before the mind as it were, j,\*\* your thought process should always be the subject of your scrutiny and **do** foreign idea, *L\*.* nothing other thin that which is being thought ■of, should be allowed to CTop up therein, and you should go

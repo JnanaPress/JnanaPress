@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON COMlEMRAtrON 33",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          220.10000610351562,
+          61.976604003459215
+        ],
+        [
+          535.8992309570312,
+          61.976604003459215
+        ],
+        [
+          535.8992309570312,
+          78.14939453080297
+        ],
+        [
+          220.10000610351562,
+          78.14939453080297
+        ]
+      ]
+    },
+    {
+      "title": "Dreamless Sleep Is The Mental Modification Produced\nBy Condition Of Inertia In The State Of Absence\n( Of Waking And Dreaming ). 10.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          84.0,
+          88.08915283158422
+        ],
+        [
+          506.9544982910156,
+          88.08915283158422
+        ],
+        [
+          506.9544982910156,
+          140.59989501908422
+        ],
+        [
+          84.0,
+          140.59989501908422
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          686
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-057"
+}

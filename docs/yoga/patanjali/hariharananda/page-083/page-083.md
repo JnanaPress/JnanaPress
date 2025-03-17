@@ -1,0 +1,11 @@
+## **ON CONCENTRATION fil**
+
+CENTRAL LIBRARY
+
+**faith in :iu objective cannot apply any energy to attain it. By fixing the mind repeatedly to a subject\* notwithstanding the attending discomfort, memory or recollection thereof is obtained. When it gets fixed, it leads to concentration. Concentration brings forth supreme knowledge, through which true knolwege of things to be avoided arises and thus Kaivalya. is attained\* This is the way to Mokja or liberation. Whatever be the devotional path followed, no one can sidetrack these general methods, Bord Buddha has said in Dhammapuda that all sorrows can be cured through good conduct, reverential faith, enthusiasm, remembrance, concentration and correct knowledge.**
+
+**(**5**) What we conceive of as <sup>a</sup> performer, knower and supporter of things other than the self is what is known as Mithftu Atmu. It is the pure 'J-stuit', when one speaks of being the doer, the knower and retainer of a thing or a subject. The fact that the ,I-sense> which is a phase of the liuddhi or individual intellect is not the Puru^a (or Meitempiric Self or pure Consciousness) has to be realised first in a mind, calm and clear through concentration ; thereafter, by shutting out there\* from all other knowledge, to be able to remain in the knowledge about the Purb\$a, Viveka or Viveka-Khyati or Discriminative Discernment. Though Viveka, Ihiddhi or intellect ceases to act anti brings about Nirotlha-concen (ration. It also brings about the knowledge which is known ns omniscience. When by renouncing the poiver acquired thereby and practising Niiodha-conceniratiou, the closed state of the mind becomes habitual through force of latent impression thereof, then it is called Asauiprajftftta-Sfunadhb it is so called because in that state all Sumprajflflna or knowledge, even Discriminative knowledge, is shut out.**
+
+**7T =T3 Win: <sup>I</sup> fawTeftapn wNi, aszrai ir^qrah ^fwr^inra <sup>i</sup> rie» forfru: TrtTpR%Tr <sup>l</sup> \*tott srvzftqmfrora!tn^r <sup>i</sup> ?rerTfwraW^iT^TT»|—**
+
+**iSftrtt»rpnnTOw; ii m <sup>h</sup> \*mlfaqim'. ^ 4wftf?T II «**

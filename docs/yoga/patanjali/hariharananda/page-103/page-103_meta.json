@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "on concentration &i",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          210.341796875,
+          79.00547363236547
+        ],
+        [
+          537.3453979492188,
+          79.00547363236547
+        ],
+        [
+          537.3453979492188,
+          92.37308837845922
+        ],
+        [
+          210.341796875,
+          92.37308837845922
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          599
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-103"
+}

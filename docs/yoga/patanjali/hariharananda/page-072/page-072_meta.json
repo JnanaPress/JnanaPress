@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "50 YOGA PHILOSOPHY OK PATAJSJAM",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.900001525878906,
+          73.85306884720922
+        ],
+        [
+          422.13623046875,
+          73.85306884720922
+        ],
+        [
+          422.13623046875,
+          87.262939453125
+        ],
+        [
+          55.900001525878906,
+          87.262939453125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          782
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-072"
+}

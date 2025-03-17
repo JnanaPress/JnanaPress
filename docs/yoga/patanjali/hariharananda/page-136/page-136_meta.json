@@ -1,0 +1,111 @@
+{
+  "table_of_contents": [
+    {
+      "title": "U4 yoga philosophy of pataSjali",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.0,
+          68.92051269486547
+        ],
+        [
+          425.9130859375,
+          68.92051269486547
+        ],
+        [
+          425.9130859375,
+          87.47550537064672
+        ],
+        [
+          60.0,
+          87.47550537064672
+        ]
+      ]
+    },
+    {
+      "title": "M w n",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          99.94140625,
+          206.77396728470922
+        ],
+        [
+          348.2040100097656,
+          206.77396728470922
+        ],
+        [
+          348.2040100097656,
+          225.71750976517797
+        ],
+        [
+          99.94140625,
+          225.71750976517797
+        ]
+      ]
+    },
+    {
+      "title": "Subtility Pertaining To Objects Culminates in A'Lipga (1)\nOr The UnmanifcSt, 45.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          82.0989990234375,
+          386.9425463862717
+        ],
+        [
+          528.1787109375,
+          386.9425463862717
+        ],
+        [
+          528.1787109375,
+          424.5195422358811
+        ],
+        [
+          82.0989990234375,
+          424.5195422358811
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          475
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-136"
+}

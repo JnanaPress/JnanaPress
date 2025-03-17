@@ -1,0 +1,11 @@
+## YOGA PHILOSOPHY OF PATAÑJALI
+
+reception and the felicity experienced thereby, they go into different Lokas or Heavenly abodes when they give up their mortal existence and remain there as long as godly existence is vouchsafed to them. Not having realised the Supreme Purusa, the discarnate Devas carry within them the germ of A-darsana or Non-awareness and thus they are born again and fail to secure perpetual peace.
+
+(3) Prakrtilaya = Merging into their elemental principles. According to Acharya Gaudapada the expression 'Vairagyat Prakrtilayah' (merging in elemental principles through detachment) means that they who practise detachment but have not acquired the knowledge of the principles, on account of their ignorance, merge after their death into one or other of the main principles, viz. Pradhana, Buddhi, Ahamkara and the five Tanmatras. Of these, Prakrtilaya mentioned in this Sutra should be taken to mean submergence into Pradhana or the main principle because the mind can only be lost in it, i.e. the concentration can only then be 'seedless' or objectless.
+
+(4) When the mind acquires Viveka or discriminative knowledge its proneness to fluctuation ceases, i.e. by such knowledge the inclination to experiences which keeps the mind alive or in a state of fluctuation, is burnt out altogether. Its other name is Charitarthata or complete attainment of the desired object. Experience and liberation are the two services that can be rendered to the Purusa. With the acquisition of discriminative knowledge, the service to the Purusa is completed. Until such knowledge is acquired inclination to modifications does not cease and the mind goes on reverting, i.e. fluctuating again under the natural law.
+
+## यन्नवीयस्म्र्तिसमाधिप्रज्ञापूर्वक दृतरेषाम् ॥ २० ॥
+
+भाष्यम्-उपायप्रत्ययो योगिनां भवति । यद्या चेतसः संप्रसादः सा हि जननौव कख्याणी योगिनं पाति, तस्य हि यद्दधानस्य विवेकार्थिन: वीयमुप-जायते, समुपजातवीयस्य स्मृतिरुपतिष्ठते, स्मूत्युपस्थाने च चित्तमनाकुलं समाधौयते, समान्दित चित्तस्य प्रश्चाविविक उपावर्तते, येन याधावद् वस्तु जानाति, तट्यासात तदिवयाच्य वेराग्याद भ्रसंप्रज्ञातः समाधिभवति ॥ २००॥ १ विभाग १०७

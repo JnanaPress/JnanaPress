@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "94 YGC.A PHILOSOPHY OF PATASjALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.95000076293945,
+          70.12943603470922
+        ],
+        [
+          427.0751953125,
+          70.12943603470922
+        ],
+        [
+          427.0751953125,
+          87.5712890625
+        ],
+        [
+          60.95000076293945,
+          87.5712890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          843
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-116"
+}

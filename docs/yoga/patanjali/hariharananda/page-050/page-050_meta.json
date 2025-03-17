@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "2B YOCi A PHILOSOPHY OF PATA.SjALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.79899978637695,
+          65.87443115189672
+        ],
+        [
+          421.2646484375,
+          65.87443115189672
+        ],
+        [
+          421.2646484375,
+          81.8668212890625
+        ],
+        [
+          52.79899978637695,
+          81.8668212890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          799
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-050"
+}

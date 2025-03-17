@@ -1,0 +1,130 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHILOSOPHY OF PATANJALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          66.69395465994963,
+          134.2101513802315
+        ],
+        [
+          512.78076171875,
+          134.2101513802315
+        ],
+        [
+          512.78076171875,
+          159.622314453125
+        ],
+        [
+          66.69395465994963,
+          159.622314453125
+        ]
+      ]
+    },
+    {
+      "title": "on Haster (B) stigh Book I and ursenol v. I\nbeing only (11) (11) voltuiss 10 norgano sell of 14 ca",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          65.94458438287154,
+          179.19679430097952
+        ],
+        [
+          547.7896725440806,
+          179.946571682992
+        ],
+        [
+          547.7896725440806,
+          212.9367764915405
+        ],
+        [
+          65.94458438287154,
+          212.9367764915405
+        ]
+      ]
+    },
+    {
+      "title": "more manage on Concentration and 2 ball",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          66.69395465994963,
+          216.68566340160285
+        ],
+        [
+          506.5743073047859,
+          216.68566340160285
+        ],
+        [
+          506.5743073047859,
+          231.056640625
+        ],
+        [
+          66.69395465994963,
+          231.056640625
+        ]
+      ]
+    },
+    {
+      "title": "Now Then Yoga Is Being Explained. 1.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          101.16498740554157,
+          466.224609375
+        ],
+        [
+          464.2626953125,
+          466.224609375
+        ],
+        [
+          464.2626953125,
+          479.380859375
+        ],
+        [
+          101.16498740554157,
+          479.380859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          33
+        ],
+        [
+          "Span",
+          33
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-023"
+}

@@ -1,0 +1,9 @@
+## **S3 YOGA PHJI-OSOPHY OF PATA^JAM**
+
+**(1> Men** generally get envious when they find happiness in others in whom they have no self-interest or by whom their interests are harmed ; similarly a cruel delight is experienced when an enemy is found to be unhappy or in distress. When a person of a different persuasion is found to be pious, the reputation of such a person often gives rise to jealousy and unpleasantness. When a person in whom we have no selfinterest is found to be leading a vicious Ufe we feel sorry or angry pi become cruel towards him- These kinds of envy, cruel delight, malevolence, or auger disturb the mind and prevent its getting calm and set\* That is why if by thoughts of friendliness, etc- the mind can be kept pleasant and happy, free from any disturbing element, then it can become one-pointed and set. When necessary the devotee should think of it iti this way. First recall to mind the pleasure that you would feel when you find your friend to be happy, Then imagine that you would feel equally happy when you find your enemies and others happy, whose happiness you now envy. Similarly, when you delight at the distress of your enemies, remember bow you would take compassion when yoiiT dear ones suffer and get into the habit of feeling equally Compassionate towards your enemies. As yon feel pleased with a person of your persuasion when he acts piously, you should fed equally happy when a person of a different persuasion behaves in a virtuous way\* Not to take any notice of the lapses of others is overlooking. It is not a. positive thinking but refraining from minding the frailties of others. These four practices are called lirahmavihara by the Buddhists and they say they lead to the Brahmaloka\*
+
+## **aismr II V\* <sup>U</sup>**
+
+**By Throwing Out And Restraining The Breath Also ( The Mind Is Calmed ).** 34**.**
+
+**Throwing out or expulsion (1) is the ejection oT the internal air through the apertures of the nose by**

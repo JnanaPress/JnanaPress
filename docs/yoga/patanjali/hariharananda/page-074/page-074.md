@@ -1,0 +1,11 @@
+## **<sup>51</sup> YOGA PHILOSOPHY OF PATaSJAU**
+
+**I**
+
+**of complete cessation of fluctuations (2) is Para-Vairagya or extreme detachment because concentration with an ■object cannot attain it\* It is completely without any object and the practice thereof makes the mind objectless as though it were non-cxistcnt\* This kind of Nirvija or objectless Samadhi (3) is Asamprajhata^Samadhi.**
+
+(Jj Sfliiiskara-iesa-= Where only the latencies persist. There is no cognised modification in the closed state, but only the latent impression of a break in cognition. Mind lias two functions, cognition and retention. In a closed state there is no cognition, but ns such cognition might happen again, it must be admitted that the latent impression of fluctuation is there\* Therefore, the expression Samskara-£e\$a implies the state of the latent impressions of fluctuations and that of the latent impression of the closed stale. The latency of the closed state means the cessation of the latencies of fluctuations\* SaihskAra'^e^a, therefore, is that state wherein the latency of closed state prevents the functioning of the latencies of fluctuations.
+
+(2) The means of attaining such cessation is the practice, t.f, constant repetition in mind of the idea of supreme detachment. How cessation of fluctuation can be brought about by extreme detachment is explained below. In Samprajfl&U.- Yoga, one reaches the \*I-feelingT gradually, after having mastered the antecedent principles beginning from gross matter. Then focussing the mind on the idea that T do not want even the \*I-feeling\ if the mind acquires a momentum for the closed state, fluctuations will no longer arise in the mind\* Then the mind would appear to be a void. That is called the 'moment" of closed state, in other words, the interval between two states of fluctuations. That is the state in which the Seer abides in Himself. Then the pure Consciousness is not closed but the knowledge of non-self dist^pears ; consequently, the knower of non-self, ithe '1-feeling', also disappears.
+
+^3) Nirvlja-Sam&dhi ((.\*. without an object to meditate upon) is not necessarily AsamprajrilUa-SamSdhi. As concentration with an object is not always Samprajii^ta-Samldhi but

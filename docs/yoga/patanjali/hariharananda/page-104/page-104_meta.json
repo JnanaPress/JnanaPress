@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHILOSOPHY OF PATA\u00d1JALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          168.60831234256926,
+          78.72662511130899
+        ],
+        [
+          412.548828125,
+          78.72662511130899
+        ],
+        [
+          412.548828125,
+          90.757568359375
+        ],
+        [
+          168.60831234256926,
+          90.757568359375
+        ]
+      ]
+    },
+    {
+      "title": "Sorrow, Dejection, Restlessness, Inhalation And Exhalation\nArise From (Previous) Distractions. 31.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.448362720403026,
+          180.69634906500445
+        ],
+        [
+          517.7197265625,
+          180.69634906500445
+        ],
+        [
+          517.7197265625,
+          211.93896484375
+        ],
+        [
+          61.448362720403026,
+          211.93896484375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-104"
+}

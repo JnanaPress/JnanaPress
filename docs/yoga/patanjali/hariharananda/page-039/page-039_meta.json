@@ -1,0 +1,88 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ox CONCENTRATION 17",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          222.0,
+          70.30851318314672
+        ],
+        [
+          536.7499389648438,
+          70.30851318314672
+        ],
+        [
+          536.7499389648438,
+          90.45829345658422
+        ],
+        [
+          222.0,
+          90.45829345658422
+        ]
+      ]
+    },
+    {
+      "title": "They Fall Into Five Varieties Of Which Some Art 'Klista1\nAnd The Re$t 'Aklista*, 5,",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.01708984375,
+          99.71940185502172
+        ],
+        [
+          528.46923828125,
+          99.71940185502172
+        ],
+        [
+          528.46923828125,
+          137.28831054642797
+        ],
+        [
+          70.01708984375,
+          137.28831054642797
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          680
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-039"
+}

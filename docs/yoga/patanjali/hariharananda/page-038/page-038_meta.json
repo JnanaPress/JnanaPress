@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHILOSOPHY OF PATANJALT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          179.0500030517578,
+          75.79813720658422
+        ],
+        [
+          423.5888671875,
+          75.79813720658422
+        ],
+        [
+          423.5888671875,
+          90.5006103515625
+        ],
+        [
+          179.0500030517578,
+          90.5006103515625
+        ]
+      ]
+    },
+    {
+      "title": "ttt: !j.frt<VieqT fewi\u2014\nvm: wr, fai*T\u00a3%PT: n % n",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          93.84033203125,
+          561.8012805171311
+        ],
+        [
+          406.84918212890625,
+          561.8012805171311
+        ],
+        [
+          406.84918212890625,
+          619.9273486323655
+        ],
+        [
+          93.84033203125,
+          619.9273486323655
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          560
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-038"
+}

@@ -1,0 +1,11 @@
+## **36 YOGA PHILOSOPHY OF I>ATA5ljALJ**
+
+principle:', Further it has beeu said that through special devotion to Gad all obstacles are removed. Therefore, practice of contemplation on one principle is only a particular method. That which in the aggregate of all physical actions like breathing etc\* gives rise to the recollection of One thought is called one principle. Such thought is best when it relates to God or to the \*l-sense\ It might relate to something else. As a **matter** of factT when the object concentrated upon collectively becomes a sort of one idea in the mind, then that is adoption of one principle. By its practice the mind easily gets tranquil. When it is co-ordinated with inhalation and exhalation of breath, ordinary breathing turns into Yogic breathing and when that is mastered, one is not easily perturbed by atHictions\* As it becomes a natural and pleasant support, it can remove sulleuncss. Further, as there is an underlying attempt to keep still, it decreases shakiness of the body. In this way disturbance anti its concomitants disappear and the mind gets gradually fixed\*
+
+12} It is laid down that a disturbed mind should be made one-pointed. The commentator here controverts the opinion of those who hold that the mind is a momentary tiling\*
+
+{A) Such people think that the mind comes into existence with a thought and disappears with it, and that it is only <sup>a</sup> state or *<sup>a</sup>* modification without auy substratum and is wholly transitory.
+
+(Us If miud is transitory\* there cannot be nny justification for calling a mind disturbed, one-pointed, etc.\* because each luiud is on this view separate aud short-lilted, and each must therefore be one-pointed os each mind has only one subject to think upon\*
+
+(C) If the thoughts are separate and unconnected, the remembrancer or coguiser of one knowledge or action cannot be the same as of another. If it is urged that the latent impression of knowledge or action is retaineif and reappears in a subsequent thought then its existence iu some form would be postulated which would be contrary to the basic proposition that mind comes into existence with a thought anti disappears with it\* Consequently, tile Slink liya view that

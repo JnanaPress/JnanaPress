@@ -1,0 +1,11 @@
+## **ON CONGENTRATION 3'J**
+
+CENTRAL LIBRARY
+
+**Purusa. is being indicated but the mere absence of the property of being created is implied\* That is why that characteristic is regarded as the object of \*Vikalpaf atid the term is used to indicate an idea which has no existence beyond the word.**
+
+(If There are expressions and words which liavt uo aUSwering reality. From hearing those words or expressions, an ideation takes place in our minds. That is Vikalpa-Vnti or modification due to vague notion. Those creatures who express their ideas through language have to depend largely on such notions\* \*Atlanta' (infinite) is an expression conveying a vague notion\* We use that word often and understand its import to some extent\* It is, however, not possible to comprehend the real significance of that word\* We can understand the significance of 'finite\* and from that a false and vague ideation takes place in our mind through the word 'infinite'\* The words 'infinite', 'innumerable', etc. arc also used in a different sense, *e.g.* whose limit cannot be reached by measurement, or number of which the end cannot he arrived at by counting. In this sense 'infinite' and 'innumerable' are not verbal delusion or vague ideation. Hut if we take 'infinite' as a measure in respect of a whole\* then it will be a verbal delusion because the moment we speak of a whole, it will Llt thinking of <sup>a</sup> 'finite' thing\* When Yogins attempt to gain correct knowledge of internal and external matter through wisdom acquired by concentration, then they will have to give up all such notions, because that is a sort of improper thought. Essential cognition or knowledge filled with truth (Rtambharfi FrajuiV, Sfitra l,4S) is antagonistic to all imaginary cognition. In reality until imaginary cognition disappears from the thought process, real I£ta or realised truth cannot be thought of.
+
+Vague cognition can be divided into three parts—vagut notion of tiling, vague notion of action and Vague notion of **nothingness.** Example of the first is "Chaitauya is the rikturc of the Pnru\$a"\* In this, although the two are the same, for usage, their separate mention is ati instance of Vika) pa in respect of things. When a non-actor is used for an actor\* then it is an instance of Vikalpa of action\* Modification of
+
+O.P. 132—5

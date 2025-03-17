@@ -1,0 +1,11 @@
+## **<sup>76</sup> VOCA PHILOSOPHV or PATANJAL1**
+
+When after some practice the mind of tlie devotee becomes somewhat calm and carefree and tie is able to rest in Godly feeling, then a transparent white limitless luminous sty should be imagined by him to be within his heart, Then thinking that the omnipresent (iotl is pervading that iky, the devotee should contemplate that his 'I-aense', his whole ^.elf is iu the God who is present in his heart\* The next step would he to unite his iniud with the mind of the livara that is in the sty within the heart and rest in a state of contentment, without any care or thought. In the Muudaka-Upani^ad the method has been beautifully described as follows j-\_\_ "Uiahmftn or the God within the heart, is the target ; the mystic syllable OM is the bow ; and tlie self or Ego is the arrow-. With an undistractedmind one should hit the mark and be completely absorbed by getting the self into It rah man,'\* In other words, one should contemplate that one is completely within the God in one's heart\*
+
+When the above process of meditation is mastered the devotee lias a sort of blissful feeling in his heart\* Then lie should recollect that the blissful feeling, arising out of a sense of staying in God, is <sup>I</sup> and lie should hjing his mind Lo a state of calmness and blissfulness after the mind of God\* If this is practised with ardent devotion, carefully and continuously, the real result of Tsvara Praiiidhrma, *viz\** realisation of one's own self is achieved (see next Sutra)\*
+
+In repeating the mystic syllable OM, the 'O' is pronounced comparatively -short and 'M\* long—prolonged without break\* It is better to repeat it mentally, instead of articulately\*
+
+In practising Uvara Pranidliana it has, of course, to lie done with reverence. When the remembrance of God brings happiness, the feeling of attachment arising out of the sense of happiness and of God's greatness is reverence.
+
+There is another way of repeating the mystic syllable. It is Lliis\* When 'O' is pronounced, bring to mind the reverential feeling and when \*M' is uttered long and continuously, persist in the reverential feeling\* After getting into its way, if it is practised with breathing, it gives better result. In inhaling the normal b^yatli\* mentally utter fD' and bring to mind a

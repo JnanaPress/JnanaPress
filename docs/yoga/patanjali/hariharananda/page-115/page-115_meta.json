@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON CONCENTRATION S3",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          215.135498046875,
+          72.14969970658422
+        ],
+        [
+          532.968017578125,
+          72.14969970658422
+        ],
+        [
+          532.968017578125,
+          85.65671874955297
+        ],
+        [
+          215.135498046875,
+          85.65671874955297
+        ]
+      ]
+    },
+    {
+      "title": "Or By Perception WhUt Is Free From Sorrow And 1b Radiant (1)\n(Fixity Of Mind Can Also Be Produced). 36,",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.099998474121094,
+          150.79386474564672
+        ],
+        [
+          539.21875,
+          150.79386474564672
+        ],
+        [
+          539.21875,
+          186.69987060502172
+        ],
+        [
+          52.099998474121094,
+          186.69987060502172
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          623
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-115"
+}

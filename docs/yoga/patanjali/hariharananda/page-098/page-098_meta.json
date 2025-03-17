@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "76 VOCA PHILOSOPHV or PATANJAL1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.900001525878906,
+          65.87125732377172
+        ],
+        [
+          425.9130859375,
+          65.87125732377172
+        ],
+        [
+          425.9130859375,
+          85.21366455033422
+        ],
+        [
+          61.900001525878906,
+          85.21366455033422
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          791
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-098"
+}

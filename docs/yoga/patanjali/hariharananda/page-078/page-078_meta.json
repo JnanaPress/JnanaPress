@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHILOSOPHY OF PATA\u00d1JALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          184.34508816120908,
+          74.22796081923418
+        ],
+        [
+          429.68994140625,
+          75.72751558325912
+        ],
+        [
+          429.68994140625,
+          87.2115478515625
+        ],
+        [
+          184.34508816120908,
+          87.2115478515625
+        ]
+      ]
+    },
+    {
+      "title": "\u092f\u0928\u094d\u0928\u0935\u0940\u092f\u0938\u094d\u092e\u094d\u0930\u094d\u0924\u093f\u0938\u092e\u093e\u0927\u093f\u092a\u094d\u0930\u091c\u094d\u091e\u093e\u092a\u0942\u0930\u094d\u0935\u0915 \u0926\u0943\u0924\u0930\u0947\u0937\u093e\u092e\u094d \u0965 \u0968\u0966 \u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.41309823677582,
+          620.0658949243099
+        ],
+        [
+          418.14861460957184,
+          618.5663401602849
+        ],
+        [
+          418.14861460957184,
+          635.611328125
+        ],
+        [
+          103.41309823677582,
+          635.8112199465717
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          37
+        ],
+        [
+          "Span",
+          37
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-078"
+}

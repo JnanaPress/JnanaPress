@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "loti YOGA PHILOSOPHY 03 FATASJaU",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.6500015258789,
+          67.87052490189672
+        ],
+        [
+          439.8583984375,
+          67.87052490189672
+        ],
+        [
+          439.8583984375,
+          85.3614501953125
+        ],
+        [
+          68.6500015258789,
+          85.3614501953125
+        ]
+      ]
+    },
+    {
+      "title": "When The Memory Is Purified* The Mind Appears To Be\nDevoid Of Its Own Nature |i.e. Of Reflective Conscious-\nnew ) And Shine* Only As The Object ( 3 j Alone { On\nWhich It I> Contemplating i, Thie Kind Of Engross\nment Is Called Nirvitarhi Sunapatti. 43.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          65.05000305175781,
+          96.22910644486547
+        ],
+        [
+          549.677734375,
+          96.22910644486547
+        ],
+        [
+          549.677734375,
+          178.82798339799047
+        ],
+        [
+          65.05000305175781,
+          178.82798339799047
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          635
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-128"
+}

@@ -1,0 +1,13 @@
+## *( 1* **)**
+
+CENTRAL LIBRARY
+
+## YOGA
+
+## *What* **if <sup>j</sup>.v,** *and wilut if is Hat*
+
+**The ability lo stop at will the fluctuations or modifications of the mind whEeh is acquired through constant praclicc in a spirit of renunciation. is called Yoga. True Ycg;i is practised with a view to attaining salvation. Hie Stoppage of the fluctuations of the mind or its modifications implies the art of keeping only one idea before the mind's** *eye* **and shutting out all Other ideas or thoughts. In an advanced state of practice. it is possible lo suspend all ideation. The two important features of Yoga hi he noted arc fit that there is the suppression at will of the modifications of the mind and (ii) that it is not casual but has been developed into a habit through constant practice, not for gaining a personal end, but in <sup>a</sup> sphit of renunciation. If without any effort independently of any volition there is at any time a quiescence of the cognitive faculty of the mind that is not Yoga. It has been found that some men suddenly gel into a mental state of quiescence : they imagine that at the time they were not conscious of anything. From physical symptoms, such quiescence looks like sleep. 1-aiming, fit. catalepsy, hysteria etc, also bring about a similar state of mental inactivity. By the condition^ tftentidfted before, this stale cannot however be regarded as Yoga. Again, some naturally have, or by practice acquire, the power of stopping the circulation of blood or of going without food for long or short periods, none of them is Yoga. Holding up the breath for some cime in a particular physical mode or posture is not real Yoga cither, because in men capable or performing such feats, the power of concentrating the mind at will on any particular objeel, is not found as a matter of necessity.**
+
+**In the Yogic concentration, where only a single item or thought is kept in the mind to the exclusion of others there are stages. When the same item of thought can be kept constant in the mind foi some length of lime, the Yogic, process is known as IMiyfma (meditation). When the meditation becomes so deep that forgetting everything, forgetting as it were even tine's own seft. (fie mind is fixed only on die object contemplated Upon, such voluntary concentration is called Samadhi (intense contonl ration). This feature of Sumadhi should be understood thoroughly Ignoraiii people think that any form of quietness of [he mind or trance or loss of consciousness of external objects is Samadhi ; but that has nothing to do with Yoga.**
+
+**There arc different kinds of Samadhi depending on objects con-**

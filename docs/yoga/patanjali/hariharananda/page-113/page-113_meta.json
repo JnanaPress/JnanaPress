@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON concentration St",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          222.689208984375,
+          74.86503173783422
+        ],
+        [
+          539.3984375,
+          74.86503173783422
+        ],
+        [
+          539.3984375,
+          89.49839355424047
+        ],
+        [
+          222.689208984375,
+          89.49839355424047
+        ]
+      ]
+    },
+    {
+      "title": "The Development Of Higher Objective Perceptions Catted\nVistiyavati (1 J Also KringS About Fixity Of Mind. 35+",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          79.9000015258789,
+          154.51432373002172
+        ],
+        [
+          523.82080078125,
+          154.51432373002172
+        ],
+        [
+          523.82080078125,
+          187.88364746049047
+        ],
+        [
+          79.9000015258789,
+          187.88364746049047
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          584
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-113"
+}

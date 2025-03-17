@@ -1,0 +1,11 @@
+## **ON CONCENTRATION 85**
+
+CENTRAL LIBRARY
+
+**persists in an identical form. How can this sense of personal identity have any identity with the differing sensations of touch and sight ? This self-same 'I-scnsc' is felt by everyone in his own experience- The superiority of direct perception cannot be impugned by any other proof ; the other proofs can operate only in dependence onperception. Therefore mind is one, takes in many objects and is stable\* i.r, is not a void (baseless) but a continuous entity.**
+
+(1) The phrase SA single principle or reality' has been differently Interpreted by different commentators. Vztcbaspati Mishra says it refers to Isvara\* Vijn^na Bhik\$u says it. refers to some gross principle, whereas UhojarAja says it refers lo a specially selected principle\* **In** fact\* there is no indication here in respect of the object of contemplation but only in respect of the quality of contemplation. Whatever might lie the object contemplated upon—Isvara Ot anything else—tllnt should be taken up as the sole principle. God can be contemplated upon in various ways mwl gradually, *t+g.* when we sing hymns in praise of God\* keeping in mind the meanings thereof, the mind moves about to different objects depicting the glory of God. Practising One principle is not like that- When God is thought of as present within oneself or as an idea contemplated upon, then that kind of concentrated attention is called the practising of one principle. Such practice is opposed to fluctuations\* and by it, the fluctuations of the mind are removed. The same rule applies to the contemplation of other principles,
+
+For practice of one principle, Isvara and 'bueiise' are the best. That "1 am the observer of all the modifications that are taking place every moment in the mind'\*—a recollection of such an T as a support of contemplation is very soothing to the mind. This is what the Upuni^ads call the contemplation on Atman as consciousness.
+
+If only contemplation on God alone had been intended\* the maker of the SfUra would not have used the phrase 'Out

@@ -1,0 +1,11 @@
+## **ON CONCENTRATION** so
+
+CENTRAL LIBRARY
+
+**a special kind of effort. Restraining or Pranayama is retention of the breath. The mind can also be calmed or set by these methods,**
+
+**(I) For calming the mind, it should hold on to sotnething-Therefore practising breathing only without attempting to sel the mind, would never result in calmness. Consequently if Fr^vayaxua is practised without DhySna {deep meditation) the mind instead of becoming calm would get more disturbed, Thai is why for every retention of breath, the mind should be made one-pointed with a particular thought with every inhalation. The £iistras say that the breath should be joined to a conception of the void. In other words, when exhaling, it should b^ thought that the mind is vacant, has no thought in it\* Bxlialutiou with such thought fixes the mind ; otherwise not. The effort with which breath is exhaled has three steps\* First, the effort to exhale it slowly ; secondly, the effort to keep Hie body still and relaxed ; and thirdly, the effort to keep the mind vacant or without any thought\* This is how the breath to be exhaled, Then, to remain as far as possible iu that vacant state #of the mind is \*holdiug the breath'. En this method there is uo effort to take in the breath, which will take place naturally, but it should be watched that the mind Continues to remain vacant at that time also.**
+
+**That the Tseuse' is disentangling itself from the body and the '1-feeling" in the core of the heart is moving on to the wordless, thoughtless state of concentrated 'OM'—this thought is possible only at the time of exhalation ami not at the time of inhalation\* That is why uo reference has been made in the Sfitra to inhalation. In exhalation and retention of breath, the nerves of the body get relaxed find the mind gets into a sorl of vacant, inactive state which is not possible at the time of inhalation. To practise this method, the breath should be exhaled wil^j prolonged and appropriate effort. The whole body and the chest should be kept still and only the belly should be moved for the purpose of inhalation find exhalation\* When this is practised assiduously for some time, a happy feeling or feeling M lightness spreads all over the tody\* Further practice is to be continued with this feeling, and when that**
+
+**O.P. L32—12**

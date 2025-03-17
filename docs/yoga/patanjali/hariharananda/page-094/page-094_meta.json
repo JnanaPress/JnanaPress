@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "72 YOCrA PHILOSOPHY 01L PATAfsIJALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.0,
+          64.32059814408422
+        ],
+        [
+          425.62255859375,
+          64.32059814408422
+        ],
+        [
+          425.62255859375,
+          81.54331542924047
+        ],
+        [
+          60.0,
+          81.54331542924047
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          743
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-094"
+}

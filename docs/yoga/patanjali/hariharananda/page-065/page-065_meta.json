@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON CONCENTRATION 45",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          222.25341796875,
+          67.52268554642797
+        ],
+        [
+          533.0496826171875,
+          67.52268554642797
+        ],
+        [
+          533.0496826171875,
+          82.13157226517797
+        ],
+        [
+          222.25341796875,
+          82.13157226517797
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          672
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-065"
+}

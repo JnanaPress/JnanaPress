@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "73 YOGA PHILOSOPHY Of PATAS<JALl",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.0989990234375,
+          65.86283447220922
+        ],
+        [
+          429.10888671875,
+          65.86283447220922
+        ],
+        [
+          429.10888671875,
+          82.7918701171875
+        ],
+        [
+          64.0989990234375,
+          82.7918701171875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          766
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-100"
+}

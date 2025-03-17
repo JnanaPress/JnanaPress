@@ -1,0 +1,65 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON CONCENTRATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          174.60327455919395,
+          74.22796081923418
+        ],
+        [
+          402.411838790932,
+          71.9786286731968
+        ],
+        [
+          402.411838790932,
+          85.4642333984375
+        ],
+        [
+          174.60327455919395,
+          85.4642333984375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          35
+        ],
+        [
+          "Span",
+          35
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-121"
+}

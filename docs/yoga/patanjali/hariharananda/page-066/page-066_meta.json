@@ -1,0 +1,103 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHILOSOPHY OF PATANJALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          185.84382871536525,
+          72.72840605520926
+        ],
+        [
+          432.3046875,
+          72.72840605520926
+        ],
+        [
+          432.3046875,
+          85.3614501953125
+        ],
+        [
+          185.84382871536525,
+          85.3614501953125
+        ]
+      ]
+    },
+    {
+      "title": "\u0924\u0924 \u092a\u0930\u0902 \u092a\u0941\u0930\u0941\u0937\u0916\u094d\u092f\u093e\u0924\u0940\u0902 \u0917\u0935\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u092e\u094d \u0965 \u0967\u096c \u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          101.16498740554157,
+          359.1433659839715
+        ],
+        [
+          348.0517578125,
+          359.1433659839715
+        ],
+        [
+          348.0517578125,
+          375.775390625
+        ],
+        [
+          101.16498740554157,
+          375.775390625
+        ]
+      ]
+    },
+    {
+      "title": "Indifference To The Gunas Or The Constituent Principles\nAchieved Through A Knowledge Of The Nature Of The\nPurusa Is Called Paravairagya (Extreme Detachment). 16.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          76.263427734375,
+          528.593054318789
+        ],
+        [
+          541.54296875,
+          528.593054318789
+        ],
+        [
+          541.54296875,
+          576.408203125
+        ],
+        [
+          76.263427734375,
+          576.408203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-066"
+}

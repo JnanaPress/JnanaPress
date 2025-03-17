@@ -1,0 +1,11 @@
+## TO **YOGA PHILOSOPHY OF PATA^JALI**
+
+it would appear that the parts of an immeasurable thing going on increasing becomes so big that nothing can exceed it. The **constituent** cause of the variable faculty of knowledge is limitless (Prakjrti). Therefore, the extent of knowledge will ultimately reach a stage mote than which there would be none.
+
+(/) The person whose power of knowledge is so excessive, so non-pareil\* is T.svarn,
+
+Prom the Sfitra and the commentary only a general idea of I.Avara is derived,, t.f, only this much comes to be known that there is a Being of that description\* From the Sastras\* r.c. from the sayings of those who have realised Him through special devotion (Pranidlrtua) the particulars of Isvara are to he gathered,
+
+(2<sup>1</sup> Ordinary human mind goes on moving continually Without restraint under the influence of previous latent impressions\* It cannot be stopped even if wanted\* A Yogin who has acquired Discriminative knowledge and cun, by shutting out the latent impressions from the mind, bring it to a closed state cam if necessary, shut out the working of the mind for a fixed period and again bring it into action, when the closed state will tease and the mind will reappear\* Such a mind will not appear in an uncontrolled manner but as it has been freed from latent impressions of nescience, it will reappear with correct knowledge foT the benefit of the Yogin\* Such a mind will also arise or disappear at the bidding of the Yogin, except when the Yogin shuts out his mind for ever, when there will be no chance of a made-up mind appearing.
+
+That liberated persons can work with such made-up minds is the finding of the Sathkbya Philosophy. The commentator has quoted PafichaSikha in support of this view, TAvara also Favours creatures in this way.. Yogins assume a made-up mind only when the need for it arises. "I shall liberate the creatures from the snares of birth and death by giving them proper knowledge" is the incentive for the emergence of Isvnra's made-up mind\* That at the dissolution of the mundane period God assumes such a mind, is the opinion of the commentator.

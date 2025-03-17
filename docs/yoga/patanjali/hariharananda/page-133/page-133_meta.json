@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON CONCENTRATION IM",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          214.11865234375,
+          77.14957763627172
+        ],
+        [
+          530.4578247070312,
+          77.14957763627172
+        ],
+        [
+          530.4578247070312,
+          90.78849365189672
+        ],
+        [
+          214.11865234375,
+          90.78849365189672
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          662
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-133"
+}

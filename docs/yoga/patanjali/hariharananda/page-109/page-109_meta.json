@@ -1,0 +1,107 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON CONCENTRATION 07",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          212.95654296875,
+          78.02054931595922
+        ],
+        [
+          529.9000244140625,
+          78.02054931595922
+        ],
+        [
+          529.9000244140625,
+          91.43418456986547
+        ],
+        [
+          212.95654296875,
+          91.43418456986547
+        ]
+      ]
+    },
+    {
+      "title": "wr*!i\u00ab \u2014utot trfNm ftfipraSr t",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          91.51611328125,
+          310.6869311518967
+        ],
+        [
+          412.25830078125,
+          310.6869311518967
+        ],
+        [
+          412.25830078125,
+          331.373046875
+        ],
+        [
+          91.51611328125,
+          331.373046875
+        ]
+      ]
+    },
+    {
+      "title": "The Miatl Bflcomes xScrcnp By The Cultivation Of Feelings Of\nAmity, Compassion, Goodwill And Ind iffvren.ee itespeVlively\nTowards Happy, Miserable* Virtuous And Vicious\nCreatures. 33*",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.8486328125,
+          506.05442382767797
+        ],
+        [
+          530.79345703125,
+          506.05442382767797
+        ],
+        [
+          530.79345703125,
+          574.1108508296311
+        ],
+        [
+          59.8486328125,
+          574.1108508296311
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          502
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-109"
+}

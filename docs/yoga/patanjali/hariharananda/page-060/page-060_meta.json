@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "3B YOGA philosophy of pataRjatli",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.099998474121094,
+          64.97678710892797
+        ],
+        [
+          422.71728515625,
+          64.97678710892797
+        ],
+        [
+          422.71728515625,
+          82.28318359330297
+        ],
+        [
+          58.099998474121094,
+          82.28318359330297
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          656
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-060"
+}

@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON CONCENTRATION 2D",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          223.89999389648438,
+          69.31718017533422
+        ],
+        [
+          536.3070678710938,
+          69.31718017533422
+        ],
+        [
+          536.3070678710938,
+          83.4085693359375
+        ],
+        [
+          223.89999389648438,
+          83.4085693359375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          849
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-051"
+}

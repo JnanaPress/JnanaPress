@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "eo YOGA PHILOSOPHY OF PATAftjAl*!",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          66.0,
+          73.56663085892797
+        ],
+        [
+          428.818359375,
+          73.56663085892797
+        ],
+        [
+          428.818359375,
+          90.06577636674047
+        ],
+        [
+          66.0,
+          90.06577636674047
+        ]
+      ]
+    },
+    {
+      "title": "Sickacsn, Incompetence, Doubt, Dcluiion, Sloth, Non-Abst^ntiwo\nErroneous Conception, NoD-Atlainment Of Any Yogic Stag*,.\nAnd Instability To Stay In A Yogic State, These Dis-\ntractions Of The Mind Are The Impediments, 30.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.900001525878906,
+          100.90299560502172
+        ],
+        [
+          549.38720703125,
+          100.90299560502172
+        ],
+        [
+          549.38720703125,
+          171.59989501908422
+        ],
+        [
+          62.900001525878906,
+          171.59989501908422
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          654
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-102"
+}

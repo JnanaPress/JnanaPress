@@ -1,0 +1,9 @@
+## **24 YOGA PHtLOSOPI IY OF PATAJnTJALI**
+
+through the sense channel and which is concerned mainly (3) with the special features of the object that is characterised by the special as well as by certain general features. The outcome (4) of this perceptual modification is the selTTs awareness oT this modification as undistinguished from the Self. That the Self is the reflector of the Buddbi (5) will be established later on.
+
+Inference is that kind of mental modification which is concerned with the entity (pi'c. the mark] (6) that is present in the instances where the probandum occurs and is absent from the instances where the probandum does not occur. For example\* the moon and the stars have motion as Chaitra has, for they change their position *mt* the Vindhya Hills do not change its location and so it has no motion.
+
+The mental modification arising from hearing the words of a reliable person who desires to convey his cognition to the hearer is Agama-Prafaana, *i.e.* authoritative testimony to the hearer (7). That testimony may be false, *i.e.* cannot at all be a Pramana, jf the person communicating the knowledge is not trustworthy or is deceitful or is one who has neither seen nor experienced what heseeks to communicate. That transferred cognition which has its basis in the direct experience of the first authoritative exponent or in his correct inference is genuine and perfectly valid (8),
+
+**(l) PramS is knowledge about a real object which is uncontradicted. The instrument of Pram&, the way of getting correct knowledge is Pramana. Friuliana is making sure of a real thing which was unknown before ' in other words\* PrainUna is the process of Pram5 in regard to an unknown thing. This definition of Framed might give rise to the doubt that when the absence of fire is established by an inference, then Che definition of Pratn&ga cannot cover Lhat inference.**

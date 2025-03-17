@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON UONCF.NTR ATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          218.89999389648438,
+          68.95450927689672
+        ],
+        [
+          369.55078125,
+          68.95450927689672
+        ],
+        [
+          369.55078125,
+          82.58689453080297
+        ],
+        [
+          218.89999389648438,
+          82.58689453080297
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          478
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-073"
+}

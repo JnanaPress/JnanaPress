@@ -1,0 +1,11 @@
+## YOGA PHILOSOPHY OF PATANJALI
+
+being prompted by Him is what is known as surrendering everything to God. The saying "Whatever I do, willingly or unwillingly, I am offering its fruits, whether happiness or misery, to you" means that "I do not want either happiness or sorrow nor shall be perturbed by either. Everything is being done by you." To make oneself disinterested in everything one should do this devotional practice. This frame of mind banishes all egotistic feeling and brings about a perpetual faith in God.
+
+(2) Being touched by his devotion, God desires that the wishes of a wholehearted and dependent devotee might be fulfilled. Naturally God's grace would be directed towards conferment of the highest benefit to all created beings, viz. attainment of Moksa or a state of liberation and not worldly pleasures, which it is best not to seek from God. Worldly pleasures or misery arise out of work done. From work such as Isvara-Pranidhana, spiritual knowledge is obtained through God's grace. Through contemplation on God as on a liberated person the mind naturally becomes calm and thereby concentrated. From knowledge derived through concentration, the spiritual needs of a Yogin are met. He has not" to wait for special favour from God ; while Yogins who surrender all the fruits of their labour to God and seek knowledge from Him get it through His grace.
+
+## भाष्यम्- प्रधानपुरुषव्यतिरिक्तः कोऽयमोध्यसो नामिति ?-को शकर्मविपाकाशयरपराराम्ट्रः पुरुषविधोष द्रंश्तरः ॥ २४ ॥
+
+यविद्यादयः क्रुणालाकुम्मनानि कर्माणि, तत्फलं विपाकस्तदनुगुणा वासना भाषाया: । ते च मनसि वर्तमानाः पुरुषे व्यवद्ग्यन्ति स हि तत्फलस्य भोक्तिति यथा जय: पराजयों वा योद्धू यु वर्तमान: स्वामिनि व्यपदिश्यते । यो ध्यनेन भोगिन भ्रपरामृष्टः स पुरुषविधेष द्रंथ्वरः । कवल्यं प्राप्तार्म्तर्रि संति च वर्ष्वः केवनिन:, ते दि व्रोणि बन्धनानि किच्या कवख्यं प्राप्ता:, प्रेम्बरस्य च तत्मंबन्धो न भूतो न भावी यथा सुक्रस्य पूर्वी वन्धकोटि: प्रज्ञायते नैवमीश्वरस्य, यथा वा प्रक्षतिलोनस्य उत्तरा वन्धकोटि: संभाव्यते नैवमीमवरस्य । स तु सटैव
+
+164

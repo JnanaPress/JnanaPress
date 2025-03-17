@@ -1,0 +1,107 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON CONCENTRATION 3?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          222.9399871826172,
+          66.79789306595922
+        ],
+        [
+          539.3854370117188,
+          66.79789306595922
+        ],
+        [
+          539.3854370117188,
+          80.9931640625
+        ],
+        [
+          222.9399871826172,
+          80.9931640625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          96.309814453125,
+          244.212890625
+        ],
+        [
+          336.4306640625,
+          244.212890625
+        ],
+        [
+          336.4306640625,
+          257.7802734375
+        ],
+        [
+          96.309814453125,
+          257.7802734375
+        ]
+      ]
+    },
+    {
+      "title": "Memory Is Mental Modification Caused By Reproduction\nOf The Previous Impression Of An Object Without\nStealing From Anything Else* (1), 11-",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          75.24658203125,
+          474.4340014643967
+        ],
+        [
+          533.11767578125,
+          474.4340014643967
+        ],
+        [
+          533.11767578125,
+          528.4195971675217
+        ],
+        [
+          75.24658203125,
+          528.4195971675217
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          449
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-059"
+}

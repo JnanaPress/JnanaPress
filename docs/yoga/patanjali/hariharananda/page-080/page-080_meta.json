@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "5ft YOGA PHILOSOPHY Of PATAS,JAL1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.099998474121094,
+          68.30039550736547
+        ],
+        [
+          426.78466796875,
+          68.30039550736547
+        ],
+        [
+          426.78466796875,
+          89.81876708939672
+        ],
+        [
+          58.099998474121094,
+          89.81876708939672
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          734
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-080"
+}

@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "mci YOGA PHII-OSOPHY OK PATANJALJ",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.9000015258789,
+          73.39310790970922
+        ],
+        [
+          436.3720703125,
+          73.39310790970922
+        ],
+        [
+          436.3720703125,
+          87.468505859375
+        ],
+        [
+          68.9000015258789,
+          87.468505859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          645
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-122"
+}

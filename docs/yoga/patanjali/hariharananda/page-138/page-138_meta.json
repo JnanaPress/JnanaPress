@@ -1,0 +1,103 @@
+{
+  "table_of_contents": [
+    {
+      "title": "116 YOGA PHILOSOPHY OP PATaSJALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.95000076293945,
+          83.98844482377172
+        ],
+        [
+          427.36572265625,
+          83.98844482377172
+        ],
+        [
+          427.36572265625,
+          102.24052001908422
+        ],
+        [
+          54.95000076293945,
+          102.24052001908422
+        ]
+      ]
+    },
+    {
+      "title": "fafaw^aiisr^irwirrinw^ u w w",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          93.985595703125,
+          314.7556567378342
+        ],
+        [
+          341.44000244140625,
+          314.7556567378342
+        ],
+        [
+          341.44000244140625,
+          345.05564453080297
+        ],
+        [
+          93.985595703125,
+          345.05564453080297
+        ]
+      ]
+    },
+    {
+      "title": "On Gaining Proficiency In Nirvicbira, Purity In The Inner\nInstruments Of Cognition Is Developed (1), 47.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.9000015258789,
+          470.2158312983811
+        ],
+        [
+          536.02294921875,
+          470.2158312983811
+        ],
+        [
+          536.02294921875,
+          509.8045764155686
+        ],
+        [
+          68.9000015258789,
+          509.8045764155686
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          472
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-138"
+}

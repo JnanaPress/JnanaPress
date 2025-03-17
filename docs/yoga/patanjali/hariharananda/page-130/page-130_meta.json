@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "108 YOGA PHfrOSOl'HY OF FATAXJAM",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          65.05000305175781,
+          69.05674316361547
+        ],
+        [
+          433.466796875,
+          69.05674316361547
+        ],
+        [
+          433.466796875,
+          83.04752685502172
+        ],
+        [
+          65.05000305175781,
+          83.04752685502172
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          707
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-130"
+}

@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u092d\u0935\u092a\u094d\u0930\u0924\u094d\u092f\u092f\u094b \u0935\u093f\u0926\u0947\u0939\u092a\u094d\u0930\u0915\u094d\u0937\u0924\u093f\u0932\u092f\u093e\u0928\u093e\u092e\u094d \u0965 \u0967\u096e \u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          95.17002518891688,
+          149.9554764024933
+        ],
+        [
+          337.88330078125,
+          148.45592163846837
+        ],
+        [
+          337.88330078125,
+          164.350341796875
+        ],
+        [
+          95.17002518891688,
+          164.350341796875
+        ]
+      ]
+    },
+    {
+      "title": "While In The Case Of The Videhas Or The Discarnate And\nOf The Prakrtilayas Or Those Subsisting In Their Elemental\nConstituents, It Is Caused By Objective Existence Born Of\nNescience. 19.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          72.68891687657431,
+          363.44140625
+        ],
+        [
+          531.6650390625,
+          361.3926981300089
+        ],
+        [
+          531.6650390625,
+          433.333984375
+        ],
+        [
+          72.68891687657431,
+          433.333984375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          33
+        ],
+        [
+          "Span",
+          33
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-076"
+}

@@ -1,0 +1,107 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          86.722412109375,
+          109.464111328125
+        ],
+        [
+          183.177490234375,
+          109.464111328125
+        ],
+        [
+          183.177490234375,
+          122.825927734375
+        ],
+        [
+          86.722412109375,
+          122.825927734375
+        ]
+      ]
+    },
+    {
+      "title": "Or thcmT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.73333740234375,
+          267.26951171830297
+        ],
+        [
+          129.50399780273438,
+          267.26951171830297
+        ],
+        [
+          129.50399780273438,
+          290.2379565425217
+        ],
+        [
+          50.73333740234375,
+          290.2379565425217
+        ]
+      ]
+    },
+    {
+      "title": "The Engrossment, Id Which There is The Mixture Of Word,\nIts Meaning, i c, The Object And Its Knowledge Is\nKnown As Slvitarka Samapatti 1}, 42.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.0989990234375,
+          296.4624438472092
+        ],
+        [
+          515.3955078125,
+          296.4624438472092
+        ],
+        [
+          515.3955078125,
+          348.78242065384984
+        ],
+        [
+          70.0989990234375,
+          348.78242065384984
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          554
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-125"
+}

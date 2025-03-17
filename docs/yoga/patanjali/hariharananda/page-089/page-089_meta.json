@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON CONCENTRATION G7",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          233.148193359375,
+          74.89493896439672
+        ],
+        [
+          545.3971557617188,
+          74.89493896439672
+        ],
+        [
+          545.3971557617188,
+          89.2158203125
+        ],
+        [
+          233.148193359375,
+          89.2158203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          745
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-089"
+}

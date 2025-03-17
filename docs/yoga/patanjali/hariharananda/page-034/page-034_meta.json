@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHILOSOPHY OF PATANJALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          180.59823677581863,
+          74.97773820124665
+        ],
+        [
+          422.71728515625,
+          74.97773820124665
+        ],
+        [
+          422.71728515625,
+          87.057373046875
+        ],
+        [
+          180.59823677581863,
+          87.057373046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          37
+        ],
+        [
+          "Span",
+          37
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-034"
+}

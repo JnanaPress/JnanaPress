@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PREFACE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          246.221923828125,
+          149.96927978470922
+        ],
+        [
+          337.5927734375,
+          149.96927978470922
+        ],
+        [
+          337.5927734375,
+          168.39188720658422
+        ],
+        [
+          246.221923828125,
+          168.39188720658422
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          852
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-008"
+}

@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHILOSOPHY Of PATASjALT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          186.9399871826172,
+          68.31882812455297
+        ],
+        [
+          429.98046875,
+          68.31882812455297
+        ],
+        [
+          429.98046875,
+          87.057373046875
+        ],
+        [
+          186.9399871826172,
+          87.057373046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          605
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-030"
+}

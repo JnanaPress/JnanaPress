@@ -1,0 +1,107 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON CONCENTRATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          213.5705289672544,
+          84.72484416740872
+        ],
+        [
+          375.9423828125,
+          84.72484416740872
+        ],
+        [
+          375.9423828125,
+          96.5648193359375
+        ],
+        [
+          213.5705289672544,
+          96.5648193359375
+        ]
+      ]
+    },
+    {
+      "title": "\u0924\u093e \u090f\u0935 \u0938\u0935\u094b\u091c: \u0938\u092e\u093e\u0927\u093f: \u0965 \u096a\u096c \u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          93.67128463476071,
+          620.0658949243099
+        ],
+        [
+          287.186279296875,
+          620.0658949243099
+        ],
+        [
+          287.186279296875,
+          634.7890625
+        ],
+        [
+          93.67128463476071,
+          634.7890625
+        ]
+      ]
+    },
+    {
+      "title": "These Are The Only Kinds Of Objective Concentrations. 46.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.94206549118388,
+          712.904296875
+        ],
+        [
+          525.2734375,
+          712.2885129118432
+        ],
+        [
+          525.2734375,
+          726.060546875
+        ],
+        [
+          68.94206549118388,
+          726.5342831700801
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          37
+        ],
+        [
+          "Span",
+          37
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-137"
+}

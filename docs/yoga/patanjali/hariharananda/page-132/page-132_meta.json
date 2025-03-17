@@ -1,0 +1,107 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHILOSOPHY OF PATA\u00d1JALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          189.59068010075566,
+          71.9786286731968
+        ],
+        [
+          433.466796875,
+          71.9786286731968
+        ],
+        [
+          433.466796875,
+          85.207275390625
+        ],
+        [
+          189.59068010075566,
+          85.207275390625
+        ]
+      ]
+    },
+    {
+      "title": "\u090f\u0924\u092f\u0948\u0935 \u0938\u0935\u093f\u091a\u093e\u0930\u093e \u0928\u093f\u0935\u093f\u091a\u093e\u0930\u093e \u091a \u0938\u0942\u091a\u094d\u092f\u0935\u093f\u0937\u092f\u093e \u0935\u094d\u092f\u093e\u0916\u094d\u092f\u093e\u0924\u093e \u0965 \u096a\u096a \u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          97.41813602015114,
+          179.19679430097952
+        ],
+        [
+          478.7890625,
+          180.69634906500445
+        ],
+        [
+          478.7890625,
+          197.857666015625
+        ],
+        [
+          97.41813602015114,
+          197.857666015625
+        ]
+      ]
+    },
+    {
+      "title": "By This (Foregoing) The Savichara And Nirvichara\nEngrossments Whose Objects Are Subtle Are\nAlso Explained. 44.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.41309823677582,
+          413.87711487088154
+        ],
+        [
+          499.41650390625,
+          413.87711487088154
+        ],
+        [
+          499.41650390625,
+          460.3633125556545
+        ],
+        [
+          103.41309823677582,
+          460.3633125556545
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          33
+        ],
+        [
+          "Span",
+          33
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-132"
+}

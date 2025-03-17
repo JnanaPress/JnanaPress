@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON CONCLNTH ATION 39",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          222.83447265625,
+          77.14792968705297
+        ],
+        [
+          541.449951171875,
+          77.14792968705297
+        ],
+        [
+          541.449951171875,
+          92.04331542924047
+        ],
+        [
+          222.83447265625,
+          92.04331542924047
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          706
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-061"
+}

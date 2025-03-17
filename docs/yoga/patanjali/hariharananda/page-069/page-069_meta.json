@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON CONCENTRATION 47",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          225.73974609375,
+          75.33384277299047
+        ],
+        [
+          542.9249877929688,
+          75.33384277299047
+        ],
+        [
+          542.9249877929688,
+          89.318603515625
+        ],
+        [
+          225.73974609375,
+          89.318603515625
+        ]
+      ]
+    },
+    {
+      "title": "When Concentration Is Reached With The Help Of Vitarka*\nVicharA, Ananda Atkd AHmita, It Is Called\nSamprajhatasaittad hi. 17.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          74.08447265625,
+          459.00446655228734
+        ],
+        [
+          543.57666015625,
+          459.00446655228734
+        ],
+        [
+          543.57666015625,
+          512.1861682124436
+        ],
+        [
+          74.08447265625,
+          512.1861682124436
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          450
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-069"
+}

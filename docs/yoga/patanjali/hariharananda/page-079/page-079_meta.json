@@ -1,0 +1,88 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ON CDNCElMTkATlON 57",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          223.89999389648438,
+          72.80118896439672
+        ],
+        [
+          537.7859497070312,
+          72.80118896439672
+        ],
+        [
+          537.7859497070312,
+          86.43796874955297
+        ],
+        [
+          223.89999389648438,
+          86.43796874955297
+        ]
+      ]
+    },
+    {
+      "title": "Others ( Who Follow The Path Of The Prescribed Effort )\nAdopt The Means OF Reverential Faith, Energy, Repeated\nRecollection, Concentration And Real Knowledge ( And\nThus Attain Asamprajnat.i Sam~ddhi ). 20.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          77.05000305175781,
+          98.05442382767797
+        ],
+        [
+          522.3681640625,
+          98.05442382767797
+        ],
+        [
+          522.3681640625,
+          168.45280029252172
+        ],
+        [
+          77.05000305175781,
+          168.45280029252172
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          649
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-079"
+}

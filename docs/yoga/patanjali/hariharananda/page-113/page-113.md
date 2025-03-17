@@ -1,0 +1,9 @@
+## **ON concentration** *St*
+
+CENTRAL LIBRARY
+
+;3TTPTT7li \_\_\_f. \_\_\_ \_ £ **tTJTmt^rwrfrr** *rxnx* **^** *\*xf?\* wfa&<iiwilfo ii *^* it
+
+## **The Development Of Higher Objective Perceptions Catted Vistiyavati (1 <sup>J</sup> Also KringS About Fixity Of Mind. 35+**
+
+Tilt- higher perception of smell which one gets when concentrating on the tip of the nose is the higher *\$*mell-perccption <sup>+</sup> Similarly, concentration on the tip of the tongue gives supersensunus taste, that on the palate snpersensuous colour\* that on the tongue supersensuous touch and that at the root of the tongue supersensuous sound\* The rise of those higher perceptions fixes the mind firmly\* removes doubts anti forms the gateway to knowledge acquirable through concentration <sup>+</sup> Such perceptions of the sun, the moon, the planets, jewels, or lamps, etc\* arc to be regarded as definitely objective\* The Sastras, inference and verbal instructions of preceptors can no doubl produce veridical knowledge of things, yet until by the foregoing method an object is brought within the purview **oT** one's **own** senses such knowledge would remain an indirect- knowledge, and not helpful in producing firm conviction in respect of subtle things like a state of salvation, etc. Thai is why, for the removal of doubts in respect of instructions received from teachers or the Sastras, or by inference, some specific feature of the object must be definitely perceived\* If a part of the knowledge acquired from the Sastras is proved Lo be true by direct perception, then faith is developed for subtle mattery like salvation, and that is why such clarifying training of the mind has been prescribed. In the midst of unsettled modifications of the mind such special knowledge of smell, sound, etc. arising in the abovementioned manner and Vasikara Satijha, i.e complete renunciation arising therefrom, the mind becomes

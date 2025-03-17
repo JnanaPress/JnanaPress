@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TO YOGA PHILOSOPHY OF PATA^JALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.099998474121094,
+          74.30082275345922
+        ],
+        [
+          413.7109375,
+          74.30082275345922
+        ],
+        [
+          413.7109375,
+          91.83475830033422
+        ],
+        [
+          46.099998474121094,
+          91.83475830033422
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          724
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-092"
+}

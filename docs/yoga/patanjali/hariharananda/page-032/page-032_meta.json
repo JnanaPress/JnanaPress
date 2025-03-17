@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "10 voga philosophy of pataSjali",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.0989990234375,
+          75.08585693314672
+        ],
+        [
+          427.0751953125,
+          75.08585693314672
+        ],
+        [
+          427.0751953125,
+          89.83251953125
+        ],
+        [
+          64.0989990234375,
+          89.83251953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          776
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-032"
+}

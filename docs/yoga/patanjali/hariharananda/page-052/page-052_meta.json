@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "30 VOnA PHILOSOPHY Ol' PATAKjAU",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.900001525878906,
+          69.27482177689672
+        ],
+        [
+          427.94677734375,
+          69.27482177689672
+        ],
+        [
+          427.94677734375,
+          87.0059814453125
+        ],
+        [
+          61.900001525878906,
+          87.0059814453125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          730
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-052"
+}

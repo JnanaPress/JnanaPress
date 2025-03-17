@@ -1,0 +1,130 @@
+{
+  "table_of_contents": [
+    {
+      "title": "YOGA PHILOSOPHY OF PATA\u00d1JALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          190.34005037783376,
+          79.47640249332146
+        ],
+        [
+          436.3720703125,
+          79.47640249332146
+        ],
+        [
+          436.3720703125,
+          91.6312255859375
+        ],
+        [
+          190.34005037783376,
+          91.6312255859375
+        ]
+      ]
+    },
+    {
+      "title": "That Practice When Continued Constantly For A Long\nTime Without Break And With Devotion Becomes\nFirm In Foundation. 14.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          98.91687657430731,
+          107.96794300979519
+        ],
+        [
+          528.1787109375,
+          106.46838824577026
+        ],
+        [
+          528.1787109375,
+          151.09130859375
+        ],
+        [
+          99.505615234375,
+          151.09130859375
+        ]
+      ]
+    },
+    {
+      "title": "\u0926\u0943\u0937\u094d\u091f\u093e\u0928\u0941\u0936\u094d\u092f\u0935\u093f\u0915\u0935\u093f\u0937\u092f\u0935\u093f\u0926\u094d\u092f\u093e\u0938\u094d\u092f \u0935\u0936\u0940\u0915\u093e\u0930\u0938\u0902\u0916\u094d\u092f\u093e \u0935\u0947\u0930\u093e\u0917\u094d\u092f\u092e \u0965 \u0967\u096b \u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          105.66120906801008,
+          483.60641139804096
+        ],
+        [
+          468.330078125,
+          483.60641139804096
+        ],
+        [
+          468.330078125,
+          501.58203125
+        ],
+        [
+          105.66120906801008,
+          501.58203125
+        ]
+      ]
+    },
+    {
+      "title": "When The Mind Loses All Passion For Objects Seen Or\nDescribed In Sacred Tradition It Acquires A State\nOf Utter Desirelessness Which Is Called Detachment, 15.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          80.911865234375,
+          607.319679430098
+        ],
+        [
+          545.6103515625,
+          607.319679430098
+        ],
+        [
+          545.6103515625,
+          654.1123046875
+        ],
+        [
+          80.911865234375,
+          654.1123046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-064"
+}

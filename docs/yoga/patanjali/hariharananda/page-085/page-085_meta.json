@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "OK CONUliXTRA'I'ION 63",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          224.89999389648438,
+          77.67789794877172
+        ],
+        [
+          547.0,
+          77.67789794877172
+        ],
+        [
+          547.0,
+          92.99326660111547
+        ],
+        [
+          224.89999389648438,
+          92.99326660111547
+        ]
+      ]
+    },
+    {
+      "title": "From Special Devotion To Isvara Also Concentration\nBecome* Imminent. 23.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          74.229736328125,
+          430.9221301265061
+        ],
+        [
+          529.3408203125,
+          430.9221301265061
+        ],
+        [
+          529.3408203125,
+          465.8354907222092
+        ],
+        [
+          74.229736328125,
+          465.8354907222092
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          548
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-085"
+}

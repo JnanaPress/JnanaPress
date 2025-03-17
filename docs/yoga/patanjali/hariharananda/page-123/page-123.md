@@ -1,0 +1,16 @@
+## ON CONCENTRATION
+
+relating to the instruments of cognition and relating to objects cognised. There is also difference due to the nature of the engrossment. Yogins however take the two together to avoid multiplicity and divide them into Savitarka, Nirvitarka, Savichara and Nirvichara. Their difference is shown in the chart given below :-
+
+| Nature of engrossment                                                                                                                                          | Nature of the object                                                | Name of engrossment or<br>Samapatti                                                                                         |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| (1) Mixed up with word,<br>thing, cognition, &c.                                                                                                               | Gross (objects and<br>instruments of cogni-<br>tion)                | Savitarka (concentrating on<br>gross subjects with the help<br>of words)                                                    |
+| DIVERO.<br>(2)                                                                                                                                                 | Subtle (objects, ins-<br>truments of cognition<br>and the cogniser) | Savichara (concentration on<br>subtle subjects with the<br>help of words)                                                   |
+| (3) When the mind be-<br>comes clear and free<br>from words and forgets<br>its own self as it were,<br>the object only is<br>present in the mind by<br>itselli | Gross (objects and<br>instruments of cogni-<br>tion)                | Nirvitarka (concentration<br>on gross subjects without<br>the help of words)                                                |
+| DISTRICO.<br>Carlon                                                                                                                                            | Subtle (objects, ins-<br>truments of cognition<br>and the cogniser) | Nirvichara (concentration<br>on subtle subjects without<br>the help of words and on<br>bliss, and on (pure 'I-<br>feeling") |
+
+Vitarka and Vichara and matters relating thereto have been dealt with before. Now Nirvitarka will be dealt with. All sorts of Dhyana, i.e. meditation which can be done by a mind which has not been closed entirely will fall within one or the other of the engrossments mentioned in the table above, because there is nothing other than an object, instrument of cognition and the cognition that can be contemplated.
+
+(3) Samapatti, i.e. the habituated state of engrossment of mind on the subject contemplated upon through force of practice, has been fully explained by the maker of the Sutra as well as by the commentator. The latter has given examples
+
+101

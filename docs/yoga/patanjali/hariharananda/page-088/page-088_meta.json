@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "66 YOGA PHILOSOPHY OJr PATAAhI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.95000076293945,
+          65.10489990189672
+        ],
+        [
+          419.23095703125,
+          65.10489990189672
+        ],
+        [
+          419.23095703125,
+          84.62217285111547
+        ],
+        [
+          54.95000076293945,
+          84.62217285111547
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          633
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-088"
+}

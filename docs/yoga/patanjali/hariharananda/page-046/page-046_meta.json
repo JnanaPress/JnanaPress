@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "24 YOGA PHtLOSOPI IY OF PATAJnTJALI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          66.0,
+          74.66355468705297
+        ],
+        [
+          429.98046875,
+          74.66355468705297
+        ],
+        [
+          429.98046875,
+          89.01025390625
+        ],
+        [
+          66.0,
+          89.01025390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          639
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-046"
+}

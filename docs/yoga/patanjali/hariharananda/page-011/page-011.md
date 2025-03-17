@@ -1,0 +1,13 @@
+■ip, 'iumiiii relationship Lit be sweetened. *-j.* bettei society will come into K'lnn- and thus <sup>u</sup> biller world.
+
+I shall now explain the arrangement followed in the prVW('Utii>» of the subject. The aphorisms, or Sutras as they are called in Sanskrit, have been given first in original Sanskrit with Vyisa's introductory remarks whenever they occur. Then have been given Vyasa's comments on the Sutras in original Sanskrit, (These Sanskrit texts can be skipped over by one who does not read Sanskrit, without interfering with the study of the subject, hut these will he found highly illuminating hy one who reads Sanskrit } Ihe J.nglish rendering of the Sutra has been given in capital letters with numerical markings, followed hy the English rendering of Vyfisi's commentary. The matters, in respect of which annotations have been given by Avhiirya SwAmiji, have been denoted hy numerals within brackets after them. These annotations have been given in smaller type preceded by these numerals within brackets.
+
+**ITie** reader will find mans Sanskrit words retained in the English rendering. A glossary of such words has been given as an Appendix. **Jl** has **been** found necessary to retain the use of such words because equivalents to denote **the** exact significance or import of the Sanskrit words arc not available in Knglish. Wherever possible, the <sup>E</sup> nglish sense of the word has been given almost immediately in the text or as near to it as posssible. In giving the Sanskrit words, they have been transliterated **according** to the scheme adopted by the\*International Congress of Orientalists. The diacritical marks used with Ihcir phonetic equi^ valents are given **in the Appendix.**
+
+<sup>T</sup> have to offer an apology. Though il was my earnest desire to see It through the press myself but for unforeseen circumstances over which <sup>I</sup> had no control, <sup>I</sup> wj?> prevented from doing il. so <sup>I</sup> crave the indulgence of ihe reader for any mistakes that may hast escaped correel inn,
+
+In conclusion. I wish to place on record my grateful appreciation of the valuable assistance rendered to me hy my eo-disciplcs of the Kapil a Monastery at Kurscong and the co-operation extended by the monks of the KApilu Monastery at Madhupur. as well as my deep debt of gratitude to my most revered spiritual ■guide Srimat Swami Dharmamegha Aranva for the cliglucnmenl given me and for looking over and correcting this hook in manuscript which made my task both a pleasure and a privilege.
+
+**P, N, MtlKFRJl**
+
+Kapila-Matlij. Madhupur, Bihar, India.
