@@ -1,18 +1,18 @@
-*samantāt*, from all sides; *jvaladbhih*, with flaming; *vadanaih*, mouths; which are *āpūrya*, completely filling; *samagram*, the whole—together (*saha*) with the foremost (*agrena*); *jagat*, world; *tejobhih*, with heat. Moreover, O Visnu, the all-pervading One, *tava*, Your; *ugrāh*, fierce; *bhāsah*, rays; are *pratapanti*, scorching.
+_samantāt_, from all sides; _jvaladbhih_, with flaming; _vadanaih_, mouths; which are _āpūrya_, completely filling; _samagram_, the whole—together (_saha_) with the foremost (_agrena_); _jagat_, world; _tejobhih_, with heat. Moreover, O Visnu, the all-pervading One, _tava_, Your; _ugrāh_, fierce; _bhāsah_, rays; are _pratapanti_, scorching.
 
 Since You are of such a terrible nature, therefore—
 
-| आयािह<br>मे<br>को भवानुपो            |
-|--------------------------------------|
-| ते<br>देववर<br>नमोऽतु<br>सीद।        |
-| भवतमां<br>िवातुिमछािम                |
-| न<br>िह<br>जानािम<br>तव<br>वृिम्॥३१॥ |
+| आयािह<br/>मे<br/>को भवानुपो              |
+| ---------------------------------------- |
+| ते<br/>देववर<br/>नमोऽतु<br/>सीद।         |
+| भवतमां<br/>िवातुिमछािम                   |
+| न<br/>िह<br/>जानािम<br/>तव<br/>वृिम्॥३१॥ |
 
 31. Tell me who You are, fierce in form. Salutation be to you, O supreme Bhagavān; be gracious. I desire to fully know You who are the Primal One. For I do not understand Your actions!
 
-*Ākhyāhi*, tell; *me*, me; *kah*, who; *bhavān*, You are; *ugrarūpah*, fierce in form. *Namah*, salutation; *astu*, be; *te*, to You; *deva-vara*, O supreme Bhagavān, foremost among the gods. *Prasīda*, be gracious. *Icchāmi*, I desire; *vijñātum*, to fully know; *bhavantam*, You; *ādyam*, who are the Primal One, who exist in the beginning. *Hi*, for; *na prajānāmi*, I do not understand; *tava*, Your; *pravrttim*, actions!
+_Ākhyāhi_, tell; _me_, me; _kah_, who; _bhavān_, You are; _ugrarūpah_, fierce in form. _Namah_, salutation; _astu_, be; _te_, to You; _deva-vara_, O supreme Bhagavān, foremost among the gods. _Prasīda_, be gracious. _Icchāmi_, I desire; _vijñātum_, to fully know; _bhavantam_, You; _ādyam_, who are the Primal One, who exist in the beginning. _Hi_, for; _na prajānāmi_, I do not understand; _tava_, Your; _pravrttim_, actions!
 
-*Shri Hari said:*
+_Shri Hari said:_
 
 कालोऽिम लोकयकृ वृो लोकासमाहतु िमह वृ :। ऋते ऽिप वा न भिवयित सव ये ऽविथता: यनीके षु योधा:॥३२॥
 
