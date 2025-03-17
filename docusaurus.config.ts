@@ -40,7 +40,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/JnanaPress/JnanaPress/tree/main/docs/',
+            'https://github.com/JnanaPress/JnanaPress/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -51,7 +51,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/JnanaPress/JnanaPress/tree/main/blog/',
+            'https://github.com/JnanaPress/JnanaPress/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -68,7 +68,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Jnana Press',
+      title: 'JnanaPress',
       // logo: {
       //   alt: 'My Site Logo',
       //   src: 'img/logo.svg',
@@ -120,10 +120,10 @@ const config: Config = {
         {
           title: 'More',
           items: [
-            {
-              label: 'Sponsored by opsZero',
-              href: 'https://opszero.com',
-            },
+            // {
+            //   label: 'Sponsored by opsZero',
+            //   href: 'https://opszero.com',
+            // },
             {
               label: 'GitHub',
               href: 'https://github.com/JnanaPress/JnanaPress',
@@ -131,7 +131,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Abhi Yerra.`,
+      copyright: `Copyright © ${new Date().getFullYear()} <a href="https://opszero.com">opsZero, LLC.</a>`,
     },
     prism: {
       theme: prismThemes.github,
