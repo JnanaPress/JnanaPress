@@ -1,0 +1,9 @@
+## अयतिनधनायेव त का पिरदेवना॥२८॥
+
+28. O descendant of Bharata, all beings remain unmanifest in the beginning; they become manifest in the middle. After death they certainly become unmanifest. What lamentation can there be with regard to them?
+
+It is not reasonable to grieve even for beings which are constituted by bodies and organs, since 'all beings remain unmanifest' etc. (*Bhārata*, O descendant of Bharata;) *bhūtāni*, all beings, *avyaktādīni*, remain unmanifest in the beginning. Those beings, namely sons, friends, and others, constituted by bodies and organs, [\(59\)](#page--1-0) who before their origination have unmanifestedness (*avyakta*), invisibility, non-perception, as their beginning (*ādi*) are *avyakta-ādīni*. *Ca*, and; after origination, before death, they become *vyakta-madhyāni*, manifest in the middle. Again, they *eva*, certainly; become *avyakta-nidhanāni*, unmanifest after death. Those which have unmanifestness (*avyakta*), invisibility, as their death (*nidhana*) are *avyakta-nidhanāni*. The idea is that even after death they verily attain unmanifestedness. Accordingly has it been said: 'They emerged from invisibility, and have gone back to invisibility. They are not yours, nor are you theirs. What is this fruitless lamentation!' (Mbh. St. 2.13). *Kā*, what; *paridevanā*, lamentation, or what prattle, can there be; *tatra*, with regard to them, that is, with regard to beings which are objects of delusion, which are invisible, (become) visible, (and then) get destroyed!
+
+> आयवपयित किदेन-मायवदित तथैव चाय:। आयवचैनमय: शृणोित ु वायेनं वेद न चैव कित्॥२९॥
+
+29. Someone visualizes It as a wonder; and similarly indeed, someone else talks of It as a wonder; and someone else hears of It as a wonder. And someone else, indeed, does not realize It even after hearing about It.

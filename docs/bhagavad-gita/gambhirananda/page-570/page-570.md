@@ -1,0 +1,11 @@
+because, when it (Knowledge) arises it dispels the idea of differences which is the cause of engagement in action.
+
+The word 'however' above is used for ruling out the other two alternatives. This refutes the two other alternative views by showing that the highest good cannot be attained through mere actions, nor by a combination of Knowledge and action. Besides, since Liberation is not a product, therefore it is illogical that it should have action as its means. Indeed, an eternal entity cannot be produced by either action or Knowledge.
+
+*Objection*: In that case, even exclusive Knowledge is purposeless.
+
+*Vedāntin*: No, since Knowledge, being the destroyer of ignorance, culminates in Liberation which is a directly experienced result. The fact that Knowledge, which removes the darkness of ignorance, culminates in Liberation as its result is directly perceived in the same way as is the result of the light of a lamp which removes ignorance in the form of snake etc. and darkness from objects such as rope etc. Indeed, the result of light amounts to the mere (awareness of the) rope, free from the wrong notions of snake etc. So is the case with Knowledge.
+
+As in the case of the acts like 'cutting down', 'producing fire by friction' etc., in which accessories such as the agent and others operate, and which have perceivable results, there is no possibility of (the agent etc.) engaging in any other activity giving some other result apart from 'splitting into two', 'seeing (or lighting of) fire' etc, similarly, in the case of the agent and the other factors engaged in the 'act' of steadfastness in Knowledge which has a tangible result, there is no possibility of (their) engagement in any other action which has a result different from that in the form of the sole existence of the Self. Hence, steadfastness in Knowledge combined with action is not logical.
+
+*Objection*: May it not be argued that this is possible like the acts of eating and Agnihotra sacrifice etc.? [\(253\)](#page--1-0)

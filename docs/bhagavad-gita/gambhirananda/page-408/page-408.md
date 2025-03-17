@@ -1,0 +1,11 @@
+thinking of the evil in death; so also, seeing in old age the evil in the form of deprivation of intelligence, strength and vigour, and becoming an object of contempt. In the same way, thinking of the evil in diseases like headache etc.; so also with regard to miseries arising from causes physical, natural and supernatural.
+
+Or, *duhkha-dosa* may mean the miseries themselves which are evil. Seeing, as before, that (evil in the form of miseries) in birth etc. —birth is miserable, death is miserable, old age is miserable, diseases are miserable. Birth etc. are miserable because they cause misery; not that they are miseries in themselves. [\(95\)](#page--1-0) Thus, when one thinks of the evil in the form of miseries in birth etc. dispassion arises with regard to the pleasures in the body, organs and objects. From that follows the tendency of the organs towards the indwelling Self for the realization of the Self. The seeing of the evil in the form of misery in birth etc. is called Knowledge because it thus becomes a cause of the rise of Knowledge.
+
+Moreover,
+
+## असितरनिभव: पुदारगृहािदषु। िनयं च समिचविमािनोपपिषु॥९॥
+
+9. Non-attachment and absence of fondness with regard to sons, wives, homes, etc., and constant equanimity of the mind with regard to the attainment of the desirable and the undesirable;
+
+*Asaktih*, non-attachment—attachment means merely the liking for things arising from association; the absence of that is *asaktih*; and *anabhisvangah*, absence of fondness—*abhisvangah* is in fact a special kind of attachment consisting of the idea of self-identification; as for instance, thinking 'I myself am happy,' or, 'I am sorrowful,' when somebody else is happy or unhappy, and thinking 'I live', or, 'I shall die,' when somebody else lives or dies—With regard to what? In answer the Bhagavān says: *putra-dāra-grhādisu*, with regard to sons, wives, homes, etc. From the use of 'etc.' (it is understood that this fondness is) even with regard to others who are liked very much —retinue of servants and so on. And since both these (absence of

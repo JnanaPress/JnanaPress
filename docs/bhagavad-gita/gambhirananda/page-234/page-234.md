@@ -1,0 +1,11 @@
+it were; *ca*, and; *anavalokayan*, not looking; *diśah*, around, that is not glancing now and then in various directions—. The words 'as it were' are to be understood because what is intended here is not an injunction for looking at the tip of one's own nose! What then? It is the fixing the gaze of the eyes by withdrawing it from external objects; and that is enjoined with a view to concentrating the mind. [\(77\)](#page--1-0) If the intention were merely the looking at the tip of the nose, then the mind would remain fixed there itself, not on the Self! In, 'Making the mind fixed in the Self' (25), the Bhagavān will speak of concentrating the mind verily on the Self. Therefore, owing to the missing word *iva* (as it were), it is merely the withdrawal of the gaze that is implied by *sampreksya* (looking).
+
+Further, *praśāntātmā*, with a placid mind, with a mind completely at peace; *vigata-bhīh*, free from fear *sthitah*, firm; *brahmacāri-vrate*, in the vow of a celibate, the vow consisting in service of the teacher, eating food got by begging, etc.—firm in that, that is he should follow these; besides, *mat-cittah*, with the mind fixed on Me who am the supreme Bhagavān; *samyamya*, by controlling; *manah*, the mind, that is by stopping the modifications of the mind; *yuktah*, through concentration, that is by becoming concentrated; *āsīta*, he should remain seated; *matparah*, with Me as the supreme Goal. Some passionate person may have his mind on a woman, but he does not accept the woman as his supreme Goal. What then? He accepts the king or Śiva as his goal. But this one (the yogī) not only has his mind on Me but has Me as his Goal.
+
+After that, now is being stated the result of Yog:
+
+## युेवं सदामानं योगी िनयतमानस:। शाितं िनवणपरम मसंथामिधगछित॥१५॥
+
+15. Concentrating the mind thus for ever, the yogī of controlled mind achieves the Peace which culminates in Liberation and which abides in Me.
+
+*Yuñjan*, concentrating; *ātmānam*, the mind; *evam*, thus, according to the methods shown above; *sadā*, for ever; the yogī,

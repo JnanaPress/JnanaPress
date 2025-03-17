@@ -1,0 +1,9 @@
+## *CHAPTER 3*
+
+## *KARMA-YOG*
+
+## कमयोगः
+
+Two kinds of Convictions, namely the Conviction concerning Reality, and the Conviction concerning Yog, associated with detachment from and engagement in action (respectively), which are dealt with in this Scripture (*Gītā*), have been indicated by the Bhagavān. As to that, beginning with 'When one fully renounces all the desires' (2.55) and ending with the close of the Chapter, the Bhagavān, having stated that *sannyāsa*, monasticism, has to be resorted to by those who are devoted to the Conviction about the Reality (Sānkhya*buddhi*), has also added in the verse, 'this is the state of being established in Brahman' (2.72), that their fulfilment comes from devotion to that alone. Besides, in the verse, 'Your right is for action alone. … May you not have any inclination for inaction' (2.47), the Bhagavān said to Arjuna that duty had to be undertaken with the aid of the Conviction about Yog (Yog-*buddhi*). [\(1\)](#page--1-0) But he did not say that Liberation is attained through that alone.
+
+Noticing this, such as it was, Arjuna got his mind puzzled and said (to himself): 'Having first made me, who am His devotee seeking Liberation, hear about steadfastness in the Conviction about Reality, which is the direct cause of Liberation, why should He urge me to action which is seen to bristle with many evils, and from which, even through an indirect process, the result, namely Liberation, is unpredictable?' Thus, Arjuna's becoming perplexed is reasonable. And the question, 'If it be Your opinion that Wisdom is superior to action…' etc., is consistent with that. The statement answering the

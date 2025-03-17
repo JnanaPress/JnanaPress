@@ -1,0 +1,1 @@
+their intellect, and who have attained to the realization of Truth arising from one's being endowed with such disciplines as hearing and thinking (*śravana, manana*) of, and meditation (*nididhyāsana*) on Brahman.

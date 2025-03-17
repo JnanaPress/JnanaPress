@@ -1,0 +1,14 @@
+- [[10](#page--1-0)] Although Nārada and the other sages are already mentioned by the words 'all the sages', still they are named separately because of their eminence. Asita is the father of Devala.
+- [[11](#page--1-1)] *Prabhavam* in the Commentary is the same as *prabhāvam*, glory, the unqualified State.
+- [[12](#page--1-2)] Here *Yog* stands for the results of Yog, viz. omniscience, omnipotence, etc.; one possessed of these is a yogī. (See Comm. on 10.7)
+- [[13](#page--1-3)] In addition to what has been said in the seventh and ninth chapters.
+- [[14](#page--1-4)] The verbal root *ard* has got a second meaning, 'to pray'.
+- [[15](#page--1-5)] See also under 1.24.—Tr.
+- [[16](#page--1-6)] *Āśaya*—that in which are contained the impressions of meditations (*upāsanās*), actions and past experiences.
+- [[17](#page--1-7)]viz. Dhātā, Mitra, Aryamā, Rudra, Varuna, Sūrya, Bhaga, Vivasvān, Pūsā, Savitā, Tvasṭā and Visnu.—Tr.
+- [[18](#page--1-8)] The seven groups of Maruts are Āvaha, Pravaha, Vivaha, Parāvaha, Udvaha, Saṁvaha and Parivaha.—Tr.
+- [[19](#page--1-9)] It is the medium for the manifestation of Consciousness.
+- [[20](#page--1-10)] Aja, Ekapāda, Ahirbudhnya, Pinākī, Aparājita, Tryambaka, Maheśvara, Vrsākapi, Śambhu, Harana and Iśvara. Different Purānas give different lists of eleven names.—Tr.
+- [[21](#page--1-11)] Bhagavān of wealth. Yaksas are a class of demigods who attend on him and guard his wealth.
+- [[22](#page--1-12)] According to the V.P. they are: Āpa, Dhruva, Soma, Dharma, Anila, Anala (Fire), Pratyūsa and Prabhāsa. The Mbh. and the Bh. given a different list.—Tr.
+- [[23](#page--1-13)] *Om* is the best because it is the name as well as the symbol of Brahman.

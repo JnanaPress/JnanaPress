@@ -1,0 +1,11 @@
+the distinction between and the characteristics of the field and the Knower of the field according to the scriptures, and having separated, like a stalk from the Muñjagrass, the above-described Knower of the field from the field whose characteristics have been shown earlier, he who realizes the Knowable (that is the Knower of the field)—which, in accordance with 'That is neither called being nor non-being' (12), is devoid of all distinctions created by adjuncts—as identical with Brahman; and he who has the firm realization that the field is surely unreal like an elephant created by magic, a thing seen in a dream, an imaginary city seen in the sky, etc., and it appears as though real—for him false knowledge becomes eradicated, since it is opposed to the right knowledge described above.
+
+Since the cause of his rebirth has been eliminated, therefore what was said in, 'He who knows thus the Person and Nature along with the qualities…', that the man of realization is not born again (23), has been a reasonable statement.
+
+In 'He … will not be born again' (23) has been stated the result of right knowledge, which is the absence of birth owing to the destruction of ignorance etc., the seeds of worldly existence. The cause of birth, viz. the association of the field and the Knower of the field brought about by ignorance, has also been stated. Hence, although right knowledge, which is the remover of that ignorance, has been spoken of, still it is being stated over again in other words:
+
+## समं सवषु भूतेषु िततं परमेरम्। िवनयविवनयतं य: पयित स पयित॥२७॥
+
+27. He sees who sees the supreme Bhagavān as existing equally in all beings, and as the Imperishable among the perishable.
+
+*Sah*, he; *paśyati*, sees; *yah*, who; *paśyati*, sees;—whom? *parameśwaram*, the supreme Bhagavān—the Bhagavān who is supreme as compared with the body, organs, mind, intellect, the Unmanifest and the individual Ātman; as *tisṭhantam*, existing, having His presence; *samam*, equally, without distinction;— where? *sarvesu*, in all; *bhūtesu*, beings, all living things from Brahmā to the

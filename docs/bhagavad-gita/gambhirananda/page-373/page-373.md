@@ -1,0 +1,11 @@
+Ye *bhaktāh*, those devotees who, seeking no other refuge; *evam*, thus; *satata-yuktāh*, being ever-devoted, that is, remaining unceasingly engaged in the works of the Bhagavān, etc., intent on the aforesaid purpose; *paryupāsate*, meditate; *tvām*, on You, in the Cosmic form as revealed earlier; *ye ca api*, and those others, again, who have renounced all desires, who have given up all actions; who meditate on Brahman as described (below), *aksaram*, on the Immutable; *avyaktam*, on the Unmanifested, which is so on account of being bereft of all limiting adjuncts, (and) which is beyond the comprehension of the organs—in the world, whatever comes within the range of the organs is said to be manifest, for the root *añj* conveys that sense; but this Immutable is the opposite of that and is endowed with qualifications that are spoken of by the great ones; those again, who meditate on that—; *tesām*, of them, among the two (groups); *ke*, who; are the *Yog-vit-tamāh*, best experiencers of Yog, that is, who are those that are surpassingly versed in Yog?
+
+But leave alone those who meditate on the Immutable, who are fully enlightened and are free from desires. Whatever has to be said with regard to them, we shall say later on. As for those others—
+
+*Shri Hari said:*
+
+## मयावेय मनो ये म िनययुता उपासते। या परयोपेताते मे युततमा मता:॥२॥
+
+2. Those who meditate on Me by fixing their minds on Me with steadfast devotion (and) being endowed with supreme faith—they are considered to be the most perfect yogīs according to Me.
+
+*Ye*, those who, being devotees; *upāsate*, meditate; *mām*, on Me, the supreme Bhagavān of all the masters of Yog, the Omniscient One whose vision is free from purblindness caused by such defects as attachment etc.; *āveśya*, by fixing, concentrating; their *manah*, minds; *mayi*, on Me, on Bhagavān in His Cosmic form; *nitya-yuktāh*, with steadfast devotion, by being ever-dedicated in accordance with the idea expressed in the last verse of the preceding chapter; and being *upetāh*, endowed; *parayā*, with supreme; *śraddhayā* faith;—*te*,

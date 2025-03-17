@@ -1,0 +1,11 @@
+O Arjuna, *aham*, I, however; *veda*, know; *samatītāni*, the past beings; and *vartamānāni*, the present. I know *ca*, also; *bhavisyāni*, the future; *bhūtāni*, beings. *Tu*, but; *na kaścana*, no one; *veda*, knows; *mām*, Me. Except the one person who is My devotee and has taken refuge in Me, no one adores Me, just because he does not know My reality.
+
+'What, again, is the obstruction to knowing Your reality, being prevented by which the creatures that are born do not know You?' In anticipation of such a question, the Bhagavān says this:
+
+## इछाेषसमु थेन मोहेन भारत। सवभूतािन संमोहं सग याित परतप॥२७॥
+
+27. O scion of the Bharata dynasty, O destroyer of foes, due to the delusion of duality arising from likes and dislikes, all creatures become bewildered at the time of their birth.
+
+*Icchā-dvesa-samutthena*, by what arises from likes and dislikes: *icchā*, likes, and *dvesa*, dislikes, are *icchā-dvesau*; anything arising from them is *icchā-dvesa-samutthah*. (Creatures are deluded) by that. By what? When that is thus sought to be known in particular, the Bhagavān answers: *dvandva-mohena*, by the delusion of duality. Delusion (*moha*) that originates from duality (*dvandva*) is *dvandvamoha*. Those very likes and dislikes, which are mutually opposed like heat and cold, which relate to happiness and sorrow and their causes, and which come into association with all beings in due course, are termed as duality (and this deludes all creatures).
+
+As regards them, when likes and dislikes arise from the experience of happiness, sorrow and their causes, then, by bringing the wisdom of all beings under their control, they create bewilderment which is the cause of the impediment to the rise of knowledge about the reality of Self, the supreme Truth. Indeed, exact knowledge about objects even in the external world does not arise in one whose mind is overpowered by the defects, namely likes and dislikes. It goes without saying that knowledge of the indwelling Self, beset with many obstacles as it is, does not arise in a

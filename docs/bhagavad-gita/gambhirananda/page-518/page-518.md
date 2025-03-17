@@ -1,0 +1,11 @@
+## कतयानीित मे पाथ िनितं मतमु मम्॥६॥
+
+6. But even these actions have to be undertaken by renouncing attachment and (hankering for) results. This is My firm and best conclusion, O Pārhta.
+
+*Tu*, but; *api*, even; *etāni*, these; *karmāni*, actions, viz. sacrifice, charity and austerity, which have been spoken of as purifiers; *kartavyāni*, have to be undertaken; *tyaktvā*, by renouncing; *sangam*, attachment to them; and by giving up (hankering for) their *phalāni*, results. *Iti*, this; is *me*, My; *niścitam*, firm; and *uttamam*, best; *matam*, conclusion.
+
+Having promised, 'hear from Me the firm conclusion regarding that (*tyāga*)' (4) and also adduced the reason that they are purifiers, the utterance, 'Even these actions have to be performed. This is the firm and best conclusion', is only by way of concluding the promised subject-matter; this sentence does not introduce a fresh topic. For it stands to reason that the phrase 'even these' refers to some immediate topic under discussion. The implication of the word *api* (even) is: 'Even these acts, which are causes of bondage to one who has attachment and who hankers after their results, have to be undertaken by a seeker of Liberation.' But the phrase 'even these' is not used in relation to other acts.
+
+Others explain (thus): Since the *nityakarmas* have no results, therefore (in their case) it is illogical to say, 'by giving up attachment and (hankering for their) results'. The meaning of the phrase *etāni api* (even these) is that, 'even these rites and duties, which are undertaken for desired results and are different from the *nityakarmas*, have to be undertaken. What to speak of the *nityakarmas* like sacrifice, charity and austerity!'
+
+(*Reply*:) This is wrong, since it has been established by the text, 'sacrifice, charity and austerity are verily the purifiers,' that even the *nityakarmas* have results. For a seeker of Liberation who wants to give up even the *nityakarmas* from fear of their being causes of bondage, how can there be any association with actions done for

@@ -1,0 +1,11 @@
+is of the form of being established in the state of immediate Liberation. Accordingly has it been said, '...having given up all actions mentally, ... without doing or causing (others) to do anything at all' (5.13).
+
+The stages through which one who has attained success—which has the aforesaid characteristics and which arises from the performance of one's own duties mentioned earlier as worship of Bhagavān—, and in whom has arisen discriminative knowledge, achieves perfection—in the form of exclusive adherence to Knowledge of the Self and consisting in the state of one free from duties—have to be stated. With this in view the Bhagavān says:
+
+## िसिं ातो यथा तथाोित िनबोध मे। समासेनवै कौतेय िना ानय या परा॥५०॥
+
+50. Understand for certain from Me, in brief indeed, O son of Kuntī, that process by which one who has achieved success attains Brahman, which is the supreme consummation of Knowledge.
+
+*Nibodha*, understand for certain; *me*, from Me, from My utterance —. Is it elaborately? The Bhagavān says, no, *samāsena*, in brief; *eva*, indeed, O son of Kuntī, how *siddhim prāptah*, one who has achieved success, one who, by worshipping Bhagavān through one's duties, has achieved success in the form of *fitness* of the body and organs for steadfastness in Knowledge, which comes from His grace; (—the reiteration of the phrase *siddhim prāptah* is meant for introducing what follows; what is that succeeding subject for which this reiteration stands is being answered:) *yathā tathā*, that process by which, that process in the form of steadfastness in Knowledge, by which that process of acquiring steadfastness in Knowledge by which; *āpnoti*, attains; *brahma*, Brahman, the supreme Self—.
+
+In order to point out—as 'It is this'—the realization of Brahman which was promised in, 'that process by which one … attains Brahman,' the Bhagavān says; *yā*, which; is the *parā*, supreme; *nisṭhā*, consummation, that is the supreme culmination; *jñānasya*, of Knowledge. Of what? Of the knowledge of Brahman. Of what kind is

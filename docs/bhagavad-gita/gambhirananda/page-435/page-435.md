@@ -1,0 +1,11 @@
+teachers, one realizes as a matter of one's own direct experience that 'All this is but the Self' (Ch. 7.25.2); that *bhuta-prthak-bhāvam*, the state of diversity of living things; is *ekastham*, rooted in the One, existing in the one Self; and their *vistāram*, manifestation, origination; *tatah, eva*, is also from That—when he realizes that origination in such diverse ways as, 'the vital force is from the Self, hope is from the Self, memory [\(127\)](#page--1-0) is from the Self, space is from the Self, fire is from the Self, water is from the Self, coming into being and withdrawal are owing to the Self, food is from the Self' (op. cit. 7.26.1); *tadā*, then, at that time; *brahma sampadyate*, one becomes identified with Brahman Itself. This is the import.
+
+If the same Self be the Self in all the bodies, then there arises the possibility of Its association with their defects. Hence this is said:
+
+## अनािदवािगु णवापरमामायमयय:। शरीरथोऽिप कौतेय न करोित न िलयते॥३१॥
+
+31. Being without beginning and without qualities, O son of Kuntī, this immutable, supreme Self does not act, nor is It affected [\(128\)](#page--1-1), although existing in the body.
+
+*Anāditvāt*, being without beginning: *Adih* means cause; that which has no cause is *anādih*. That which has a cause undergoes loss of its own characteristics. But this One, being causeless, has no parts. This being so, It does not suffer loss.
+
+So also, *nirgunatvāt*, being without qualities: Indeed, It is only something possessing qualities that perishes owing to the loss of its qualities. But this One, being without qualities, does not perish. Hence, *ayam*, this; *paramātmā*, supreme Self; is *avyayah*, immutable. It suffers no depletion. Therefore It is immutable. Since this is so, therefore, *api*, although; *śarīra-sthah*, existing in the body —since the perception of the Self occurs in the bodies, It is said to be 'existing in the body'; even then, It *na*, does not; *karoti*, act. From the very fact that It does not act, It *na*, is not; *lipyate*, affected by the result of any action. For, one who is an agent of action becomes

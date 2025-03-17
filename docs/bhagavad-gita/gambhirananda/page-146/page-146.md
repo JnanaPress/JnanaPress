@@ -1,0 +1,10 @@
+- [[12](#page--1-0)] The scriptures proceed by accepting the powers of objects as they are known, and not by imparting to them powers they (the objects) do not have. In this sense the Vedas are informative, and not creative.
+- [[13](#page--1-1)] Here, Asṭ. adds '*upālambho vā*, accusation, or'.—Tr.
+- [[14](#page--1-2)] Asṭ. adds '*vivekatah*, by making a distinction (between the pursuit of Knowledge and of action)'.—Tr.
+- [[15](#page--1-3)] The path combining Wisdom and action.
+- [[16](#page--1-4)] Since what is intended is a combination, therefore, the separation of Knowledge from action, from the point of view of the result, is not justifiable. When Knowledge and action are considered to form together a single means to Liberation, in that case each of them cannot be considered separately as producing its own distinct result. Arjuna's question can be justified only if this separation were possible.
+- [[17](#page--1-5)] If the opponent's view be that Knowledge is to be combined with rites and duties sanctioned by the Vedas and the Smrtis in the case of the householders only, whereas for others those sanctioned by the Smrtis alone are to be combined with Knowledge ..., then ...
+- [[18](#page--1-6)] In some readings, '*tvam tu*, however, you', is substituted by '*tatra*, as to that'.—Tr.
+- [[19](#page--1-7)] This word of address suggests that Arjuna is qualified to receive the Bhagavān's instructions.
+- [[20](#page--1-8)] Here *Jñāna*, Knowledge, refers to the knowledge of the supreme Reality, and Yog is used in the derivative sense of 'that (Knowledge) through which one gets united with Brahman'.
+- [[21](#page--1-9)] Yog here means 'that through which one gets united with, comes to have, prosperity', that is such actions as go by the name of righteousness and are prescribed by the scriptures.

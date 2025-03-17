@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Shri Hari said:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          76.6494140625,
+          465.22265625
+        ],
+        [
+          203.6513671875,
+          465.22265625
+        ],
+        [
+          203.6513671875,
+          486.10546875
+        ],
+        [
+          76.6494140625,
+          486.10546875
+        ]
+      ]
+    },
+    {
+      "title": "\u0932\u094b\u0915\u0947\n\u093d\u093f\u092e\u093f\u093f\u0935\u0927\u093e \u093f\u0928\u093e \u092a\u0941\u0930\u093e \u094b\u0924\u093e \u092e\u092f\u093e\u0928\u0918\u0964\n\u093e\u0928\u092f\u094b\u0917\u0947\u0928 \u0938\u092f\u093e\u0928 \u0915\u092e\u092f\u094b\u0917\u0947\u0928 \u092f\u094b\u093f\u0917\u0928\u093e\u092e\u094d\u0965\u0969\u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          126.703125,
+          495.7734375
+        ],
+        [
+          437.9942321777344,
+          495.7734375
+        ],
+        [
+          437.9942321777344,
+          543.7045593261719
+        ],
+        [
+          126.703125,
+          543.7045593261719
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-118"
+}

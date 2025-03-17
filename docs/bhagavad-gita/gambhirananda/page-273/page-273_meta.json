@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CHAPTER 8",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          220.99221801757812,
+          93.005859375
+        ],
+        [
+          396.44219970703125,
+          93.005859375
+        ],
+        [
+          396.44219970703125,
+          126.42205810546875
+        ],
+        [
+          220.99221801757812,
+          126.42205810546875
+        ]
+      ]
+    },
+    {
+      "title": "DISCOURSE ON THE\nIMMUTABLE BRAHMAN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          135.46875,
+          143.666015625
+        ],
+        [
+          483.6279296875,
+          143.666015625
+        ],
+        [
+          483.6279296875,
+          214.435546875
+        ],
+        [
+          135.46875,
+          214.435546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Handwriting",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-273"
+}

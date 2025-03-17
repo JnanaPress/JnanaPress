@@ -1,0 +1,11 @@
+out of context to say this, that the pain resulting from the effort in performing *nityakarmas* is the result of sinful acts done in the past.
+
+## *Objection*: How?
+
+*Vedāntin*: What is under discussion is that the sin committed in the past, which has not begun to bear fruit, cannot be dissipated. In that context you say that pain resulting from the effort in undertaking *nityakarmas* is the result of action which has begun bearing fruit, not of that which has not yet commenced yielding fruit!
+
+On the other hand, if you think that all sins committed in the past have begun yielding their results, then it is unreasonable to specify that the pain resulting from the exertion in performing the *nityakarmas* is their only result. And there arises the contingency of the injunction to perform *nityakarmas* becoming void, because the sinful deed which has begun bearing fruit can logically be dissipated only be experiencing its result. Further, if pain be the result of *nityakarmas* enjoined by the Vedas, then it is seen to arise from the very effort in undertaking *nityakarmas*—as in the case of exercise etc. To imagine that it is the result of something else is illogical. [\(260\)](#page--1-0)
+
+And if the *nityakarmas* have been enjoined simply on the basis of a person's being alive, it is unreasonable that it should be the result of sins committed in the past, any more than expiation is. An expiation that has been enjoined following a particular sinful act is not the result of that sin! On the other hand, if the suffering arising from expiation be the result of that very sin which is its cause, then the pain from the effort in performing *nityakarmas*, though prescribed merely on the fact of one's being alive, may become the fruit of that very fact of one's being alive—which was itself the occasion (for enjoining the *nityakarmas*)—, because both the *nityakarmas* and expiatory duties are indistinguishable so far as their being occasioned by something is concerned.
+
+Moreover, there is the other fact: There can be no such distinction that only the pain resulting from the performance of *nityakarmas* is the result of past sinful deeds, but not so the pain

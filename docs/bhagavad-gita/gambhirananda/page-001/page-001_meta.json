@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Srimad\nBhagavad Gita\nBhasya",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          22.8603515625,
+          20.49609375
+        ],
+        [
+          562.39453125,
+          20.49609375
+        ],
+        [
+          562.39453125,
+          271.86328125
+        ],
+        [
+          22.8603515625,
+          271.86328125
+        ]
+      ]
+    },
+    {
+      "title": "OF \u0160R\u012a \u0160ANKAR\u0100C\u0100RYA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          83.5224609375,
+          290.25
+        ],
+        [
+          509.203125,
+          291.19921875
+        ],
+        [
+          509.203125,
+          329.09765625
+        ],
+        [
+          83.5224609375,
+          329.09765625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-001"
+}

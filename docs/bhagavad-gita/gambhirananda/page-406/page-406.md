@@ -1,0 +1,9 @@
+of knowledge. *Duhkham*, sorrow—which is by nature adverse—, that, too, is the 'field' since it is a knowable.
+
+*Sanghātah* is the aggregate, the combination, of body and organs. *Cetanā*, sentience, is a state of the internal organ, manifest in that aggregate like fire in a heated lump of iron, and pervaded by an essence in the form of a semblance of Consciousness of the Self. That too is the 'field' because it is an object of knowledge. *Dhrtih*, fortitude, by which are sustained the body and organs when they get exhausted—that too is the 'field' because it is an object of knowledge. Desire etc. have been selected as suggestive of all the qualities of the internal organ.
+
+The Bhagavān concludes what has been said: *Etat*, this; *ksetram*, field; *savikāram*, together with its modifications beginning from *mahat* (*buddhi*); has been *samāsena*, briefly; *udāhrtam*, spoken of. That 'field' which was referred to as, 'This body is called the field' (1), and is constituted by the aggregate of the constituents of the field has been explained in its different forms beginning from the great elements etc. ending with fortitude.
+
+The Knower of the field whose qualities are going to be described, and by realizing which Knower of the field along with His majesty Immortality follows—of Him, together with His attributes, the Bhagavān Himself will narrate in the verse, 'I shall speak of that which is to be known' (12). But, for the present, the Bhagavān enjoins the group of disciplines characterized as humility etc. which lead one to the knowledge of That (Knower of the field)—that group of humility etc. which are referred to by the word Knowledge since they lead to Knowledge, and owing to the existence of which one becomes appropriately competent for the realization of that Knowable, and being endued with which a monk is said to be steadfast in Knowledge:
+
+> अमािनवमदिभवमिहसं ा ाितराजवम्। आचायपासनं शौचं थैयमामिविनह:॥७॥

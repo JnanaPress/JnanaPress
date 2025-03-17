@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Objection: How is that?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          99.49219512939453,
+          455.5546875
+        ],
+        [
+          256.4154968261719,
+          455.5546875
+        ],
+        [
+          256.4154968261719,
+          471.796875
+        ],
+        [
+          99.49219512939453,
+          471.796875
+        ]
+      ]
+    },
+    {
+      "title": "\u092f\u0902 \u0938\u0902\u092f\u093e\u0938\u093f\u092e\u093f\u0924 \u093e\u0939\u092f\n\u0941\n\u0917\u0902 \u0924\u0902 \u093f\u0935\u093f \u092a\u093e\u0921\u0935\u0964\n\u0928 \u0938\u0902\u092f\u0924\u0938\u092a\u094b \u092f\u094b\u0917\u0940 \u092d\u0935\u093f\u0924 \u0915\u0928\u0965\u0968\u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          127.74610900878906,
+          632.671875
+        ],
+        [
+          430.91015625,
+          632.671875
+        ],
+        [
+          430.91015625,
+          678.7045516967773
+        ],
+        [
+          127.74610900878906,
+          678.7045516967773
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          130
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-225"
+}

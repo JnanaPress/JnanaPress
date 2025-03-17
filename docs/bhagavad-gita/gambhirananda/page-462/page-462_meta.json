@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CHAPTER 15\nTHE SUPREME PERSON",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          130.13673400878906,
+          93.4892578125
+        ],
+        [
+          488.716796875,
+          93.4892578125
+        ],
+        [
+          488.716796875,
+          186.4951171875
+        ],
+        [
+          130.13673400878906,
+          186.4951171875
+        ]
+      ]
+    },
+    {
+      "title": "\u090a\u0935\u092e\u0942\u0932\u092e\u0927:\u0936\u093e\u0916\u092e\u0925\u0902 \u093e\u0939\u0930\n\u0941\n\u092f\u092f\u092e\u094d\u0964\n\u091b\u0926\u093f\u0938 \u092f\u092f \u092a\u0923\u093f\u0928 \u092f\u0924\u0902 \u0935\u0947\u0926 \u0938 \u0935\u0947\u0926\u093f\u0935\u0924\u094d\u0965\u0967\u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          125.6572265625,
+          578.53125
+        ],
+        [
+          457.7640075683594,
+          578.53125
+        ],
+        [
+          457.7640075683594,
+          623.9546203613281
+        ],
+        [
+          125.6572265625,
+          623.9546203613281
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-462"
+}

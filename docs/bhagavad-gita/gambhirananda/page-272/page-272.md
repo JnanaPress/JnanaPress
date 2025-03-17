@@ -1,0 +1,5 @@
+states the reason for the non-realization of the qualified Brahman.
+
+- [[108](#page--1-0)] Here Asṭ. adds, '*sarva-parityāga-vratena*, through the vow of relinquishing everything'.—Tr.
+- [[109](#page--1-1)] They know Brahman as being all the individual entities and all actions. This verse prescribes meditation on the qualified Brahman for aspirants of the middle class. Verses beginning with the 14th speak about the realization of the unqualified Brahman by aspirants of the highest class.
+- [[110](#page--1-2)] For those who are devoted to Bhagavān, there is not only the knowledge of Brahman as identified with all individuals and all actions (see previous verse), but also the knowledge of It as existing in all things on the physical, the divine and the sacrificial planes. Those who realize Brahman as existing in the context of all the five, namely of the individual, of actions, of the physical, of the divine, and of the sacrifices—for them with such a realization there is no forgetting, loss of awareness, of Brahman even at the critical moment of death.

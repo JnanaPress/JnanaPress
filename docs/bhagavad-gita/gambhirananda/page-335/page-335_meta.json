@@ -1,0 +1,65 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FOOTNOTES AND REFERENCES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          188.07421875,
+          336.638671875
+        ],
+        [
+          427.0092468261719,
+          336.638671875
+        ],
+        [
+          427.0092468261719,
+          354.041015625
+        ],
+        [
+          188.07421875,
+          354.041015625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          114
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-335"
+}

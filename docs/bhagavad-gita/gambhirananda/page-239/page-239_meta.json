@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u0938\u092a\u092d\u0935\u093e\u0915\u093e\u092e\u092f\u0935\u093e \u0938\u0935\u0928\u0936\u0947\u0937\u0924:\u0964\n\u092e\u0928\u0938\u0948\u0935\u0947\u093f\u092f\u093e\u092e\u0902 \u093f\u0935\u093f\u0928\u092f\u092f \u0938\u092e\u0924\u0924:\u0965\u0968\u096a\u0965\n\u0936\u0928:\n\u0948 \u0936\u0928\u0948 \u092a\u0930\u092e\u0947\u0941\n\u092f\u093e \u0927\u0943\u093f\u0924\u0917\u0943\u0939\u0940\u0924\u092f\u093e\u0964\n\u0906\u092e\u0938\u0902\u0925\u0902 \u092e\u0928: \u0915\u0943\n\u0935\u093e \u0928 \u093f\u0915\u093f\u091a\u0926\u093f\u092a \u093f\u091a\u0924\u092f\u0947\u0924\u094d\u0965\u0968\u096b\u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          123.416015625,
+          410.30859375
+        ],
+        [
+          491.401123046875,
+          410.30859375
+        ],
+        [
+          491.401123046875,
+          511.62890625
+        ],
+        [
+          123.416015625,
+          511.62890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          146
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-239"
+}

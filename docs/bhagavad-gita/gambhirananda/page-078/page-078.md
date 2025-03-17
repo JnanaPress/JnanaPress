@@ -1,0 +1,11 @@
+44. One-pointed conviction does not become established in the minds of those who delight in enjoyment and affluence, and whose intellects are carried away by that (speech).
+
+And *vyavasāyātmikā*, one-pointed; *buddhih*, conviction, with regard to Knowledge or Yog; *na vidhīyate*, does not become established, that is, does not arise; *samādhau*, in the minds—the word *samādhi* being derived in the sense of that into which everything is gathered together for the enjoyment of a person—; *bhoga-aiśvarya-prasaktānām*, of those who delight in enjoyment and wealth, of those who have the hankering that only enjoyment as also wealth is to be sought for, of those who identify themselves with these; and *apahrta-cetasām*, of those whose intellects are carried away, whose discriminating judgement becomes covered; *tayā*, by that speech which is full of various special rites.
+
+## ैगु यिवषया वेदा िनैगु यो भवाजु न। िनो िनयसवथो िनयगेम आमवान्॥४५॥
+
+45. O Arjuna, the Vedas [\(72\)](#page--1-0) have the three qualities as their object. You become free from worldliness, free from the pairs of duality, ever-poised in the quality of *sattva*, without (desire for) acquisition and protection, and self-collected.
+
+To those who are thus devoid of discriminating wisdom, who indulge in pleasure, [\(73\)](#page--1-1) O Arjuna, *vedāh*, the Vedas; *traigunyavisayāh*, have the three qualities as their object, have the three *gunas*, [\(74\)](#page--1-2) that is, the worldly life, as the object to be revealed. But you *bhava*, become; *nistraigunyah*, free from the three qualities, that is, be free from desires. [\(75\)](#page--1-3) (Be) *nirdvandvah*, free from the pairs of duality—by the word *dvandva*, duality, are meant the conflicting pairs [\(76\)](#page--1-4) which are the causes of happiness and sorrow; you become free from them. [\(77\)](#page--1-5)
+
+You become *nitya-sattvasthah*, ever-poised in the quality of *sattva*; (and) so also *nirYog-ksemah*, without (desire for) acquisition and protection. *Yog* means acquisition of what one has not, and *ksema* means the protection of what one has. For one who has

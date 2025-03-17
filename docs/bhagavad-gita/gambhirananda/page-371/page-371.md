@@ -1,0 +1,9 @@
+- [[53](#page--1-0)] *Dissatisfaction* with only a few salutations.
+- [[54](#page--1-1)] Asṭ. reads '*śatru-vadha-visaye*, in the matter of killing an enemy'.—Tr.
+- [[55](#page--1-2)] Walking, that is, sport or exercise.
+- [[56](#page--1-3)] He is the Teacher since He introduced the line of teachers of what is virtue and vice, and of the knowledge of the Self. And He is greater than a teacher because He is the teacher even of Hiranyagarbha and others.
+- [[57](#page--1-4)] The elision of *a* (in *arhasi* of *priyāyārhasi*) is a metrical licence.
+- [[58](#page--1-5)] The word *ātmanah* (who am the Self) does not occur in some editions.—Tr.
+- [[59](#page--1-6)] '*By anyone* who has not received My grace'.
+- [[60](#page--1-7)] This separate mention of the study of sacrifices is necessary because the ancients understood the study of Vedas to mean learning them by rote.
+- [[61](#page--1-8)] A religious observance or expiatory penance regulated by the moon's phases. In it the daily quantity of food, which consists of fifteen mouthfuls at the full-moon, is curtailed by one mouthful during the dark fortnight till it is reduced to nothing at the new moon; and it is increased in a like manner during the bright fortnight.—V.S.A.

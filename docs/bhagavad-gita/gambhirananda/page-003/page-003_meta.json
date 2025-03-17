@@ -1,0 +1,65 @@
+{
+  "table_of_contents": [
+    {
+      "title": "KEY TO TRANSLITERATION\nAND PRONUNCIATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          171.75,
+          80.77587890625
+        ],
+        [
+          435.09375,
+          80.77587890625
+        ],
+        [
+          435.09375,
+          127.6171875
+        ],
+        [
+          171.75,
+          127.6171875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          81
+        ],
+        [
+          "Span",
+          81
+        ],
+        [
+          "ListItem",
+          29
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-003"
+}

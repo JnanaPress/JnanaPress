@@ -1,0 +1,8 @@
+[[109](#page--1-0)] The man of realization.
+
+- [[110](#page--1-1)] It may be argued that even after illumination the phenomenal world, though it is known to be false, will continue to be perceived because of the persistence of past impressions; therefore there is scope for the validity of the scriptural injunctions even in the case of an illumined Ātman. The answer is that there will be no scope for the injunctions, because the man of realization will then have no ardent leaning towards this differentiated phenomenal world which makes an injunction relevant.
+- [[111](#page--1-2)] Vedic injunctions.
+- [[112](#page--1-3)] Because, without an injunction nobody would engage in a duty, much less in steadfastness to Knowledge.
+- [[113](#page--1-4)] The validity of all the means of knowledge holds good only so long as the knowledge of the Self has not arisen.
+- [[114](#page--1-5)] Does the injunction relate to the knowledge of the Self, or to the Self Itself? The first alternative is untenable because a valid means of knowledge reveals its objects even without an injunction. The second alternative also is untenable because the Self is self-revealing, whereas an injunction is possible in the case of something yet to be achieved. And one's own Self is not an object of that kind.
+- [[115](#page--1-6)] Liberation is attained only by one who, after acquiring an intellectual knowledge of the Self in a general way, is endowed with discrimination and detachment, has arisen above all desires, has become a monk in the primary sense, and has directly realized the Self by going through the process of *śravana* (understanding of Upanisadic texts about the Self), etc.

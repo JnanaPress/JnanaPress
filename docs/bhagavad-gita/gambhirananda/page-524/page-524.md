@@ -1,0 +1,11 @@
+12. The threefold results of actions—the undesirable, the desirable, and the mixed—accrues after death to those who do not resort to renunciation, but never to those who resort to monasticism.
+
+These *trividham*, threefold—of three kinds; *phalam*, results; *karmanah*, of actions characterized as the righteous and the unrighteous; *anisṭam*, the undesirable, consisting in (birth in) hell, (among) animals, etc.; *isṭam*, the desirable, consisting in (birth as) gods and others; and *miśram*, the mixed, having a mixture of the desirable and the undesirable, consisting in (birth as) human beings; —these results that are of these kinds, *bhavati*, accrues; *pretya*, after death, after the fall of the body; *atyāginām*, to those who do not resort to renunciation, to the unillumined, the men with rites and duties, who are not men of renunciation in the truest sense.
+
+The derivative sense of the word *phala* (*pha-la*) is this: On account of being accomplished through the operation of diverse external accessories, and a result of ignorance, comparable to the charm cast by jugglery, a source of great delusion and appearing as though close to the indwelling Self, it is *pha*lgu (unsubstantial), and as a consequence it undergoes *la*yam (disappearance).
+
+(The result that is of this kind accrues to those who do not resort to renunciation). *Tu*, but; *na kvacit*, never; *sannyāsinām*, to those who resort to monasticism for the sake of the highest Reality, to the class of monks called *paramahaṁsas* who remain steadfast in Knowledge alone. For, it cannot be that those who are devoted wholly to steadfastness in complete enlightenment do not dig out the seed of transmigration. This is the meaning.
+
+Therefore it is only for those who have realized the supreme Truth that it is possible to become a monk who renounces actions totally, because action, accessories and results are superimpositions on the Self through ignorance. But the renunciation of all actions is not possible for an unenlightened person who perceives the locus (the body etc.), action, agentship and accessories as the Self. This the Bhagavān shows in the following verses:
+
+ै ो ो

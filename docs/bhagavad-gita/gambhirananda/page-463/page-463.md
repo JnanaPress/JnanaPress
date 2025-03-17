@@ -1,0 +1,11 @@
+*Ūrdhva-mūlam*, that which has its roots upwards:— Brahman, possessed of the unmanifest power in the form of Māyā, is referred to by the word 'upward' because of Its subtleness in point of time by virtue of Its being the Cause, and also because of Its eternality and vastness; and That is the root (*mūlam*) of this world. The Tree of the World which is such, is *ūrdhva-mūlam*. This accords with the Upanisadic text, 'This has its roots above and branches below' (Ka. 2.6.1). In the Purāna also we have:
+
+It sprouts from the Root in the form of the Unmanifest; it grows through the sturdiness of that very One. And it has abundance of intelligence as its trunk, and the apertures of the organs as the hollows.
+
+The great elements are its boughs [\(153\)](#page--1-0); so also, it has the objects of perception as its leaves. It has virtue and vice as its beautiful flowers, and happiness and sorrow are the fruits it bears.
+
+This eternal Tree presided over by Brahman is a means of livelihood to all creatures. And this verily is the resort of Brahman [\(154\)](#page--1-1); in it Brahman dwells for ever.
+
+Having felled and split this Tree with the great sword of Knowledge, and then attaining the bliss of the Self, one does not return from that (bliss).' (Cf. Mbh. Āś. 47.12-15.)
+
+That Tree which has its roots upwards and is constituted by the enchantment of mundane existence, and *adhah-śākham*, which has the branches downwards—*mahat*, [\(155\)](#page--1-2) egoism, subtle elements, etc. are its branches (*śākhāh*), as it were, extending downwards (*adhah*); so, it has its branches downwards—; that Tree with its branches downwards, which does not (*a*) last (*stha*) even for the morrow (*śvah*), is *aśvatthah* (lit. Peepul tree). *Ahuh*, they say; that the *aśvatthah*, Peepul Tree, undergoing destruction every moment; is *avyayam*, imperishable, and constituted by the enchantments of mundane existence. Having been in existence from time without beginning, that Tree of the World is imperishable. It is, indeed, well known as the sustainer of the beginningless and ceaseless series of bodies etc. They call that the imperishable.

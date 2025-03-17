@@ -1,0 +1,17 @@
+- [[91](#page--1-0)] *Strength*—physical; *power*—mental; *etc*. refers to omniscience and will.
+- [[92](#page--1-1)] From the statement, '*jñāsyasi*, you will know', in the earlier verse, one may conclude that the Bhagavān is speaking of indirect or theoretical knowledge. The word '*idam*, this' rules out such a conclusion; and it has also been said that this Knowledge is '*savijñānam*, combined with direct experience, realization'; it is Consciousness.
+- [[93](#page--1-2)] *For perfection*: for the rise of Knowledge through the purification of the mind.
+- [[94](#page--1-3)] Prakrti here does not mean the Pradhāna of the Sānkhyas.
+- [[95](#page--1-4)] *Mahat* means Hiranyagarbha, or Cosmic Intelligence.
+- [[96](#page--1-5)] *Associated*, that is of the nature of.
+- [[97](#page--1-6)] Like cloth formed by threads constituting its warp and woof.
+- [[98](#page--1-7)] For *sattva*, *rajas*, and *tamas* see note under 2.45 as also Chapters 14, 17 and 18.—Tr.
+- [[99](#page--1-8)] See note on p.22.—Tr.
+- [[100](#page--1-9)] See note on p.48.—Tr.
+- [[101](#page--1-10)] 'One who, being in distress and seeking to be saved from it, takes refuge (in Me).'
+- [[102](#page--1-11)] That is one who, already having intellectual knowledge, aspires for Liberation.
+- [[103](#page--1-12)] Asṭ. omits this word.—Tr.
+- [[104](#page--1-13)] Here Asṭ. adds the word Nārāyana.—Tr.
+- [[105](#page--1-14)] Asṭ. takes the portion '*svabhāvatah yo yām devatā-tanum śraddhayā arcitum icchati*' with the next verse.—Tr.
+- [[106](#page--1-15)] *At present*, after being embodied as an Incarnation.
+- [[107](#page--1-16)] In verse 13 the reason for the non-realization of the supreme, unqualified Brahman was stated. The present verse

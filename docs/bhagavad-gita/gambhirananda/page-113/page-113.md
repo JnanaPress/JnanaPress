@@ -1,0 +1,11 @@
+they assert here contradictorily that, in the case of persons in stages of life other than that of the householders, Liberation comes from Knowledge alone?
+
+*Objection*: Suppose it is held that this assertion is made with regard to Vedic rites and duties, that is it is denied that householders can have Liberation through Knowledge alone which is unassociated with Vedic rituals. By ignoring those duties of the householders which are prescribed by the Smrtis, as if they (the duties) were nonexistent—even though they are present in fact—, it is said in that context that there can be no Liberation only from Knowledge. [\(4\)](#page--1-0)
+
+*Reply*: Even this is contradictory!
+
+*Objection*: How?
+
+*Reply*: How can it be understood by discriminating people that, Liberation through Knowledge combined with action (rites and duties) prescribed by the Smrtis is denied in the case of householders alone, but not with regard to others? Moreover, if, in the case of the *sannyāsins*, actions (rites and duties) prescribed by the Smrtis have to be combined with Knowledge as a means to Liberation, then even for the householders you should accept the combination of Knowledge with actions sanctioned by the Smrtis only, not with those sanctioned by the Vedas. On the other hand, if it be held that for Liberation, Knowledge has to be combined with actions sanctioned by the Vedas *and* the Smrtis in the case of the householders only, but for the *sannyāsins* the combination has to be with actions sanctioned by the Smrtis alone, then, in that case, on the householder's head will be placed the burden of much exertion in the form of greatly painful actions prescribed by the Vedas and the Smrtis!
+
+Again, if it be argued that Liberation will be attained by householders alone on account of their undertaking tasks requiring much diligence, but people in other stages of life will not have It because of their non-performance of the Vedic and the daily obligatory duties (*nitya-karma*, prescribed by the Smrtis), then that

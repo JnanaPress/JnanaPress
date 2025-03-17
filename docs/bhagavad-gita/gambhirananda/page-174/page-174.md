@@ -1,0 +1,11 @@
+*Brahma-arpanam*, the ladle is Brahman: The knower of Brahman perceives the instrument with which he offers oblation in the fire as Brahman Itself. He perceives it as not existing separately from the Self, as one sees the non-existence of silver in nacre. In this sense it is said that Brahman Itself is the ladle—just as what appears as silver is only nacre. (The two words *brahma* and *arpanam* are not parts of a compound word, *samāsa*.) The meaning is that, to a knower of Brahman, what is perceived in the world as ladle is Brahman Itself.
+
+Similarly, *brahma-havih*, the oblation is Brahman: To him, what is seen as oblation is nothing but Brahman.
+
+In the same way, *brahma-agnau*, (—this is a compound word—) in the fire of Brahman: The fire into which oblation is *hutam*, poured; *brahmanā*, by Brahman, by the agent, is Brahman Itself. The meaning is that Brahman Itself is the agent (of the offering). That he makes the offering—the act of offering—, that is also Brahman. And the result that is *gantavyam*, to be reached by him; that also is *brahma eva*, surely Brahman.
+
+*Brahma-karma-samādhinā*, by him who has concentration on Brahman as the objective: Brahman Itself is the objective (*karma*); he who has concentration (*samādhi*) on That is *brahma-karmasamādhih*. The goal to be reached by him is Brahman alone.
+
+Thus, even the action undertaken by one who desires to prevent mankind from going astray is in reality inaction, for it has been sublated by the realization of Brahman. This being so, in the case of the monk from whom action has dropped off, who has renounced all activity, viewing his Knowledge as a (kind of) sacrifice, too, becomes all the more justifiable from the point of view of praising full realization.
+
+That is, whatever is well known as ladle etc. in the context of a sacrifice, all that, in the context of the Self, is Brahman Itself to one who has realized the supreme Truth. If not so, then, since all in Brahman, it would have been useless to specifically mention ladle

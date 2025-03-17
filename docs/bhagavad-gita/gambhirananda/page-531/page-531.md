@@ -1,0 +1,11 @@
+this tripartite group formed by these is the *trividhā*, threefold; *karmacodanā*, inducement to action, inducer of all actions in general. For, it is when the three, viz. knowledge etc., combine that commencement of all actions meant either for acceptance or rejection [\(211\)](#page--1-0) are possible. After that, what are initiated by the five, viz. locus etc., and are grouped in three ways according to the differences of their being based on speech, mind and body become comprehended under the three, viz. instrument etc. This is what is being stated: *Karmasangrahah*, the comprehension [\(212\)](#page--1-1) of actions; *iti*, comes under; *trividhah*, three heads, three classes; viz. *karanam*, the instrument (—derived in the sense of that through which anything is done—), that is the external (organs) (ear etc.) and the internal (organs) (intellect etc.); *karma*, the object (—derivatively meaning that which is most cherished by the subject and is achieved through an act—); and *kartā*, the subject (agent), who employs the instrument etc., who partakes of the nature of the limiting adjuncts.
+
+*Sangrahah* is derived thus: that in which something is comprehended. The comprehension of action (*karma*) is *karmasangrahah*. Indeed, action becomes included in these three. Hence is this 'threefold comprehension of action'.
+
+Now then, since action, instrument and result are all constituted by the *gunas*, it becomes necessary to state the three fold variety in them based on the differences among the *gunas*, viz. *sattva*, *rajas* and *tamas*. Hence it is begun:
+
+## ानं कम च कत च िधैव गुणभेदत:। ोयते गुणसंयाने यथावछ ृ णु तायिप॥१९॥
+
+19. Knowledge, action and agent are stated in the teaching about the *gunas* to be only of three kinds according to the differences of the *gunas*. Hear about them also as they are.
+
+*Jñānam*, knowledge; *karma*, action—not the objective case in the technical sense, which is defined as 'that which is most cherished by the subject'; and *kartā*, agent, the accomplisher of actions; *procyate*, are stated; *guna-sankhyāne*, in the teaching about the *gunas*, in the

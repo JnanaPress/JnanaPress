@@ -1,0 +1,9 @@
+which is possessed of *tamas* etc.; it is not *sannyāsa* in the primary sense—the renunciation of all actions.
+
+*Objection*: According to the reason shown in the text, 'Since it is not possible for one who holds on to a body to give up actions entirely' (11), may it not be argued that the word *sannyāsa* is certainly used in the primary sense because it is impossible to abandon all works?
+
+*Reply*: No, for the text adducing the reason is meant for eulogy. Just as, 'From renunciation immediately (follows) Peace' (12.12), is a mere eulogy of renunciation of the fruits of action, it having been enjoined on Arjuna who was unenlightened and incapable of undertaking the various alternatives (paths) as stated earlier, so also is this sentence, 'Since it is not possible for one who holds on to a body to give up actions entirely' (11), meant for eulogizing the renunciation of the results of all actions. No one can point out an exception to the proposition that 'having given up all actions mentally, (the embodied man of self-control) continues happily ... without doing or causing (others) to do anything at all' (see 5.13). Therefore these alternative views regarding *sannyāsa* and *tyāga* are concerned only with those who are qualified for rites and duties. But the enlightened ones who have realized the supreme Truth are competent only for steadfastness in Knowledge, which is characterized by renunciation of all actions; not for anything else. Hence, they do not come within the purview of the alternative views. Thus has this been pointed out by us in connection with the text, '...he who knows this One as indestructible...' (2.21) as also in the beginning of the third chapter.
+
+## िनयं शृणु मे त यागे भरतसम। यागो िह पुषया ििवध: सकीितत:॥४॥
+
+4. O the most excellent among the descendants of Bharata, hear from Me the firm conclusion regarding that *tyāga*. For, O greatest among men, *tyāga* has been clearly declared to be of three kinds.

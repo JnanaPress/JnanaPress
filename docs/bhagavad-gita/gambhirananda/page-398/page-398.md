@@ -1,0 +1,11 @@
+even the person who does not believe in the Self does not engage in action, under the idea that the other world does not exist. However, one who has inferred the existence of the Self on the ground of the well-known fact that study of the scriptures dealing with injunctions and prohibitions becomes otherwise purposeless, who has no knowledge of the essential nature of the Self, and in whom has arisen hankering for the results of actions—he faithfully engages in action. This is a matter of direct perception to all of us. Hence, the scriptures are not purposeless.
+
+*Objection*: May it not be that the scriptures will become meaningless when, by noticing abstention from action in the case of men with discrimination, their followers too will abstain?
+
+*Reply*: No, because discrimination arises in some rare person only. For, as at present, some rare one among many people comes to possess discrimination. Besides, fools do not follow one who has discrimination, because (their) engagement in action is impelled by defects such as attachment etc. And they are seen to get engaged in such acts as black magic. Moreover, engagement in action is natural. Verily has it been said (by the Bhagavān), 'But it is Nature that acts' (5.14).
+
+Therefore, the mundane state consists of nothing but ignorance, and is an object of perception (to the ignorant man who sees it) just as it appears to him. Ignorance and its effects do not belong to the Knower of the field, the Absolute. Moreover, false knowledge cannot taint the supreme Reality. For, water in a mirage cannot make a desert muddy with its moisture. Similarly, ignorance cannot act in any way on the Knower of the field. Hence has this been said, 'And understand Me to be knower of the field,' as also, 'Knowledge remains covered by ignorance' (5.15).
+
+*Objection*: Then, what is this that even the learned say like the worldly people, 'Thus [\(88\)](#page--1-0) am I,' 'This [\(89\)](#page--1-1) verily belongs to Me'?
+
+*Reply*: Listen. This is that learnedness which consists in seeing the field as the Self! On the contrary, should they realize the

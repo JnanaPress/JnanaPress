@@ -1,0 +1,11 @@
+What will happen to one who bears cold and heat? Listen: 'Verily, the person...,' etc.
+
+(O Arjuna) *hi*, verily; *yam purusam*, the person whom; *ete*, these, cold and heat mentioned above; *na*, do not; *vyathayanti*, torment, do not perturb; *dhīram*, the wise man; *sama-duhkha-sukham*, to whom sorrow and happiness are the same, who is free from happiness and sorrow when subjected to pleasure and pain, because of his realization of the eternal Self; *sah*, he, who is established in the realization of the eternal Self, who forbears the opposites; *kalpate*, becomes fit; *amrtattvāya*, for Immortality, for the state of Immortality, that is, for Liberation.
+
+## नासतो िवते भावो नाभावो िवते सत:। उभयोरिप द ृ ोऽतवनयोतवदिशिभ:॥१६॥
+
+16. Of the unreal there is no being; the real has no nonexistence. But the nature of both these, indeed, has been realized by the seers of Truth.
+
+Since 'the unreal has no being,' etc., for this reason also it is proper to bear cold, heat, etc. without becoming sorrowful or deluded. *Asatah*, of the unreal, of cold, heat, etc. together with their causes; *na vidyate*, there is no; *bhāvah*, being, existence, reality; because heat, cold, etc. together with their causes are not substantially real when tested by means of proof. For they are changeful, and whatever is changeful is inconstant. As configurations like pot etc. are unreal since they are not perceived to be different from earth when tested by the eyes, so also are all changeful things unreal because they are not perceived to be different from their (material) causes, and also because they are not perceived before (their) origination and after destruction.
+
+*Objection*: If it be that [\(32\)](#page--1-0) such (material) causes as earth etc. as also their causes are unreal since they are not perceived differently from their causes, in that case, may it not be urged that owing to the non-existence of those (causes) there will arise the contingency of everything becoming unreal? [\(33\)](#page--1-1)

@@ -1,0 +1,11 @@
+*Ahar-āgame*, with the coming of day, at the time when Brahmā wakes; *sarvāh vyaktayah*, all manifested things, all things that get manifested, all creatures characterized as moving and non-moving; *prabhavanti*, emerge, become manifested; *avyaktāt*, from the Unmanifested—*avyakta* (Unmanifested) is the state of sleep of Prajāpati; from that *avyakta*. Similarly, *rātri-āgame*, when night comes, at the time when Brahmā sleeps; *pralīyante*, they, all the manifested things, merge; *tatra eva*, in that itself; *avyakta-sanjñake*, which is called the Unmanifested referred to above.
+
+In order to obviate the defect of the emergence of some unmerited result and the destruction of merited results; [\(117\)](#page--1-0) for pointing out the meaningfulness of the scriptures [\(118\)](#page--1-1) dealing with bondage and Liberation; and with a view to propounding detachment from the world on the ground that the helpless multitude of beings perishes after being born again and again under the influence of accumulated results of actions that have for their origin such evils as ignorance etc., [\(119\)](#page--1-2) the Bhagavān says this:
+
+## भूताम: स एवायं भू वा भू वा लीयते। रायागमेऽवश: पाथ भवयहरागमे॥१९॥
+
+19. O son of Prthā, after being born again and again, that very multitude of beings disappears in spite of itself at the approach of night. It comes to life at the approach of day.
+
+O son of Prthā, *bhūtvā bhūtvā*, after being born again and again at the approach of day; *sah eva*, that very—not any other; *bhūtagrāmah*, multitude of beings, consisting of the moving and the non-moving objects that existed in the earlier cycle of creation; *pralīyate*, disappears repeatedly; *avaśah*, in spite of itself, [\(120\)](#page--1-3) without any independence whatever; *rātri-āgame*, at the approach of night, at the close of the day. *Prabhavati*, it comes to life, verily in spite of itself; *ahar-āgame*, at the approach of day.
+
+The means for the attainment of that Immutable which was introduced has been pointed out in, 'He who departs by leaving the body while uttering the single syllable, namely *Om*, which is

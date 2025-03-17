@@ -1,0 +1,11 @@
+who has known the real nature of the Self that, keeping his mind absorbed in the Self, he should never have the idea 'I am doing', even in respect of actions such as seeing, hearing, etc. dictated by the need of merely maintaining the body;
+
+and because, in the case of one who has known the reality of the Self, Karma-Yog which is opposed to full enlightenment and is caused by false knowledge cannot be a possibility even in a dream —therefore (for the above reasons), it is only with regard to the renunciation of actions and with regard to Karma-Yog resorted to by one who is ignorant of the Self that the statement of their dealing to Liberation has been made. And the speciality of (his) Karma-Yog has been spoken of as being easy of performance in comparison with his renunciation of actions which, as distinguished from the renunciation of all actions by the aforesaid knower of the Self, will be partial owing to the persistence of the idea of agentship and will be difficult to be practised along with *yama, niyama*, [\(48\)](#page--1-0) etc.
+
+It stands confirmed that even by interpreting the meaning of the Bhagavān's answer in this way, the above-mentioned intention of the questioner (Arjuna) becomes well established.
+
+In the verse, 'if it be Your opinion that Wisdom is superior to action' (3.1), when Arjuna, finding that Knowledge and action cannot coexist, asked the Bhagavān, 'Tell me that which is superior of the two,' He stated His conclusion that steadfastness in the Yog of Knowledge was taught for the knowers of the Self, the monks, while steadfastness in Karma-Yog was for the yogīs.
+
+From the statement that one does not attain fulfilment from mere renunciation (cf. 3.4), it follows that (renunciation) associated with Knowledge is intended as the means to fulfilment. And since Karma-Yog, too, has been enjoined, therefore, with the intention of knowing the distinction between these two to determine whether renunciation devoid of Knowledge is better or Karma-Yog is better, Arjuna asks:
+
+## *Arjuna said:*

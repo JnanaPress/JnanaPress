@@ -1,0 +1,11 @@
+figurative notion or verbal expression can occur; not when the common and the uncommon features are unknown.
+
+As for the argument that (the figurative notion should be accepted) on the authority of the Vedas, we say, 'No', because their validity concerns unseen results. The validity of the Vedas holds good only with regard to matters concerning the relation between ends and means of Agnihotra etc., which are not known through such valid means of knowledge as direct perception; but not with regard to objects of direct perception etc., because the validity of the Vedas lies in revealing what is beyond direct perception. Therefore it is not possible to imagine that the idea of egoism with regard to the aggregate of body etc., arising from an obviously false knowledge, is a figurative notion. Surely, even a hundred Vedic texts cannot become valid if they assert that fire is cold or non-luminous! Should a Vedic text say that fire is cold or non-luminous, even then one has to assume that the intended meaning of the text is different, for otherwise (its) validity cannot be maintained; but one should not assume its meaning in a way that might contradict some other valid means of knowledge or contradict its own statement.
+
+*Objection*: May it not be said that since actions are undertaken by one possessed of a false idea of agentship, therefore, when the agent ceases to be so [\(267\)](#page--1-0) the Vedas will become invalid?
+
+*Reply*: No, since the Vedas become logically meaningful in respect of knowledge of Brahman. [\(268\)](#page--1-1)
+
+*Objection*: May it not be said that there arises the contingency of the Vedic texts enjoining knowledge of Brahman becoming as invalid as those texts enjoining rites and duties?
+
+*Reply*: No, since there cannot possibly be any notion which can remove (the knowledge of Brahman). Unlike the manner in which the idea of egoism with regard to the aggregate of body etc. is removed after the realization of the Self from hearing the Vedic injunctions regarding the knowledge of Brahman, the realization of the Self in the Self can never be removed in any way in that manner by

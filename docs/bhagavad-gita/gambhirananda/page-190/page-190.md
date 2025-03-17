@@ -1,0 +1,13 @@
+- [[15](#page--1-0)] *Perceiver of inaction etc*.: He who knows the truth about action and inaction as explained before.—Tr.
+- [[16](#page--1-1)] Asṭ. adds this word *sarva*, all.—Tr.
+- [[17](#page--1-2)] From the subjective standpoint of the enlightened there are no actions, but ordinary people mistakenly think them to be actions, which in reality are a mere semblance of it.
+- [[18](#page--1-3)] *Āśīh* is a kind of desire that can be classed under prayer. (Some translate it as desire, hope.—Tr.)
+- [[19](#page--1-4)] *Parigraha*: receiving, accepting, possessions, belongings. V.S.A
+- [[20](#page--1-5)] Here Asṭ. adds *tasmāt tābhyām mukto bhavati samsārāt mukto bhavati ityarthah*, therefore, he becomes free from both of them, that is he becomes liberated from transmigration.— Tr.
+- [[21](#page--1-6)] Contradiction of the scriptures.
+- [[22](#page--1-7)] *Unasked for*: what comes before the monk gets ready for going out for alms; *without forethought*: alms that are not given with abuses, and have not fallen on the ground, but collected from five or seven houses without any plan; *spontaneously*: alms brought to one spontaneously by devoted people.
+- [[23](#page--1-8)] Ā.G. takes *yajña* to mean Visnu. So, *yajñāya* will mean 'for Visnu'. Śankarācārya also interprets this word similarly in 3.9. —Tr.
+- [[24](#page--1-9)] Some translate as 'Brahman is the ladle...,' etc.—Tr.
+- [[25](#page--1-10)] As an object to be known and attained. (Some translate *brahma-karma-samādhinā* as, 'by him who sees Brahman in action'.)
+- [[26](#page--1-11)] See note on p.172.—Tr.
+- [[27](#page--1-12)] Accessories that can be indicated by the five grammatical case-ending, namely Nominative, Objective, Instrumental,

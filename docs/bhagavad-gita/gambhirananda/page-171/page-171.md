@@ -1,0 +1,9 @@
+On the other hand, when the sense conveyed by *śārīram karma* is taken as actions merely for the purpose of maintaining the body, then the implication will be that he does not do any other work as can be accomplished physically, orally, or mentally, which are known from injunctions and prohibitions (of the scriptures) and which have in view seen or unseen results; while he appears to people to be working with those very body (speech) etc. merely for the purpose of maintaining the body, yet he does not incur sin by merely making movements of the body etc., because from the use of the word *kevala*, (merely) it follows that he is devoid of the sense of agentship implicit in the idea, 'I do.' Since there is no possibility of a person who has reached such a state incurring evil as suggested by the word *sin*, therefore he does not become subject to the evil of transmigration. That is to say, he certainly becomes free without any obstacle since he has all his actions burnt away by the fire of wisdom.
+
+This verse is only a reiteration of the result of full illumination stated earlier. It becomes faultless by accepting the interpretation of *śārīram karma* thus.
+
+In the case of the monk who has renounced *all* possessions, since owning food etc. meant for the bare sustenance of the body is absent, therefore it becomes imperative to beg for alms etc. for the upkeep of the body. Under this circumstance, by way of pointing out the means of obtaining food etc. for the maintenance of the body of a monk as permitted by the text, 'What comes unasked for, without forethought and spontaneously...' [\(22\)](#page--1-0) (Bo. Sm. 21. 8. 12) etc., the Bhagavān says:
+
+## यद ृ छालाभसतु ो ातीतो िवमसर:। सम: िसाविसौ च कृ वाऽिप न िनबयते॥२२॥
+
+22. Remaining satisfied with what comes unasked for, having transcended the dualities, being free from spite, and equipoised under success and failure, he is not bound even by performing actions.

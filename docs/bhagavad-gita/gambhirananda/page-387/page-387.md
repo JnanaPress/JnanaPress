@@ -1,0 +1,7 @@
+- [[76](#page--1-0)] There is a repeated mention of Bhakti in this Chapter because it is a means to the Knowledge which leads to the supreme Goal.
+- [[77](#page--1-1)] *Tu* (*but*) is used to distinguish those who have attained the highest Goal from the aspirants.—Tr.
+- [[78](#page--1-2)] M.S.'s reading is *dharmāmrtam*—nectar in the form of virtue. Virtue is called nectar because it leads to Immortality, or because it is sweet like nectar.
+
+*Dharmyam* means that which is 'achievable by dint of the virtue' of aspiration for Liberation; and since the virtues beginning from 'unhatefulness'—are the unfailing means of achieving Immortality, they are therefore *amrta*. —Ś.
+
+[[79](#page--1-3)] Thus, after the consummation of meditation on the qualified Brahman, one who aspires after the unqualified Brahman, who has the qualifications mentioned in, 'He who is not hateful towards any creature,' etc., who is pre-eminently fit for this purpose, and who practises *śravana* etc. has the possibility of realizing the Truth from which his Liberation logically follows. Hence, the conclusion is that the meaning of the word *tat* (in the sentence *tattvamasi*) has to be sought for, since this has the power to arouse the comprehension of the meaning of that sentence, which is the means to Liberation.

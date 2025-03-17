@@ -1,0 +1,16 @@
+- [[43](#page--1-0)] Some translate *yuktah* as, 'in the right manner'. S. takes it in the sense of *Yog-yuktah*, merged in Yog.—Tr.
+- [[44](#page--1-1)] Another reading is *yojayet*, meaning the same as *josayet*.— Tr.
+- [[45](#page--1-2)] *Pradhāna*, *Māyā*, the Power of Bhagavān.
+- [[46](#page--1-3)] *Guna-vibhāga* means the products of Prakrti which consists of the three *gunas*. They are the five subtle elements, mind, intellect, ego, five sensory organs, five motor organs and five objects (sound etc.) of the senses. *Karma-vibhāga* means the varieties of inter-actions among these.—Tr.
+- [[47](#page--1-4)] 'Free from expectations of results for yourself'.
+- [[48](#page--1-5)] Here Asṭ. adds '*parama*, supreme'—Tr.
+- [[49](#page--1-6)] Finding fault where there is none.
+- [[50](#page--1-7)] Knowledge concerning the qualified and the unqualified Brahman.
+- [[51](#page--1-8)] Also, knowledge, desires, etc.
+- [[52](#page--1-9)] Ignorance, the cause of love and hatred, has discrimination as its opposite.
+- [[53](#page--1-10)] Customary or scripturally ordained observances of different castes and sects.—Tr.
+- [[54](#page--1-11)] *Liberation* stands for its cause, Illumination.
+- [[55](#page--1-12)] *Gain* and *loss* stand for future prosperity and adversity.
+- [[56](#page--1-13)] Both at the time when desire arises in him, and also when he is forced to act by it.
+- [[57](#page--1-14)] The activities of the organs etc. are the media for the expression of desire. Desire covers the Knowledge of the Self by stimulating these.
+- [[58](#page--1-15)] A variant reading is, '*prajahi hi-enam*, completely renounce this one'.—Tr.

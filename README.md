@@ -9,6 +9,14 @@
 - `qpdf --split-pages book.pdf page-%d.pdf`
 - `uv run marker_single --output_format markdown ./page-133.pdf --output_dir .`
 
+```
+for i in page*.pdf; do
+    uv run marker_single --output_format markdown $i --output_dir .
+done
+```
+
+- Replace <br> with <br/>
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.

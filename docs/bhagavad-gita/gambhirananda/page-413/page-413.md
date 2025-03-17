@@ -1,0 +1,11 @@
+of a cognition involving the idea of existence, or it should be an object of a cognition involving the idea of non-existence.
+
+*Reply*: No, because, by virtue of Its being supersensuous, It is not an object of cognition involving either of the two ideas. Indeed, any object perceivable by the senses, such as pot etc., can be either an object of cognition involving the idea of existence, or it can be an object of cognition involving the idea of non-existence. But this Knowable, being supersensuous and known from the scriptures, which are the sole means of (Its) knowledge, is not, like pot etc., an object of cognition involving either of the two ideas. Therefore It is called neither being nor non-being.
+
+As for your objection that it is contradictory to say, 'It is the Knowable, but it is neither called being nor non-being,'—it is not contradictory; for the Upanisad says, 'That (Brahman) is surely different from the known and, again, It is above the unknown' (Ke. 1.4).
+
+*Objection*: May it not be that even the Upanisad is contradictory in its meaning? May it not be (contradictory) as it is when, after beginning with the topic of a shed for a sacrifice, [\(99\)](#page--1-0) it is said, 'Who indeed knows whether there exists anything in the other world or not!' (Tai. Saṁ. 6.1.1)?
+
+*Reply*: No, since the Upanisad speaking of something that is different from the known and the unknown is meant for establishing an entity that must be realized. [\(100\)](#page--1-1) But, '...whether there exists anything in the other world,' etc. is merely an *arthavāda [\(101\)](#page--1-2)* connected with an injunction.
+
+From reason also it follows that Brahman cannot be expressed by such words as being, non-being, etc. For, every word used for expressing an object, when heard by listeners, makes them understand its meaning through the comprehension of its significance with the help of genus, action, quality and relation; not in any other way, because that is not a matter of experience. To illustrate this: a cow, or a horse, etc. (is comprehended) through

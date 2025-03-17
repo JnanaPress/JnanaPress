@@ -1,0 +1,11 @@
+47. Your right is for action alone, never for the results. Do not become the agent of the results of action. May you not have any inclination for inaction.
+
+*Te*, your; *adhikārah*, right; is *karmani eva*, for action alone, not for steadfastness in Knowledge. Even there, when you are engaged in action, you have *mā kadācana*, never, that is, under no condition whatever; a right *phalesu*, for the results of action—may you not have a hankering for the results of action. Whenever you have a hankering for the fruits of action, you will become the agent of acquiring the results of action. *Mā*, do not; thus *bhūh*, become; *karma-phala-hetuh*, the agent of acquiring the results of action. For when one engages in action by being impelled by thirst for the results of action, then he does become the cause for the production of the results of action. *Mā*, may you not; *astu*, have; *sangah*, an inclination; *akarmani*, for inaction, thinking, 'If the results of work be not desired, what is the need of work which involves pain?'
+
+## योगथ: कु कमिण सं यवा धनय। िसयिसयो: समो भू वा समवं योग उयते॥४८॥
+
+48. By being established in Yog, O Dhanañjaya (Arjuna), undertake actions, casting off attachment and remaining equipoised in success and failure. Equanimity is called Yog.
+
+If action is not to be undertaken by one who is under the impulsion of the fruits of action, how then are they to be undertaken? This is being stated: *Yogsthah*, by becoming established in Yog; O Dhanañjaya, *kuru*, undertake; *karmāni*, actions, for the sake of Bhagavān alone; even there, *tyaktvā*, casting off; *sangam*, attachment, in the form, 'Bhagavān will be pleased with me.' [\(80\)](#page--1-0)
+
+Undertake actions *bhūtvā*, remaining; *samah*, equipoised; *siddhiasiddhyoh*, in success and failure—even in the success characterized by the attainment of Knowledge that arises from the purification of the mind when one performs actions without hankering for the results, and in the failure that arises from its opposite. [\(81\)](#page--1-1) What is that Yog with regard to being established in which it is said,

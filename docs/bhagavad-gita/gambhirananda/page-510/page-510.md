@@ -1,0 +1,11 @@
+- [[186](#page--1-0)] *Pain*, immediate suffering; *sorrow*, grief arising from not having that desired food.
+- [[187](#page--1-1)] *Yāta-yāmam* lit. means 'cooked three hours ago', that which has lost its essence; but here it is translated as 'not properly cooked' to avoid tautology, for the next word *gata-rasam*, too, means lacking in essence.—Tr.
+- [[188](#page--1-2)] See 18. 13-15.—Tr.
+- [[189](#page--1-3)] Kindliness towards all, and also not entertaining any evil thought towards anybody.
+- [[190](#page--1-4)] Or, *maunam* may mean thinking of the Self, the attitude of a meditator. The context being of 'mental austerity', reticence is explained as control of the mind with regard to speech.
+- [[191](#page--1-5)] that is yielding fruits only in this world.
+- [[192](#page--1-6)] During the passage of the sun or any planetary body from one zodiacal sign into another. —V.S.A.
+- [[193](#page--1-7)] '*Om*, That, Existence': '*Om iti brahma, Om* is Brahman' (Tai. 1.8.1); '*Tattvamasi*, Thou art *That*' (Ch. 6.8.7); and '*Sadeva somya idamagra āsīt*, This was *Existence* alone in the beginning, O amiable one' (Ch. 6.2.1)—in these texts Brahman is indicated by the words *Om, tat, sat*.
+- [[194](#page--1-8)] When some defect arises in sacrifice etc., then this is corrected by uttering one of these words—*Om, tat, sat*.
+- [[195](#page--1-9)] In the beginning of creation by Prajāpati.
+- [[196](#page--1-10)] Thus it is established in this chapter that, among persons who are not at all versed in the scriptures, but are possessed of (either of the) three characteristics of *sattva*, (*rajas*) etc., only those shall attain to Liberation who steadfastly resort to *sattva* alone by partaking of *sāttvika* food, (performing *sāttvika* sacrifices) etc. to the exclusion of *rājasika* and *tāmasika* food etc., who destroy any defect that might arise in sacrifice etc. by uttering the names of Brahman, who have fully purified

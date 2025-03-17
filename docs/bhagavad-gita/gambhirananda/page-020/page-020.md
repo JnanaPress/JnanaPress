@@ -1,0 +1,13 @@
+- [[6](#page--1-0)] That is, in His form created according to His will, with the help of his power called Māyā.
+- [[7](#page--1-1)] This is according to the Asṭ, and Gī. Pr.; A.A. omits this word. —Tr.
+- [[8](#page--1-2)] *Power* of maintaining His sovereignty; *Strength*: all accessories helpful in maintaining His Power.
+- [[9](#page--1-3)] Since Bhagavān is ever in possession of the six qualities (Knowledge etc.), therefore, even as an Incarnation He remains unsurpassable.
+- [[10](#page--1-4)] Literally, one who permeates everything.
+- [[11](#page--1-5)] Ā.Ā. omits *mūla* (Primal).—Tr.
+- [[12](#page--1-6)] This is according to Gī. Pr. and Ā.Ā.; Asṭ. omits *iva* (as if).— Tr.
+- [[13](#page--1-7)] *Eternal*: devoid of transformations; *pure*: devoid of a cause; *conscious*: not inert; *free*: free from ignorance, desire, and action.
+- [[14](#page--1-8)] Also known as Krishna-dvaipāyana. There is a Smrti text, 'know Krishna-dvaipāyana, that is Vyāsa, as the Bhagavān Nārāyana', which shows that Vyāsa was an incarnation of Visnu.
+- [[15](#page--1-9)] A Sanskrit verse defines *Bhagavān* thus: 'He is spoken of as Bhaga-vān who is aware of creation and dissolution, future prosperity and adversity, ignorance and Illumination of all beings' (V.P. 6.5.78. Also see p. 141).
+- [[16](#page--1-10)] *Words*: separation of each word from the others; *meanings of words*: determining the meanings by expounding the compound words; *arguments*: meeting objections, and stating one's own conclusions.
+- [[17](#page--1-11)] That is, for absolute Liberation through identity with Brahman.
+- [[18](#page--1-12)] That is, Absorbed in the absolute Brahman, accepting That as the ultimate Goal.

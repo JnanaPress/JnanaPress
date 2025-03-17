@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u090f\u0935\u092e\u0941\u0935\u093e\u093d\u091c\u0941\n\u0928: \u0938\u0902\u092f\u0947 \u0930\u0925\u094b\u092a\u0925 \u0909\u092a\u093e\u093f\u0935\u0936\u0924\u094d\u0964\n\u093f\u0935\u0938\u0943\n\u092f \u0938\u0936\u0930\u0902 \u091a\u093e\u092a\u0902 \u0936\u094b\u0915\u0938\u0902\u093f\u0935\u0928\u092e\u093e\u0928\u0938:\u0965\u096a\u096d\u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          126.703125,
+          108.7646484375
+        ],
+        [
+          432.6970520019531,
+          108.7646484375
+        ],
+        [
+          432.6970520019531,
+          153.70452880859375
+        ],
+        [
+          126.703125,
+          153.70452880859375
+        ]
+      ]
+    },
+    {
+      "title": "FOOTNOTES AND REFERENCES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          188.07421875,
+          261.228515625
+        ],
+        [
+          427.0092468261719,
+          261.228515625
+        ],
+        [
+          427.0092468261719,
+          277.857421875
+        ],
+        [
+          188.07421875,
+          277.857421875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-031"
+}

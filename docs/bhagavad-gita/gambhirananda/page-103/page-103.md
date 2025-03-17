@@ -1,0 +1,11 @@
+- [[41](#page--1-0)] When the Vedic text establishes Brahman as the innermost Self, all the distinctions such as knower, known, and the means of knowledge become sublated. Thus it is reasonable that the Vedic text should be the final authority. Besides, its authority is derived from its being faultless in as much as it has not originated from any human being.
+- [[42](#page--1-1)] Ka. 1.2.19–20. There are slight verbal differences.—Tr.
+- [[43](#page--1-2)] The Asṭ. omits this phrase from the preceding sentence and includes it in this place. The Ā.Ā. has this phrase in both the places.—Tr.
+- [[44](#page--1-3)] For the six kinds of changes see note under verse 2.10.—Tr.
+- [[45](#page--1-4)] This verse has already mentioned 'death' in the first line. If the verb *han*, to kill, is also taken in the sense of killing, then a tautology is unavoidable.—Tr.
+- [[46](#page--1-5)] This is not a question but only an emphatic denial.—Tr.
+- [[47](#page--1-6)] That is, above all injunctions and prohibitions. See 18.16-17. —Tr.
+- [[48](#page--1-7)] The reason for the denial of killing etc. is the changelessness of the Self, and this reason holds good with regard to all actions of the man of realization.—Tr.
+- [[49](#page--1-8)] The Ā.Ā. omits 'viz. the immutability of the Self'.—Tr.
+- [[50](#page--1-9)] Some readings omit this word.—Tr.
+- [[51](#page--1-10)] By *buddhi-vrtti*, modification of the intellect, is meant the transformation of the internal organ into the form of an extension up to an object, along with its past impressions, the senses concerned, etc., like the extension of the light of a lamp illuminating an object. Consciousness reflected on this transformation and remaining indistinguishable from that transformation revealing the object, is called objective knowledge. Thereby, due to ignorance, the Self is imagined to

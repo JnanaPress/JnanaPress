@@ -1,0 +1,11 @@
+being nor non-being.' Although the unreal form is caused by the limiting adjuncts, still, for the comprehension of Its existence it is said, '(It) has hands and feet everywhere', etc., by assuming this as a quality of the Knowable. Thus, as is well known, there is a saying of the people versed in tradition, 'The Transcendental is described with the help of superimposition and its refutation'. Everywhere the hands, feet, etc., which are perceived as limbs of all bodies, perform their duties due to the presence of the power of the Knowable (Brahman). Thus the grounds for the inference of the existence of the Knowable are metaphorically spoken of as *belonging to* the Knowable. The others have to be explained similarly.
+
+That Knowable has hands and feet everywhere. That which has eyes, heads, and mouths everywhere is *sarvatoksi-śiro-mukham*. That which has ears everywhere is *sarvatah- śrutimat*: *śruti* means the organ of hearing; that which has it is *śruti-mat*. *Tisṭhati*, It exists, remains established; *loke*, in the multitude of creatures; *āvrtya*, by pervading; *sarvam*, them all.
+
+With this purpose in view, that as a result of the superimposition of the organs like hands, feet, etc., which are adjuncts, there may not be the misconception that the Knowable is possessed of them (adjuncts), the (next) verse is begun:
+
+## सवियगुणाभासं सवियिवविजतम्। असतं सवभृ चैव िनगु णं गुणभोतृ च॥१४॥
+
+14. Shining through the functions of all the organs, (yet) devoid of all the organs; unattached, and verily the supporter of all; without quality, and the perceiver of qualities;
+
+*Sarvendriya-guna-ābhāsam*, shining through the functions of all the organs: By the use of the words *all the organs* are understood ears etc., known as the sense-organs and motor-organs, as also the internal organs—the intellect and the mind, for they are equally the limiting adjuncts of the Knowable. Besides, the organs of hearing etc. become the limiting adjuncts from the very fact of the internal organ becoming so. Hence, the Knowable gets expressed through

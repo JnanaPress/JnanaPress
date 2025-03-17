@@ -1,0 +1,7 @@
+- [[38](#page--1-0)] It only reveals the state of Liberation that is an achieved fact. (According to Advaitism, Liberation consists in the removal of ignorance by Illumination. Nothing new is produced thereby.— Tr.)
+- [[39](#page--1-1)] Other disciplines such as control of the mind, body, etc. Śankarācārya's own words in the Commentary are *evamādinā*, after which Asṭ. puts a full stop, and agreeing with this, Ā.G. says that the word *viddhi* (know) is to be connected with *evamādinā*. Hence this translation. Alternatively, those words have to be taken with *praśrayena*. Then the meaning will be, 'Being pleased with such and other forms of humility...'—Tr.
+- [[40](#page--1-2)] Asṭ. reads *pāpa-samudram*, (ocean of sin) in place of *pāpam*. —Tr.
+- [[41](#page--1-3)] *Here*, in the scriptures imparting spiritual instructions.
+- [[42](#page--1-4)] Knowledge destroys ignorance, and thereby the idea of agentship is eradicated. This in turn makes actions impossible.
+- [[43](#page--1-5)]If the body were to die just with the dawn of Knowledge, imparting of Knowledge by enlightened persons would be impossible, and thus there would be no teacher to transmit Knowledge!
+- [[44](#page--1-6)] Asṭ. adds here: *guruvākya-śāstresu aviśvāsavān*, who has no faith in the instructions of the teacher and the scriptures.—Tr.

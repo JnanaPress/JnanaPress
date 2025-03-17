@@ -1,0 +1,11 @@
+*Objection*: Well, is not the threefold relinquishment of *actions*, also called *sannyāsa*, under discussion? As regards this, the renunciation based on *tamas* and *rajas* have been stated. Why is the relinquishment of *attachment* and (desire for their) *results* spoken of here as the third? This is like somebody saying, 'Three Brāhmanas have come. Of them two are versed in the six auxiliaries [\(201\)](#page--1-0) of the Vedas; the third is a Ksatriya!'
+
+*Reply*: This is not wrong, for this is meant as a eulogy on the basis of the common factor of renunciation. Between renunciation of *actions* and renunciation of *hankering for results*, there is, indeed, the similarity of the fact of renunciation. While on this subject, by condemning 'renunciation of actions' on account of its being based on *rajas* and *tamas*, the 'renunciation of desire for results of actions' is being praised on account of its being based on *sattva*, by saying, 'that renunciation is considered to be based on *sattva*.'
+
+The internal organ of a person who is qualified for rites and duties, who performs the *nityakarmas* by giving up attachment and hankering for results, becomes pure on account of its being untainted by attachment to results etc. and refined by the *nityakarmas*. When it is pure and tranquil, it becomes capable of contemplating on the Self. Since, for that very person whose internal organ has become purified by performing the *nityakarmas* and who has become ready for the knowledge of the Self, the process by which he can become steadfast in it has to be stated, therefore the Bhagavān says:
+
+## न ेयकु शलं कम कु शले नानुषजते। यागी सवसमािवो मेधावी िछसंशय:॥१०॥
+
+10. The man of renunciation who has become imbued with *sattva*, who is wise and freed from doubts, does not hate unbefitting action, nor does he become attached to befitting activity.
+
+*Na dvesṭi*, he does not hate; *akuśalam*, unbefitting; *karma*, action, rites and duties meant for desired results—with the idea, 'What is the usefulness of this which is a cause of transmigration through fresh

@@ -1,0 +1,11 @@
+Or, *kārya* means the sixteen [\(110\)](#page--1-0) modifications, and *kārana* means the seven [\(111\)](#page--1-1) transformations of Nature. They themselves are called effect and cause. So far as the agentship with regard to these is concerned Nature is said to be the cause, because of the same reason of being their originator.
+
+As to how the Ātman can be the cause of mundane existence is being stated: *Purusah*, the Ātman, the empirical being, the knower of the field—all these are synonymous; is the *hetuh*, cause; *bhoktrtve*, so far as enjoyership, the fact of being the perceiver; *sukhaduhkhānām*, of happiness and sorrow—which are objects of experience, is concerned.
+
+How, again, is it asserted with respect to Nature and Ātman that, they are the causes of mundane existence by virtue of this fact of their (respectively) being the source of body and organs, and the perceiver of happiness and sorrow?
+
+As to this the answer is being stated: How can there be any mundane existence if there be no modification of Nature in the form of body and organs, happiness and sorrow, and cause and effect, and there be no Ātman, the conscious being, to experience them? On the other hand, there can be mundane existence when there is a contact, in the form of ignorance, between Nature—modified in the form of body and organs, and cause and effect as an object of experience and the Ātman opposed to it as the experiencer. Therefore it was reasonable to have said that, Nature and Ātman become the cause of mundane existence by (respectively) becoming the originators of the body and organs, and the perceiver of happiness and sorrow.
+
+What again is this that is called worldly existence? Worldly existence consists in the experience of happiness and sorrow; and the state of mundane existence of the Ātman consists in its being the experiencer of happiness and sorrow.
+
+It has been asserted that the state of mundane existence of the Ātman consists in its being the experiencer of happiness and sorrow.

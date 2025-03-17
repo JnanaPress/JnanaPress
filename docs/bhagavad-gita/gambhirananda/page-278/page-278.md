@@ -1,0 +1,9 @@
+the whole Universe; *anīyāṁsam*, subtler; *anoh*, than the subtle; *dhātāram*, the Ordainer; *sarvasya*, of everything—one who grants the fruits of actions, in all their varieties, individually to all creatures; *acintya-rūpam*, who is of inconceivable form—His form, though always existing, defies being conceived of by anybody; *ādityavarnam*, who is effulgent like the sun, who is manifest as eternal Consciousness like the effulgence of the sun; and *parastāt*, beyond; *tamasah*, darkness—beyond the darkness of delusion in the form of ignorance—(he attains the supreme Person). This verse is to be connected with the earlier itself thus: 'by meditating (on Him) ... he attains Him.'
+
+Further,
+
+याणकाले मनसाऽचलेन भया युतो योगबलेन चैव। ुवोमये ाणमावेय सयक् स तं परं पुषमुपैित िदयम्॥१०॥
+
+10. At the time of death, having fully fixed the Prana (vital force) between the eyebrows with an unswerving mind, and being imbued with devotion as also the strength of concentration, he reaches that resplendent supreme Person.
+
+*Prayāna-kāle*, at the time of death; after first bringing the mind under control in the lotus of the heart, and then lifting up the vital force—through the nerve going upward—by gradually gaining control over (the rudiments of nature such as) earth etc. [\(113\)](#page--1-0) and after that, *samyak āveśya*, having fully fixed; *prānam*, the Prāna (vital force); *madhye*, between; the *bhruvoh*, eye-brows, without losing attention; *acalena manasā*, with an unwavering mind; he, the yogī possessed of such wisdom, *yuktah*, imbued; *bhaktyā*, with devotion, deep love; *ca eva*, as also; *Yog-balena*, [\(114\)](#page--1-1) with the strength of concentration i.e. imbued with that (strength) also, consisting in steadfastness of the mind arising from accumulation of impressions resulting from spiritual absorption; *upaiti*, reaches; *tam*, that; *divyam*, resplendent;

@@ -1,0 +1,11 @@
+*Reply*: By saying that any defect imagined through ignorance does not affect the supreme Reality which is the substratum of that (imagination). In accordance with this, an illustration was cited that a desert is not made muddy by water in a mirage. Even the defect of the possibility of non-existence of the mundane state, consequent on the non-existence of individual Ātman(s), stands refuted by the explanation that the mundane state and the individual Ātman(s) are imagined through ignorance.
+
+*Objection*: The defect of mundane existence in the knower of the field consists in his being possessed of ignorance. And sorrowfulness etc. which are its products are matters of direct experience.
+
+*Reply*: No, since whatever is known is an attribute of the field, therefore the knower—the knower of the field—cannot reasonably be tainted by the defects arising from it. Whatsoever blemish—not existing in the knower of the field—you attribute to It is logically an object of experience, and hence it is verily a quality of the field; not the quality of the knower of the field. Nor does the knower of the field become tainted thereby, because of knower cannot possibly have any conjunction with an object of knowledge. Should there be a conjunction, then there will be no possibility at all of its (the latter's) becoming a knowable. Oh! Sir, if being ignorant, sorrowful, etc. be qualities of the Self, how is it that they are directly perceived? Or how can they be qualities of the Knower of the field? If the conclusion be that all that is known constitutes the field, and that the one who knows is verily the knower of the field, then, to say that being ignorant, sorrowful, etc. are the qualities of the knower of the field and that they are directly perceived is a contradictory statement having only ignorance as its basis.
+
+Here, (the opponent) asks: To whom does ignorance belong?
+
+(The answer is that) it belongs verily to him by whom it is experienced!
+
+*Objection*: In whom is it perceived?

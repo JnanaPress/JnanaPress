@@ -1,0 +1,11 @@
+[[89](#page--1-0)]Ś. takes the word *śruti* in the sense of the Vedas.—Tr.
+
+- [[90](#page--1-1)] By the word *samādhi* is meant the enlightenment arising from discrimination, which has been spoken of in the commentary on the previous verse. The steadfastness which the monks have in that enlightenment is called steadfastness in Knowledge. Or the phrase may mean, 'the enlightenment achieved through meditation on the Self', that is, the realization of the supreme Goal.
+- [[91](#page--1-2)] Even while he is in the stage of celibacy.
+- [[92](#page--1-3)] There are two kinds of *sannyāsa*—*vidvat* (renunciation that naturally follows Realization), and *vividisā*, formal renunciation for undertaking the disciplines which lead to that Realization. According to Ā.G. the characteristics presented in this and the following verses describe not only the *vidvat-sannyāsin*, but are also meant as disciplines for the *vividisā-sannyāsin*.—Tr.
+- [[93](#page--1-4)] A lunatic is one who has lost his power of discrimination, and a drunkard is one who has that power but ignores it.
+- [[94](#page--1-5)] Śankarācārya identifies the monk with the man of realization.
+- [[95](#page--1-6)] Fever, headache, etc. are physical (*ādhyātmika*) sorrows; sorrows caused by tigers, snakes, etc. are environmental (*ādhibhautika*) sorrows; those caused by cyclones, floods, etc. are supernatural (*ādhidaivika*). Similarly, delights also may be experienced on the three planes.
+- [[96](#page--1-7)] 'Fully' suggests absolute firmness in withdrawal, and 'withdraws' suggests full control over the organs.
+- [[97](#page--1-8)] That is, so far as the phenomenal world is concerned.
+- [[98](#page--1-9)] If it be held that attachment cannot be eliminated without the knowledge of Brahman, and at the same time that the knowledge of Brahman cannot arise until attachment is eradicated, then we get involved in a vicious circle. In answer it is said that gross attachments are eliminated through discrimination which restrains the senses from being

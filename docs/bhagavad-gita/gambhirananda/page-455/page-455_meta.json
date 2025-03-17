@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u0915\u093e\u0936\u0902 \u091a \u0935\u0943\u093f\u0902 \u091a \u092e\u094b\u0939\u092e\u0947\u0935 \u091a \u092a\u093e\u0921\u0935\u0964\n\u0928 \u0947\u093f \u0938\u0935\u0943\n\u093e\u093f\u0928 \u0928 \u093f\u0928\u0935\u0943\n\u093e\u093f\u0928 \u0915\u093e\u093f\u0924\u0965\u0968\u0968\u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          126.5537109375,
+          248.2734375
+        ],
+        [
+          463.1179504394531,
+          248.2734375
+        ],
+        [
+          463.1179504394531,
+          295.453125
+        ],
+        [
+          126.5537109375,
+          295.453125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          141
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-455"
+}

@@ -1,0 +1,9 @@
+superior to action also stands stated as a matter of course. In that case, Arjuna's [\(13\)](#page--1-0) question, 'why then do you urge me to horrible action?', cannot in any way be logical. Nor can it be reasonably imagined that the Bhagavān had said earlier that wisdom which is superior should not be practised by Arjuna alone, from which could arise the question, 'If it be Your opinion that Wisdom is superior to action…?' [\(14\)](#page--1-1)
+
+Again, had it been stated earlier by the Bhagavān that Knowledge and actions are to be pursued by different persons since they, owing to mutual contradiction, cannot be simultaneously pursued by one and the same person, then only would this question, 'If it be Your opinion,' etc. become logical. Even if it be supposed that the question has been put owing to non-discrimination, still, the Bhagavān's reply that they (Knowledge and action) are to be pursued by different persons does not become rational. Besides, it should not be imagined that the Bhagavān's answer is given out of His misunderstanding. And from these considerations, since the Bhagavān's answer is seen to be that the steadfastness in Knowledge and in action are meant for different persons, therefore it follows that combination of Knowledge and action is illogical. Hence, the well-ascertained conclusion in the *Gītā* and all the Upanisads is that Liberation follows from Knowledge alone.
+
+Further, if it were possible to combine both of them, then the prayer, 'Tell me for certain one of these,' with regard to either Knowledge or action, becomes inconsistent. And by His emphatic statement, 'Therefore you undertake action itself' (4.15), the Bhagavān will show the impossibility for Arjuna to be steadfast in Knowledge.
+
+*Arjuna said:*
+
+यायसी चेकमणते मता बुिजनादन। तिकं कमिण घोरे म िनयोजयिस के शव॥१॥

@@ -1,0 +1,11 @@
+regress. If the knower and the relation between the knower and the thing known be cognizable, then a separate cognizer has to be imagined. Of him, again, another knower has to be imagined; of him again a separate cognizer would have to be imagined! Thus, an infinite regress becomes unavoidable.
+
+Again, whether the knowable be ignorance or anything else, a knowable is verily a knowable; similarly, even a knower is surely a knower; he does not become a knowable. And when this is so, [\(92\)](#page--1-0) nothing of the cognizer—the knower of the field—is tainted by such defects as ignorance, sorrowfulness, etc.
+
+*Objection*: May it not be said that the (Self's) defect is surely this, that the field, which is full of defects, is cognized (by It)?
+
+*Reply*: No, because it is the Immutable, which is consciousness, by nature, that is figuratively spoken of as the cognizer. It is just like figuratively attributing the act of heating to fire merely because of its (natural) heat. Just as it has been shown here by the Bhagavān Himself that identification with action, cause and effect are absent in the Self, and that action, cause, etc. are figuratively attributed to the Self owing to their having been superimposed (on It) through ignorance, so has it been shown by Him in various places: 'He who thinks of this One as the killer...' (2.19), 'While actions are being done in every way by the *gunas* of Nature' (3.27), 'The Omnipresent neither accepts anybody's sin...' (5.15), etc. It has been explained by us, too, in that very way, and in the following contexts also we shall explain accordingly.
+
+*Objection*: Well, in that case, if identification with action, cause and effect be naturally absent in the Self, and if they be superimpositions through ignorance, then it amounts to this that actions are meant for being undertaken only by the ignorant, not by the enlightened.
+
+*Reply*: It is true that it comes to this. This very fact we shall explain under the verse, 'Since it is not possible for one who holds on to a body...' (18.11). And, in the context dealing with the

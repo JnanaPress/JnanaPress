@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Arjuna said:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          76.3505859375,
+          672.0402221679688
+        ],
+        [
+          181.388671875,
+          672.0402221679688
+        ],
+        [
+          181.388671875,
+          692.2265625
+        ],
+        [
+          76.3505859375,
+          692.2265625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-198"
+}

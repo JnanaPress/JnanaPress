@@ -1,0 +1,17 @@
+- [[130](#page--1-0)] The distinction of Knowledge from meditation that was being discussed.
+- [[131](#page--1-1)] The word *rājā* means a king, or figuratively, the greatest; or, derived from the root *rāj*, to shine, it may mean shining.—Tr.
+- [[132](#page--1-2)] Asṭ. omits the word *sādhana*, disciplines.—Tr.
+- [[133](#page--1-3)] *Subject-matter*—that the Self, which has no contact with anything, is the substratum of creation, continuance and dissolution.
+- [[134](#page--1-4)] During creation, continuance and dissolution
+- [[135](#page--1-5)] *As before*: as in previous cycles of creation. Cf.: *Sūryā-candramasau dhātā yathā pūrvam akalpayat, divam ca prthivīm cāntariksamatho svah. (*rg. 10.190.3; Tai. Ār. 10.1.14)—Tr.
+- [[136](#page--1-6)] See under 8.19, introductory Commentary.—Tr.
+- [[137](#page--1-7)] This is according to Śankarācārya's commentary on this verse. Ā.G. interprets *kevala* as non-dual.—Tr.
+- [[138](#page--1-8)] During creation, continuance and dissolution.
+- [[139](#page--1-9)] Asṭ. omits this portion. —Tr
+- [[140](#page--1-10)] *Supreme heaven*, the heart; that is He is inscrutable.
+- [[141](#page--1-11)] *Besides*, in the next birth...
+- [[142](#page--1-12)] The habit to cut, break, drink, eat, etc. is characteristic of fiends. The habit of stealing others' wealth, etc. is characteristic of demons.
+- [[143](#page--1-13)] *Glorifying* through the study of the Vedānta and repetition of *Om.*
+- [[144](#page--1-14)] *Vows* such as celibacy.
+- [[145](#page--1-15)] Virtuous actions.
+- [[146](#page--1-16)] Brahman, which has to be known, is realizable through *Om*, regarding which fact the three Vedas are the authority. The *ca*

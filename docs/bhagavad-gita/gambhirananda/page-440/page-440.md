@@ -1,0 +1,12 @@
+- [[95](#page--1-0)] Birth etc. are perceivable events, and as such are not miseries in themselves.
+- [[96](#page--1-1)] See fn. on p. 193.—Tr.
+- [[97](#page--1-2)] 'That which has no (*a*) beginning (*ādi*) is *anādi*.' *Matup* is used to denote possession. Since the idea of possession is already implied in *anādi*, therefore *matup*, if added after it, becomes redundant.
+- [[98](#page--1-3)] The Commentator accepts *anādimat* as a *nañ-tatpurusa* compound. If, however, the *Bahuvrīhi* is insisted on, then the *mat* after *anādi* should be taken as completing the number of syllables needed for versification. So, *mat* need not be compounded with *param*.
+- [[99](#page--1-4)] Cf. '*Prācīnavamśam karoti*, he constructs (that is shall construct) (the sacrificial shed) with its supporting beam turned east-ward' (Tai. Saṁ.; also see *Sanskrit-English Dictionary*, Monier Williams).—Tr.
+- [[100](#page--1-5)] The Upanisadic text is not to be rejected on the ground that it is paradoxical, for it is meant to present Brahman as identical with one's own inmost Self.
+- [[101](#page--1-6)] See note on p. 46. Here, the passage, '…whether there exists…,' etc. is to be interpreted as an *arthavāda* emphasizing the need of raising a shed, irrespective of any other consideration.—Tr.
+- [[102](#page--1-7)] This is an *arthavāda* (see note on p. 411), which is not to be taken literally but interpreted in accordance with the context.
+- [[103](#page--1-8)] A variant reading is *dhisṭhitam*.—Tr.
+- [[104](#page--1-9)] Cf. 15.16-18.
+- [[105](#page--1-10)] *Prakrti* is sometimes translated as matter, and *purusa* as spirit.—Tr.
+- [[106](#page--1-11)] *Tatpurusa*: Name of a class of compounds in which the first member determines the sense of the other members, or in

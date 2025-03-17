@@ -1,0 +1,11 @@
+of growth, which is opposed to decay, is also denied by the word *purānah*, ancient. A thing that grows by the addition of some parts is said to increase and is also said to be new. But this Self was fresh even in the past due to Its partlessness. Thus It is *purānah*, that is, It does not grow. So also, *na hanyate*, It is not killed, It does not get transformed; even when *śarīre*, the body; *hanyamāne*, is killed, transformed. The verb 'to kill' has to be understood here in the sense of transformation, so that a tautology [\(45\)](#page--1-0) may be avoided.
+
+In this *mantra* the six kinds of transformations, the material changes seen in the world, are denied in the Self. The meaning of the sentence is that the Self is devoid of all kinds of changes. Since this is so, therefore 'both of them do not know'—this is how the present *mantra* is connected to the earlier *mantra*.
+
+## वेदािवनािशनं िनयं य एनमजमययम्। कथं स पुष: पाथ कं घातयित हित कम्॥२१॥
+
+21. O Pārtha, he who knows this One as indestructible, eternal, birthless, and undecaying, how and whom does that person kill, or whom does he cause to be killed! [\(46\)](#page--1-1)
+
+In the *mantra*, 'He who thinks of this One as the killer,' having declared that (the Self) does not become the agent or the object of the act of killing, and then in the *mantra*, 'Never is this One born,' etc., having stated the reasons for (Its) changelessness, the Bhagavān sums up the purport of what was declared above: He who knows this One as indestructible, etc.
+
+*Yah*, he who; *veda*, knows—*yah* is to be thus connected with *veda*—; *enam*, this One, possessing the characteristics stated in the earlier *mantra*; as *avināśinam*, indestructible, devoid of the final change of state; *nityam*, eternal, devoid of transformation; *ajam*, birthless; and *avyayam*, undecaying; *katham*, how, in what way; (and *kam*, whom;) does *sah*, that man of realization; *purusah*, the person who is himself an authority; [\(47\)](#page--1-2) *hanti*, kill, undertake the act of killing; or how *ghātayati*, does he cause (others) to be killed, (how does he) instigate a killer! The intention is to deny both (the acts) by saying,

@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Sanjaya said:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          76.798828125,
+          466.3828125
+        ],
+        [
+          195.5830078125,
+          466.3828125
+        ],
+        [
+          195.5830078125,
+          485.9127197265625
+        ],
+        [
+          76.798828125,
+          485.9127197265625
+        ]
+      ]
+    },
+    {
+      "title": "\u0907\u092f\u0939\u0902 \u0935\u093e\u0938\u0941\u0926\u0947\u0935\u092f \u092a\u093e\u0925\u092f \u091a \u092e\u0939\u093e\u092e\u0928:\u0964\n\u0938\u0902\u0935\u093e\u0926\u093f\u092e\u092e\u092e\u094c\u0937\u092e\u0924\n\u0941 \u0902 \u0930\u094b\u092e\u0939\u0923\u092e\u094d\u0965\u096d\u096a\u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          127.1513671875,
+          496.93359375
+        ],
+        [
+          401.8410339355469,
+          496.93359375
+        ],
+        [
+          401.8410339355469,
+          545.4115905761719
+        ],
+        [
+          127.1513671875,
+          545.4115905761719
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-588"
+}

@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u0938\u0941\u0916\u0902 \u0926:\n\u0941\n\u0916\u0902 \u092d\u0935\u094b\u093d\u092d\u093e\u0935\u094b \u092d\u092f\u0902 \u091a\u093e\u092d\u092f\u092e\u0947\u0935 \u091a\u0965\u096a\u0965\n\u0905\u093f\u0939\u0938\u0902 \u093e \u0938\u092e\u0924\u093e \u0924\u0941\u093f\u0924\u092a\u094b \u0926\u093e\u0928\u0902 \u092f\u0936\u094b\u093d\u092f\u0936:\u0964\n\u092d\u0935\u093f\u0924 \u092d\u093e\u0935\u093e \u092d\u0942\u0924\u093e\u0928 \u092e \u090f\u0935 \u092a\u0943\u0925\u093f\u0935\u0927\u093e:\u0965\u096b\u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          126.10546875,
+          70.189453125
+        ],
+        [
+          439.27734375,
+          70.189453125
+        ],
+        [
+          439.27734375,
+          149.20452880859375
+        ],
+        [
+          126.10546875,
+          149.20452880859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          154
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-319"
+}

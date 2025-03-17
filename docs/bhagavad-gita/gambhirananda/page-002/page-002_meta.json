@@ -1,0 +1,57 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Table of Contents",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          180.0439453125,
+          71.68798828125
+        ],
+        [
+          436.88397216796875,
+          71.68798828125
+        ],
+        [
+          436.88397216796875,
+          108.474609375
+        ],
+        [
+          180.0439453125,
+          108.474609375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-002"
+}

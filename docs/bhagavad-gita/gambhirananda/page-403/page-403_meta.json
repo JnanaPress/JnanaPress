@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u0924\u0947\u0902 \u092f\u091a \u092f\u093e\u0926\u0915\n\u0943\n\u094d \u091a \u092f\u093f\u0915\u093e\u093f\u0930 \u092f\u0924 \u092f\u0924\u094d\u0964\n\u0938 \u091a \u092f\u094b \u092f\u092d\u093e\u0935 \u0924\u0938\u092e\u093e\u0938\u0947\u0928 \u092e\u0947 \u0936\u0943\u0923\u0941\u0965\u0969\u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          125.3583984375,
+          249.43359375
+        ],
+        [
+          441.62664794921875,
+          249.43359375
+        ],
+        [
+          441.62664794921875,
+          296.2045593261719
+        ],
+        [
+          125.3583984375,
+          296.2045593261719
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Handwriting",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-403"
+}

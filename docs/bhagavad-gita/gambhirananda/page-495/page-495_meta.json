@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CHAPTER 17\nTHE THREE KINDS OF FAITH",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          96.9697265625,
+          96.1962890625
+        ],
+        [
+          521.4987182617188,
+          96.1962890625
+        ],
+        [
+          521.4987182617188,
+          183.7880859375
+        ],
+        [
+          96.9697265625,
+          183.7880859375
+        ]
+      ]
+    },
+    {
+      "title": "\u092f\u0947 \u0936\u093e\u093f\u0935\u093f\u0927\u092e\u0941\n\u0938\u0943\n\u092f \u092f\u091c\u0924\u0947 \u092f\u093e\u093f\u0935\u0924\u093e:\u0964\n\u0924\u0947\u0937 \u093f\u0928\u093e \u0924\u0941 \u0915\u093e \u0915\u0943\n\u0923 \u0938\u0935\u092e\u093e\u0939\u094b \u0930\u091c\u0924\u092e:\u0965\u0967\u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          126.703125,
+          353.84765625
+        ],
+        [
+          470.609619140625,
+          353.84765625
+        ],
+        [
+          470.609619140625,
+          400.7005310058594
+        ],
+        [
+          126.703125,
+          400.7005310058594
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          138
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-495"
+}

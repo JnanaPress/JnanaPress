@@ -1,0 +1,11 @@
+was spoken of in the earlier chapters. The word *tu* (however) is used for pointing out a distinction. [\(130\)](#page--1-0)
+
+(I shall speak) of this itself—what is that?—(it is) *guhyatamam*, the highest secret; and is *jñānam*, Knowledge, complete Knowledge —nothing else—, the direct means to Liberation, as stated in the Upanisads and the Smrtis, 'Vāsudeva is all' (7.19), 'the Self verily is all this' (Ch. 7.25.2), 'One only, without a second' (op. cit. 6.2.1), etc., and also as stated in such Upanisadic texts as, 'On the other hand, those who understand otherwise than this come under a different ruler, and belong to the worlds that are subject to decay' (op. cit. 7.25.2). (Knowledge) of what kind? It is *vijñāna-sahitam*, combined with experience; *jñātva*, by realizing, by attaining; *yat*, which Knowledge; *moksyase*, you shall be free; *aśubhāt*, from evil, from worldly bondage.
+
+## राजिवा राजगुं पिविमदमु मम्। यावगमं धयं सुसुखं कतु मययम्॥२॥
+
+2. This is the Sovereign Knowledge, the Sovereign Profundity, the best sanctifier; directly realizable, righteous, very easy to practise and imperishable.
+
+And that is *rāja-vidyā*, the Sovereign Knowledge, the king among sciences because of the abundance of its radiance. Indeed, this knowledge of Brahman shines most brilliantly among all kinds of learning. [\(131\)](#page--1-1) So also, *idam*, this; is *rāja-guhyam*, the Sovereign Profundity, the kind among profundities; *uttamam*, the best; *pavitram*, sanctifier. This knowledge of Brahman, which sanctifies all things that purify, is the greatest. Since it reduces to ashes in a moment (the results of) all actions—righteous, unrighteous and others together with their roots, accumulated over many thousands of births, therefore, what to speak of its sanctifying power! Besides, it is *pratyaksavagamam*, directly realizable, directly perceivable like happiness etc.
+
+Even though possessed of many qualities, a thing may be noticed to be contrary to righteousness. The knowledge of the Self is

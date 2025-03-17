@@ -1,0 +1,5 @@
+- [[59](#page--1-0)] Five sense-organs: of vision, hearing, taste, smell and touch; five motor-organs: hands, feet, speech, and for excretion and generation—these latter five are also understood in the present context.
+- [[60](#page--1-1)] *Sankalpa*: will, volition, intention, thought, reflection, imagination, etc. *vikalpa*: doubt, uncertainty, indecision, suspicion, error, etc.—V.S.A.
+- [[61](#page--1-2)] The portion, 'with regard to which Dweller ... the supreme Self,' is translated from Asṭ. which has the same reading here as the Ā.Ā. The Gī. Pr. makes 'the "abode'' counting from the organs' an adjective of 'the Dweller in the body', and omits the portion, 'is *tu*, however ... *buddheh*, to the intellect'.—Tr.
+- [[62](#page--1-3)] The Ast, introduces this verse with, '*Tatah kim*, what follows from that?'—Tr.
+- [[63](#page--1-4)] *Understanding*...*thus*: that desires can be conquered through the knowledge of the Self.

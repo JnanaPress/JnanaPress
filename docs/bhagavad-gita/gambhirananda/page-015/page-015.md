@@ -1,0 +1,9 @@
+## **ॐ B H A G A V A D G Ī T Ā INVOCATION & INTRODUCTION**
+
+## ॐ नारायण: परोऽयतादडमयतसभवम् । अडयातिवमे लोका: सतीपा च मेिदनी॥
+
+*Om*! Nārāyana is higher than the Unmanifest. The (Cosmic) Egg comes out of the Unmanifest. All these worlds, including the earth with its seven islands, are in the Egg. [\(1\)](#page--1-0)
+
+After projecting this world, and desiring to ensure its stability, He, the Bhagavān, first created the Prajāpatis, [\(2\)](#page--1-1) namely Marīci and others, and made them follow the dharma (virtuous path) characterized by action (rites and duties) [\(3\)](#page--1-2) as revealed in the Vedas. And then, having created others, namely, Sanaka, Sanandana, etc., He made them espouse the dharma characterized by renunciation and distinguished by Knowledge and detachment. [\(4\)](#page--1-3) For, the dharma revealed in the Vedas is of two kinds—one characterized by action, and the other by renunciation. That dharma, which is meant for the stability of the world and is the direct means to both secular and spiritual welfare of living beings, continues to be followed by Brāhmanas and others belonging to different castes and stages of life, [\(5\)](#page--1-4) who aspire after the highest.
+
+When, after a long time, dharma became overpowered by adharma (vice), and adharma increased owing to the deterioration of discriminative knowledge, caused by the rise of desire in the minds of the followers (of this dharma), then, as tradition goes, Visnu, called Nārāyana, the Prime Mover, took birth—as a part [\(6\)](#page--1-5) of Himself —as Krishna, [\(7\)](#page--1-6) the son of Devaki by Vasudeva, for the protection of

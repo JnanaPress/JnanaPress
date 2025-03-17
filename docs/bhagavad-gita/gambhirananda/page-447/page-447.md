@@ -1,0 +1,9 @@
+## त सवं िनमलवाकाशकमनामयम्। सुखसेन बाित ानसेन चानघ॥६॥
+
+6. Among them, *sattva*, being pure, [\(134\)](#page--1-0) is an illuminator and is harmless. O sinless one, it binds through attachment to happiness and attachment to knowledge.
+
+*Tatra*, among them, among *sattva* etc.;—the characteristics of *sattva* itself is being stated first—*sattva*, *nirmalatvāt*, being pure like a crystal stone; is *prakāśakam*, an illuminator; and *anāmayam*, harmless. *Anagha*, O sinless one; *badhnāti*, it binds. How? *Sukhasangena*, through attachment to happiness. Bringing about the association of happiness, which is the object, with the Self, which is the subject, in the form of the idea, 'I am happy', is certainly an unreal contact with happiness. This as such is nescience, for the quality of an object cannot belong to a subject. And it has been said by the Bhagavān that all the qualities, from 'desire' to 'fortitude' (see 13.6), are, indeed, of the field, which is the object. Therefore, it is certainly through nescience, which is an attribute [\(135\)](#page--1-1) of the Self and has the characteristics of non-discrimination between object and subject, that *sattva* apparently brings about the association with happiness, which is not the Self. It makes (the Self) attached, as it were; [\(136\)](#page--1-2) makes one not possessed of happiness as though possessed of it!
+
+Similarly, it binds also *Jñāna-sangena*, through attachment to knowledge. [\(137\)](#page--1-3) Because of its concomitance with happiness, knowledge here is an attribute of the internal organ, the field, but not of the Self. Were it an attribute [\(138\)](#page--1-4) of the Self, there could be no *contact* (between it and the Self), and 'bondage' would become illogical. Association with knowledge etc. should be understood in the same sense as with happiness.
+
+रजो रागामकं िवि तृ णाससमुवम्। तिबाित कौतेय कमसेन देिहनम्॥७॥

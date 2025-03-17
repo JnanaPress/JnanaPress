@@ -1,0 +1,11 @@
+## यय नाहकं ृ तो भावो बुियय न िलयते। हवाऽिप स इमलोका हित न िनबयते॥१७॥
+
+17. He who has not the feeling of egoism, whose intellect is not tainted, he does not kill, nor does he become bound—even by killing these creatures!
+
+*Yasya*, he who, the person whose intellect is refined by the instructions of the scriptures and the teachers, and reason; who has *na*, not; *ahankrtah bhāvah*, the feeling of egoism, in whom does not occur the notion in the form, 'I am the agent'; that is, he who sees thus: 'These five, viz. locus etc. (14), imagined in the Self through ignorance, are verily the agents of all actions; not I. But I am the absolute, unchanging witness of their functions, "Without vital force, without mind, pure, superior to the (other) superior immutable (Māyā)" (Mu. 2.1.1)'; *yasya*, whose; *buddhih*, intellect, the internal organ, which is the limiting adjunct of the Self; is *na*, not; *lipyate*, tainted, does not become regretful thinking, 'I have done this; as a result, I shall enter into hell'; whose intellect does not become thus tainted, he has a good intellect and he perceives (rightly). *Api*, even; *hatvā*, by killing; *imān*, these; *lokān*, creatures, that is all living beings; *sah* he; does not *hanti*, kill—he does not perform the act of killing; nor does he *nibadhyate*, become bound, nor even does he become connected with its result, the fruit of an unrighteous action.
+
+*Objection*: Even if this be a eulogy, is it not contradictory to say, 'even by killing he does not kill'?
+
+*Reply*: This defect does not arise; for this becomes logical from the ordinary and the enlightened points of view. By adopting the empirical point of view (which consists in thinking), 'I am the slayer', by identifying the body with the Self, the Bhagavān says, 'even by killing'; and, by taking His stand on the supreme Truth as explained above (the Bhagavān says), 'he does not kill, nor does he become bound'. Thus both these surely become reasonable.
+
+*Objection*: Is it not that the Self certainly does act in *combination* with the locus etc., which conclusion follows from the use of the word

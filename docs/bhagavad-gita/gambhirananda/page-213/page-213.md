@@ -1,0 +1,11 @@
+20. A knower of Brahman, who is established in Brahman, should have his intellect steady and should not be deluded. He should not get delighted by getting what is desirable, nor become dejected by getting what is undesirable.
+
+*Brahmavit*, a knower of Brahman, as described; *sthitah*, who is established; *brahmani* in Brahman—who is not a performer of actions, i.e. one who has renounced all actions; *sthira-buddhih*, should have his intellect steady—the man of steady intellect is one who has the unwavering, firm conviction of the existence of the one and the same taintless Self in all beings; and further, *asammūḍhah*, he should not be deluded, he should be free from delusion. *Na prahrsyet*, he should not get delighted; *prāpya*, by getting; *priyam*, what is desirable; *na ca udvijet*, and surely, neither should he become dejected; *prāpya*, by getting; *apriyam*, what is undesirable because the acquisition of the desirable and the undesirable are causes of [\(63\)](#page--1-0) happiness and sorrow for one who considers the body as the Self; not for the one who has realized the absolute Self, since in his case there can be no acquisition of desirable and undesirable objects.
+
+Further, the one who is established in Brahman—
+
+## बापशवसतामा िवदयामिन यसुखम्। स योगयुतामा सुखमयमुते॥२१॥
+
+21. With his heart unattached to external objects, he gets the bliss that is in the Self. With his heart absorbed in meditation on Brahman, he acquires undecaying Bliss.
+
+*Asakta-ātmā*, with his heart, internal organ, unattached, *bāhyasparśesu*, to external objects—*sparśāh* means objects that are contacted, viz. sound etc.; *bāhya-sparśāh* means those things which are external (*bāhya*) and are objects of contact; that person who thus has his heart unattached, who derives no happiness from objects; he *vindati*, gets that *sukham*, bliss; *yat*, which is; *ātmani*, in the Self. *Brahma-Yog-yukta-ātmā*, with his heart absorbed in meditation on Brahman—meditation (*Yog*) on Brahman is *brahma-Yog*; one whose

@@ -1,0 +1,1 @@
+[[128](#page--1-0)]Taking into consideration place, time and fitness of the recipient.

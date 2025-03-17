@@ -1,0 +1,11 @@
+- [[46](#page--1-0)] *Both those* (ideas)—that Karma-Yog, too leads to Liberation, and also that it is superior to renunciation of actions.—Tr.
+- [[47](#page--1-1)] The compound *mithyājñāna* is to be split as *mithyā ajñāna*: that which is false and is ignorance.
+- [[48](#page--1-2)] *Yama*: non-cruelty, forgiveness, truthfulness, harmlessness, control of the body and organs, straightforwardness, love, serenity, sweetness and absence of anger; *Niyama*: charity, sacrifice, austerity, meditation, study, celibacy, vows, fasting, silence and bathing.
+- [[49](#page--1-3)] Asṭ. reads *karma-Yog-anusṭhānā* (performance of Karma-Yog) in place of *karma-anusṭhāna* (performance of actions).— Tr.
+- [[50](#page--1-4)] Karma-Yog is better than renunciation of actions that is not based on Knowledge.
+- [[51](#page--1-5)] *A man of constant renunciation*: He is a man of renunciation even before the realization of the actionless Self.
+- [[52](#page--1-6)] Sānkhya, that is monasticism, is that which is suited for *sankhyā*, Self-inquiry.
+- [[53](#page--1-7)] *Sthāna* (State) is used in the derivative sense of 'the place in which one remains established, and from which one does not become relegated'.
+- [[54](#page--1-8)] Karma-Yog leads to enlightenment through the stages of attenuation of attachment, withdrawal of the internal and external organs from their objects, and their inclination towards the indwelling Self. (Also see Commentary on 5.12).
+- [[55](#page--1-9)] i.e. devoted to the performance of the *nitya* and *naimittika* duties.
+- [[56](#page--1-10)] The construction of the sentence is this: When this person resorts to *nitya* and *naimittika* rites and duties as a means to the achievement of full Illumination, and thus becomes fully enlightened, then, even when he acts through the apparent

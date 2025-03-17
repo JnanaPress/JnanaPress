@@ -1,0 +1,11 @@
+And further, *tat*, that; *jñeyam*, Knowable; though *avibhaktam*, undivided, remaining the same in all beings like space; *iva sthitam*, appears to be existing; as *vibhaktam*, divided; *bhūtesu*, in all beings, because It is perceived as existing in the bodies themselves. And just as a rope etc. are with regard to a snake etc. that are falsely imagined, similarly that Knowable is *bhūtabhartr*, the sustainer of all beings, since It sustains all during the period of their existence; *grasisnu*, the devourer, at the time of dissolution; and *prabhavisnu*, the originator, at the time of creation.
+
+Further, if the Knowable is not perceived though existing everywhere, then It is darkness? No! What then?
+
+## योितषामिप तयोिततमस: परमु यते। ानं ेयं ानगयं ह ृ िद सवय िवितम्॥१७॥
+
+17. That is the Light even of the lights; It is spoken of as beyond darkness. It is Knowledge, the Knowable, and the Known. It exists specially [\(103\)](#page--1-0) in the hearts of all.
+
+*Tat*, that Knowable; is the *jyotih*, Light; *api*, even; *jyotisām*, of the lights—of the sun etc. For the lights like the sun etc. shine because they are enkindled by the light of consciousness of the Self, as is known from Upanisadic texts like, 'Illumined by whose light the sun shines' (Tai. Br. 3.12.9.7), 'By Its light all this shines variously' (Śv. 6.14), and from the Smrti also, as here (in the *Gītā*) itself: 'That light in the sun…' (15.12), etc.
+
+It is *ucyate*, spoken of as; *param*, beyond, untouched by; *tamasah*, darkness, ignorance. For cheering up anyone who may become disheartened by thinking that Knowledge etc. is difficult to attain, the Bhagavān says: It is *jñānam*, Knowledge—humility etc. (verse 7, etc.); *jñeyam*, the Knowable, which has been spoken of in, 'I shall speak of that which is to be known' (12); and *jñāna-gamyam*, the Known. The Knowable itself is referred to as *jñāna-gamyam*, when after being known, It becomes the result of Knowledge. But when It is an object to be known, It is called *jñeyam*. All these three which are such, *visṭhitam*, specially exist; *hrdi*, in the hearts, in the

@@ -1,0 +1,7 @@
+- [[19](#page--1-0)] That is, without any activity of the external organs.
+- [[20](#page--1-1)] That is, without any activity of the internal organ.
+- [[21](#page--1-2)] Knowledge, which follows renunciation of all rites and duties, leads to Liberation.
+- [[22](#page--1-3)] All rites and duties prescribed by scriptures or sanctioned by society, as well as those opposed to them, that is, adharma.
+- [[23](#page--1-4)] Consisting of *citta* (mindstuff), *buddhi* (intellect), *manas* (mind), and *ahankāra* (ego).
+- [[24](#page--1-5)] A.A. omits 'having … in view'.—Tr.
+- [[25](#page--1-6)] *Relationship* between Liberation, *karma-nisṭhā* (adherence to rites and duties) and *jñāna-nisṭhā* (steadfastness in Knowledge), the latter two leading to the former. See also note 1 on p. 1.—Tr.

@@ -1,0 +1,11 @@
+then, it is renunciation of actions or Karma-Yog? And the reason for this impossibility should also be stated.
+
+As to this, the answer is: In the case of the knower of the Self, since there has occurred a cessation of false knowledge, Karma-Yog, which is based on erroneous knowledge, will become impossible.
+
+What is being established in various places here in the scripture (*Gītā*), in the various portions dealing with the ascertainment of the real nature of the Self, is this: Having stated that for the knower of the Self, who has realized as his own the Self which is actionless owing to Its being free from all such transformations as birth etc. and from whom false ignorance [\(47\)](#page--1-0) has been eradicated as a result of full enlightenment, there follows renunciation of all actions characterized by abiding in the state of identity with the actionless Self, it is then stated that because of the contradiction between correct knowledge and false ignorance, and their results, Karma-Yog—which is opposed to renunciation of actions which has false ignorance as its basis, which is preceded by the idea of agentship, and which consists in being established in the active-self—is non-existent for him. This being so, it will be logical to say that Karma-Yog, which has erroneous knowledge for its source, is impossible for the knower of the Self who has become freed from false knowledge.
+
+*Objection*: In which places, again, dealing with the ascertainment of the true nature of the Self, has been established the absence of actions for the knower of the Self?
+
+The answer to this is: Beginning the topic with, 'But know That to be indestructible' (2.17), the absence of the actions in the case of the knower of the Self has been stated in various places such as, 'He who thinks of this One as the killer' (2.19), 'he who knows this One as indestructible, eternal' (ibid. 21), etc.
+
+*Objection*: Is it not that in the various places dealing with the ascertainment of the real nature of the Self, Karma-Yog, too, has surely been expounded, as for instance in, 'Therefore, O descendent

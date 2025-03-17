@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CHAPTER 12\nBHAKTI\u2013YOG",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          206.7890625,
+          93.1025390625
+        ],
+        [
+          411.9562683105469,
+          93.1025390625
+        ],
+        [
+          411.9562683105469,
+          178.3740234375
+        ],
+        [
+          206.7890625,
+          178.3740234375
+        ]
+      ]
+    },
+    {
+      "title": "\u090f\u0935\u0902 \u0938\u0924\u0924\u092f\u0941\u0924\u093e \u092f\u0947 \u092d\u0924\u093e\u0935 \u092a\u092f\u0941\n\u092a\u093e\u0938\u0924\u0947\u0964\n\u092f\u0947 \u091a\u093e\u092f\u0930\u092e\u092f\u0924\u0902 \u0924\u0947\u0937 \u0915\u0947 \u092f\u094b\u0917\u093f\u0935\u092e\u093e:\u0965\u0967\u0965",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          124.3125,
+          533.28515625
+        ],
+        [
+          429.5376892089844,
+          533.28515625
+        ],
+        [
+          429.5376892089844,
+          580.45458984375
+        ],
+        [
+          124.3125,
+          580.45458984375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Handwriting",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-372"
+}

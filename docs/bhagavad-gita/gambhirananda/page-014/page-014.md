@@ -1,0 +1,3 @@
+What is the need of other voluminous scriptures?' The *Gītā* is a constituent of the threefold Canon (*Prasthāna-traya) of Hinduism,* the other two being the Upanisads and the *Brahma Sūtras.*
+
+[[8](#page--1-0)] Writers on the *Gītā* refer to an earlier gloss (*vrtti*) by Bodhāyana, but this seems to be lost for ever. Bodhāyana, according to Ā.G., believed that neither Knowledge not action (rites and duties) can by itself bring about Liberation; a combination of both is necessary.

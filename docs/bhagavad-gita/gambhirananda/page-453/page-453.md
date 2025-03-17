@@ -1,0 +1,11 @@
+*gunavrttasthā[h \(147\)](#page--1-0)*, who conform to actions of the lowest quality of *tamas*, those who are attached to its actions—sleep, laziness, etc.—, the foolish; *gacchanti*, go; *adhah*, down, (that is) they are born among cattle etc.
+
+The association, owing to the false ignorance in the form of 'being seated in Nature', that an individual Ātman has with the *gunas* —in the form of happiness, sorrow and delusion, and which are matters of experience in such ways as, 'I am happy,' 'I am sorrowful,' 'I am ignorant,'—that (association) is the cause of the individual Ātman's mundane existence characterized by coming to have births in good and bad species. This was stated briefly in the earlier chapter. Elaborating that here in the text beginning with, 'the qualities, viz. *sattva*, *rajas* and *tamas*, born of Nature' (5), the Bhagavān has said that the nature of the qualities, the conduct conforming to the qualities, and the power to bind that the qualities have through actions conforming to them, and also the course of a person under the bondage of behaviour conforming to the qualities, —all this is false knowledge; it has ignorance as its root and is the cause of bondage.
+
+Now, it is necessary to state that Liberation follows from right knowledge. Hence the Bhagavān says:
+
+## नायं गुणेय: कतरं यदा ानुपयित। गुणेय परं वेि मावं सोऽिधगछित॥१९॥
+
+19. When the witness sees none other than the qualities as the agent, and knows that which is superior [\(148\)](#page--1-1) to the qualities, he attains My nature.
+
+*Yadā*, when; *drasṭā*, the witness, after becoming illumined; *anupaśyati*, sees; *na anyam*, none other; *gunebhyah*, than the qualities that have transformed into the shape of body, organs and objects; *kartāram*, as the agent—(that is) he sees thus that the qualities themselves, in all their modes, are the agents of all activities; *ca*, and; *vetti*, knows; that which, standing as the witness of the activities of the qualities, is *param*, superior; *gunebhyah*, to the

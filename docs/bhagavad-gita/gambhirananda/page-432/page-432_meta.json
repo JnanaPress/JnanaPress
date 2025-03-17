@@ -1,0 +1,80 @@
+{
+  "table_of_contents": [
+    {
+      "title": "How?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          98.09033203125,
+          169.576171875
+        ],
+        [
+          140.61219787597656,
+          169.576171875
+        ],
+        [
+          140.61219787597656,
+          186.591796875
+        ],
+        [
+          98.09033203125,
+          186.591796875
+        ]
+      ]
+    },
+    {
+      "title": "\u0938\u092e\u0902 \u092a\u092f\u093f\u0939 \u0938\u0935 \u0938\u092e\u0935\u093f\u0925\u0924\u092e\u0940\u0930\u092e\u094d\u0964",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          126.5537109375,
+          683.33203125
+        ],
+        [
+          395.2574157714844,
+          683.33203125
+        ],
+        [
+          395.2574157714844,
+          707.30859375
+        ],
+        [
+          126.5537109375,
+          707.30859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/page-432"
+}

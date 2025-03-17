@@ -1,0 +1,11 @@
+which is the knowledge of the field and the knower of the field.
+
+*Ca api*, and; *viddhi*, understand; *mām*, Me, the supreme Bhagavān who is transcendental; to be the *ksetrajñam*, 'Knower of the field' with the characteristics noted above; *sarva-ksetresu*, in all the fields. The idea is this: Know the 'Knower of the field'—who has become diversified by limiting adjuncts in the form of numerous 'fields' ranging from Brahmā to a clump of grass—as free from differentiations resulting from all the limiting adjuncts, and as beyond the range of such words and ideas as existence, non-existence, etc.
+
+O scion of the Bharata dynasty, since there remains nothing to be known apart from the true nature of the field, the knower of the field and Bhagavān, therefore, *tat*, that; is *jñānam*, Knowledge, right knowledge; *yat*, which; is the *jñānam*, knowledge; *ksetraksetrajñayoh*, of the field and the knower of the field—which are the two knowables—, and by which Knowledge the field and the knower of the field are made objects of knowledge. This is *mama*, My, Bhagavān Visnu's; *matam*, opinion.
+
+*Objection*: Well, if it be that in all the fields there exists Bhagavān alone, and none else other than Him, as the enjoyer, then Bhagavān will become a mundane being; or, due to the absence of any mundane creature other than Bhagavān, there will arise the contingency of the negation of mundane existence. And both these are undesirable, since the scriptures dealing with bondage, Liberation and their causes will become useless, and also because they contradict such valid means of knowledge as direct perception.
+
+In the first place, mundane existence which is characterized by happiness, sorrow and their causes is apprehended through direct perception. Besides, from the perception of variety in the world it can be inferred that mundane existence results from virtue and vice. All this becomes illogical if Bhagavān and the individual Ātman be one.
+
+*Reply*: No, because this becomes justifiable owing to the difference between Knowledge and ignorance. 'These two, viz. that which is known as Knowledge and that which is known as ignorance
