@@ -4,43 +4,31 @@ sidebar_position: 1
 
 # Introduction
 
-Reading the texts and wisdom of the Ancient Hindus with their philosophical
-commentaries for a western audience is the mission of JnanaPress. As a
-Hindu-American when I first dove into Sanatana Dharma (Hinduism) I did not know
-where to even start. I largely thought that going to a temple and praying was
-basically it and did not even know the large deeply philosophical body of work
-that exists. Of course my mother would watch and hear these commentaries in
-Telugu, with me scratching my head as I couldn’t translate what was said. It is
-for this audience that this site exists. A way to make Sanatana Dharma’s
-philosophy accessible.
+JnanaPress aims to make the philosophical wisdom of Sanatana Dharma accessible
+to a Western audience, especially second-generation Hindu-Americans like myself.
+Growing up, I thought Hinduism was limited to temple visits and prayers, unaware
+of its vast philosophical heritage. This site bridges that gap, presenting these
+teachings in an approachable way for those unfamiliar with the depth of this
+tradition.
 
-Sanatana Dharma is to me a choose your own adventure with both theistic and
-non-theistic philosophies. It is a religion that has evolved with the history of
-India with reactions and incorporations of ideas. It is a religion that says
-that if another philosophy has a good idea it is totally fine to incorporate
-that idea instead of being dogmatically opposed to it.
+JnanaPress leverages technology, AI, and human collaboration to archive and make
+accessible various texts and commentaries across Hindu traditions. Understanding
+the philosophical context is crucial when reading a translated text, as the
+perspective of the translator can influence interpretation. So we present
+present the same text through the lens of various traditions.
 
-Finally, the Sanatani’s were scientific in their understanding of the nature of
-reality. Many of the scriptures do not say believe this, they say test this
-yourself and find out if it is true or not. As I have been going through my own
-practice I have realized all this weird talk about energies and chakras do have
-a basis and can be experienced.
+Lastly, the goal is a larger one of pulling in various texts in many languages
+to preserve the philosophical wisdom of Sanatana Dharma across traditions and
+paths. In that regard I am looking for help from anyone who is interested in
+helping out with the following goals:
 
-JnanaPress uses technology, AI, and people to help archive documents. Our goal
-of incorporating new documents are as follows:
-
-1. Find out of copyright texts.
-2. Quickly incorporate OCRed document into the site even if it has not been
-   edited. I want to ensure that documents are available to the public as fast as
-   we can make them.
-3. Review original and OCRed documents.
-4. Organize documents into appropriate chapters while cross linking between
-   other similar documents.
-
-The way that the site is updated may seem like a hodgepodge as I will be
-incorporating documents based on my own practice so there may be a bias in terms
-of which documents appear first. But I am hoping others will contribute texts
-they are interested.
+1. Make texts available quickly. We want to get texts available to the public as
+   fast as possible even if it means that the incorporated texts have mistakes.
+   Overtime we will restructure the documents to be better formatted for the
+   website.
+2. Make texts available in multiple languages. We want to make sure that the
+   texts are available in as many languages as possible so that people can
+   access them in their native language.
 
 Thank you
 

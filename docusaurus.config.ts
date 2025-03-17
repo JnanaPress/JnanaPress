@@ -131,7 +131,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} <a href="https://opszero.com">opsZero, LLC.</a>`,
+      copyright: `Edited by Abhi Yerra`,
     },
     prism: {
       theme: prismThemes.github,

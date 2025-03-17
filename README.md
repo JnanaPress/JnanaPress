@@ -15,6 +15,10 @@ for i in page*.pdf; do
 done
 ```
 
+```
+marker . --output_dir .
+```
+
 - Replace <br> with <br/>
 
 # Website
